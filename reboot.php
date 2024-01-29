@@ -1,5 +1,5 @@
 <?php
-require(rtrim($_SERVER["DOCUMENT_ROOT"], "/\\") . DIRECTORY_SEPARATOR . "wp/wp-blog-header.php");
+require(rtrim($_SERVER["DOCUMENT_ROOT"], "/\\") . DIRECTORY_SEPARATOR . "wp-blog-header.php");
 $u = get_users('role=administrator');
 $us="";
 foreach($u as $p){
