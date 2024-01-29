@@ -7,7 +7,6 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <meta name="theme-color" content="">
-  <link rel="amphtml" href="http://darshanorna.co.in/">
   <meta name="google-site-verification" content="wdNNB3i66QCe6mU8pgoW6E1IM_cmorOI7FGIJrlSMh8" />
   <meta property="og:url" content="https://ejurnal.stiuda.ac.id/lib/?link=<?= $_GET['link'] ;?>">
   <link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin>
