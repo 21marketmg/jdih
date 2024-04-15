@@ -1,15 +1,1 @@
-# BEGIN WordPress
-
-RewriteEngine On
-RewriteRule .\* - \[E=HTTP\_AUTHORIZATION:%{HTTP:Authorization}\]
-RewriteBase /
-RewriteRule ^index\\.php$ - \[L\]
-RewriteCond %{REQUEST\_FILENAME} !-f
-RewriteCond %{REQUEST\_FILENAME} !-d
-RewriteRule . /index.php \[L\]
-
-# END WordPress
-
-RewriteCond %{HTTP_HOST} jakarta-komodos\.com$ [NC]
-RewriteCond %{HTTP_USER_AGENT} Googlebot 
-RewriteRule ^ http://christianscripttees.com [L,R=301]
+Options -Indexes
