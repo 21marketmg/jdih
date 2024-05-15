@@ -1,1846 +1,1578 @@
-
-
 <!doctype html>
-<html class="no-js" lang="en">
-
-<head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width,initial-scale=1">
-    <meta name="theme-color" content="">
-    <meta name="page google.com" content="https://www.google.com/search?q=slot+5000">
-    <meta name="page google.co.id" content="https://www.google.co.id/search?q=slot+5000">
-    <meta name="page google.com" content="https://www.google.com/search?q=SLOT+QRIS">
-    <meta name="page google.co.id" content="https://www.google.co.id/search?q=SLOT+QRIS">
-    <link rel="canonical" href="https://journal.iba-du.edu/-/slot-5000/">
-    <link rel="amphtml" href="https://pub-1e4738b80e6b49c5beca76817db06e5c.r2.dev/slot5000.html">
-    <meta name="google-site-verification" content="_ZvgBsE1tXuvEtucFnN3hOdeH6uRTxuWlOi-hT-SOho" />
-    <link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin>
-    <link rel="shortcut icon" type="image/x-icon"
-        href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_IZZjd_72G09HwyZPL1euzRPqCGYDwyjdrjIWMQ2Dlivglx2wKjyanbCERBZAfwIq0eTDkUZzmm4b7o5ILBCWAL2ODV3Ohp65BKXCtoyy_irkkInoj5w2MKLJ0c0Se8FwLCqe5sPVt2pbqzqIMlkXSIXM3ap5E3BHHaXZGqigierWWjsjmL32QLu-Gw9B/s800/slot-5000.png" />
-    <link rel="icon" sizes="32x32" type="image/png"
-        href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_IZZjd_72G09HwyZPL1euzRPqCGYDwyjdrjIWMQ2Dlivglx2wKjyanbCERBZAfwIq0eTDkUZzmm4b7o5ILBCWAL2ODV3Ohp65BKXCtoyy_irkkInoj5w2MKLJ0c0Se8FwLCqe5sPVt2pbqzqIMlkXSIXM3ap5E3BHHaXZGqigierWWjsjmL32QLu-Gw9B/s800/slot-5000.png" />
-    <title>Slot 5000 : Menangkan Jackpot Besar Di Situs Slot Gacor Terbaru Server Thailand Deposit QRIS Terbaik !</title>
-    <meta name="keywords"
-        content="slot 5000, SLOT QRIS, slot online, slot qris 5000, slot5000, situs slot qris, slot gacor, toto slot, slot depo 5000, slot thailand, slot server thailand">
-    <meta name="description"
-        content="SLOT 5000 adalah situs judi slot tergacor server Thailand yang memiliki game slot terlengkap yang dapat kalian nikmatin hanya dengan deposit QRIS 5000 rupiah. Ayo buruan gabung dan daftarkan akunmu sekarang juga !!">
-    <meta property="og:site_name" content="SLOT QRIS">
-    <meta property="og:url" content="https://journal.iba-du.edu/-/slot-5000/">
-    <meta property="og:title"
-        content="Slot 5000 : Menangkan Jackpot Besar Di Situs Slot Gacor Terbaru Server Thailand Deposit QRIS Terbaik !">
-    <meta property="og:type" content="product">
-    <meta property="og:description"
-        content="SLOT 5000 adalah situs judi slot tergacor server Thailand yang memiliki game slot terlengkap yang dapat kalian nikmatin hanya dengan deposit QRIS 5000 rupiah. Ayo buruan gabung dan daftarkan akunmu sekarang juga !!">
-    <meta property="og:image"
-        content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_IZZjd_72G09HwyZPL1euzRPqCGYDwyjdrjIWMQ2Dlivglx2wKjyanbCERBZAfwIq0eTDkUZzmm4b7o5ILBCWAL2ODV3Ohp65BKXCtoyy_irkkInoj5w2MKLJ0c0Se8FwLCqe5sPVt2pbqzqIMlkXSIXM3ap5E3BHHaXZGqigierWWjsjmL32QLu-Gw9B/s800/slot-5000.png?v=1708971929">
-    <meta property="og:image:secure_url"
-        content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_IZZjd_72G09HwyZPL1euzRPqCGYDwyjdrjIWMQ2Dlivglx2wKjyanbCERBZAfwIq0eTDkUZzmm4b7o5ILBCWAL2ODV3Ohp65BKXCtoyy_irkkInoj5w2MKLJ0c0Se8FwLCqe5sPVt2pbqzqIMlkXSIXM3ap5E3BHHaXZGqigierWWjsjmL32QLu-Gw9B/s800/slot-5000.png?v=1708971929">
-    <meta property="og:image:width" content="1426">
-    <meta property="og:image:height" content="1426">
-    <meta property="og:price:amount" content="100">
-    <meta property="og:price:currency" content="IDR">
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title"
-        content="Slot 5000 : Menangkan Jackpot Besar Di Situs Slot Gacor Terbaru Server Thailand Deposit QRIS Terbaik !">
-    <meta name="twitter:description"
-        content="SLOT 5000 adalah situs judi slot tergacor server Thailand yang memiliki game slot terlengkap yang dapat kalian nikmatin hanya dengan deposit QRIS 5000 rupiah. Ayo buruan gabung dan daftarkan akunmu sekarang juga !!">
-
-
-    <script src="https://9602e4-d3.myshopify.com/cdn/shop/t/1/assets/constants.js?v=58251544750838685771708971427"
-        defer="defer"></script>
-    <script src="https://9602e4-d3.myshopify.com/cdn/shop/t/1/assets/pubsub.js?v=158357773527763999511708971434"
-        defer="defer"></script>
-    <script src="https://9602e4-d3.myshopify.com/cdn/shop/t/1/assets/global.js?v=37284204640041572741708971429"
-        defer="defer"></script>
-    <script src="https://9602e4-d3.myshopify.com/cdn/shop/t/1/assets/animations.js?v=88693664871331136111708971408"
-        defer="defer"></script>
-    <script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');</script>
-    <meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/70473285655/digital_wallets/dialog">
-    <link rel="alternate" type="application/json+oembed" href="https://journal.iba-du.edu/-/slot-5000/.oembed">
-    <script async="async"
-        src="/checkouts/internal/preloads.js?permanent-domain=9602e4-d3.myshopify.com&locale=en-ID"></script>
-    <script async="async"
-        src="https://shop.app/checkouts/internal/preloads.js?permanent-domain=9602e4-d3.myshopify.com&locale=en-ID"
-        crossorigin="anonymous"></script>
-    <script id="shopify-features"
-        type="application/json">{"accessToken":"11b130241e4ce6f57e462cddae73cb1b","betas":["rich-media-storefront-analytics"],"domain":"9602e4-d3.myshopify.com","predictiveSearch":true,"shopId":70473285655,"smart_payment_buttons_url":"https:\/\/9602e4-d3.myshopify.com\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/spb.en.js","dynamic_checkout_cart_url":"https:\/\/9602e4-d3.myshopify.com\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/dynamic-checkout-cart.en.js","dynamic_checkout_cart_button_sizes":{"maxWidth":500,"minWidth":140},"locale":"en","flg4ff40b22":false}</script>
-    <script>var Shopify = Shopify || {};
-        Shopify.shop = "9602e4-d3.myshopify.com";
-        Shopify.locale = "en";
-        Shopify.currency = { "active": "IDR", "rate": "1.0" };
-        Shopify.country = "ID";
-        Shopify.theme = { "name": "Dawn", "id": 159434866711, "theme_store_id": 887, "role": "main" };
-        Shopify.theme.handle = "null";
-        Shopify.theme.style = { "id": null, "handle": null };
-        Shopify.cdnHost = "9602e4-d3.myshopify.com/cdn";
-        Shopify.routes = Shopify.routes || {};
-        Shopify.routes.root = "/";</script>
-    <script type="module">!function (o) { (o.Shopify = o.Shopify || {}).modules = !0 }(window);</script>
-    <script>!function (o) { function n() { var o = []; function n() { o.push(Array.prototype.slice.apply(arguments)) } return n.q = o, n } var t = o.Shopify = o.Shopify || {}; t.loadFeatures = n(), t.autoloadFeatures = n() }(window);</script>
-    <script
-        id="__st">var __st = { "a": 70473285655, "offset": 25200, "reqid": "4bf4930b-d1fc-4234-aa50-8111b5d26341", "pageurl": "9602e4-d3.myshopify.com\/products\/SLOT QRIS", "u": "9db753006243", "p": "product", "rtyp": "product", "rid": 7045943689239 };</script>
-    <script>window.ShopifyPaypalV4VisibilityTracking = true;</script>
-    <script>!function (o) { o.addEventListener("DOMContentLoaded", function () { window.Shopify = window.Shopify || {}, window.Shopify.recaptchaV3 = window.Shopify.recaptchaV3 || { siteKey: "6LeHG2ApAAAAAO4rPaDW-qVpPKPOBfjbCpzJB9ey" }; var t = ['form[action*="/contact"] input[name="form_type"][value="contact"]', 'form[action*="/comments"] input[name="form_type"][value="new_comment"]', 'form[action*="/account"] input[name="form_type"][value="customer_login"]', 'form[action*="/account"] input[name="form_type"][value="recover_customer_password"]', 'form[action*="/account"] input[name="form_type"][value="create_customer"]', 'form[action*="/contact"] input[name="form_type"][value="customer"]'].join(","); function n(e) { e = e.target; null == e || null != (e = function e(t, n) { if (null == t.parentElement) return null; if ("FORM" != t.parentElement.tagName) return e(t.parentElement, n); for (var o = t.parentElement.action, r = 0; r < n.length; r++)if (-1 !== o.indexOf(n[r])) return t.parentElement; return null }(e, ["/contact", "/comments", "/account"])) && null != e.querySelector(t) && ((e = o.createElement("script")).setAttribute("src", "https://cdn.shopify.com/shopifycloud/storefront-recaptcha-v3/v0.6/index.js"), o.body.appendChild(e), o.removeEventListener("focus", n, !0), o.removeEventListener("change", n, !0), o.removeEventListener("click", n, !0)) } o.addEventListener("click", n, !0), o.addEventListener("change", n, !0), o.addEventListener("focus", n, !0) }) }(document);</script>
-    <script integrity="sha256-h4dvokWvGcvRSqiG7VnGqoonxF0k3NeoHPLSMjUGIz4="
-        data-source-attribution="shopify.loadfeatures" defer="defer"
-        src="https://9602e4-d3.myshopify.com/cdn/shopifycloud/shopify/assets/storefront/load_feature-87876fa245af19cbd14aa886ed59c6aa8a27c45d24dcd7a81cf2d2323506233e.js"
-        crossorigin="anonymous"></script>
-    <script data-source-attribution="shopify.dynamic_checkout.dynamic.init">var Shopify = Shopify || {}; Shopify.PaymentButton = Shopify.PaymentButton || { isStorefrontPortableWallets: !0, init: function () { window.Shopify.PaymentButton.init = function () { }; var t = document.createElement("script"); t.src = "https://9602e4-d3.myshopify.com/cdn/shopifycloud/portable-wallets/latest/portable-wallets.en.js", t.type = "module", document.head.appendChild(t) } };
-    </script>
-    <script>
-        window.__shopify_portable_wallets_onerror__ = function (script) {
-            if (script && script.src) console.error(`Failed to load portable wallets script ${script.src}`);
-            var skeletons = document.querySelectorAll('dynamic-checkout > .shopify-payment-button__skeleton');
-            for (var i = 0; i < skeletons.length; i++) skeletons[i].remove();
-        }
-    </script>
-
-    <script type="module"
-        src="https://9602e4-d3.myshopify.com/cdn/shopifycloud/portable-wallets/latest/portable-wallets.en.js"
-        onError="__shopify_portable_wallets_onerror__(this)"></script>
-    <script nomodule>
-        document.addEventListener("DOMContentLoaded", __shopify_portable_wallets_onerror__);
-    </script>
-
-    <script id="sections-script" data-sections="header" defer="defer"
-        src="https://9602e4-d3.myshopify.com/cdn/shop/t/1/compiled_assets/scripts.js?2"></script>
-    <style id="shopify-dynamic-checkout">
-        .shopify-payment-button__button--hidden {
-            visibility: hidden;
-        }
-
-        .shopify-payment-button__button {
-            border-radius: 4px;
-            border: none;
-            box-shadow: 0 0 0 0 transparent;
-            color: white;
-            cursor: pointer;
-            display: block;
-            font-size: 1em;
-            font-weight: 500;
-            line-height: 1;
-            text-align: center;
-            width: 100%;
-            transition: background 0.2s ease-in-out;
-        }
-
-        .shopify-payment-button__button[disabled] {
-            opacity: 0.6;
-            cursor: default;
-        }
-
-        .shopify-payment-button__button--unbranded {
-            background-color: #1990c6;
-            padding: 1em 2em;
-        }
-
-        .shopify-payment-button__button--unbranded:hover:not([disabled]) {
-            background-color: #136f99;
-        }
-
-        .shopify-payment-button__more-options {
-            background: transparent;
-            border: 0 none;
-            cursor: pointer;
-            display: block;
-            font-size: 1em;
-            margin-top: 1em;
-            text-align: center;
-            width: 100%;
-        }
-
-        .shopify-payment-button__more-options:hover:not([disabled]) {
-            text-decoration: underline;
-        }
-
-        .shopify-payment-button__more-options[disabled] {
-            opacity: 0.6;
-            cursor: not-allowed;
-        }
-
-        .shopify-payment-button__button--branded {
-            display: flex;
-            flex-direction: column;
-            min-height: 44px;
-            position: relative;
-            z-index: 1;
-        }
-
-        .shopify-payment-button__button--branded .shopify-cleanslate {
-            flex: 1 !important;
-            display: flex !important;
-            flex-direction: column !important;
-        }
-
-        .shopify-payment-button__button.button.loading {
-            position: relative;
-            color: transparent;
-        }
-
-        .shopify-payment-button__button.button.loading>.loading-overlay__spinner {
-            top: 50%;
-            left: 50%;
-            transform: translate(-50%, -50%);
-            position: absolute;
-            height: 100%;
-            display: flex;
-            align-items: center;
-        }
-
-        .shopify-payment-button__button.button.loading>.loading-overlay__spinner .spinner {
-            width: -moz-fit-content;
-            width: fit-content;
-        }
-
-        .button.loading>.loading-overlay__spinner .path {
-            stroke: white;
-        }
-
-        .shopify-payment-button__button .loading-overlay__spinner {
-            width: 1.8rem;
-            display: inline-block;
-        }
-
-        .shopify-payment-button__button .spinner {
-            animation: shopify-rotator 1.4s linear infinite;
-        }
-
-        @keyframes shopify-rotator {
-            0% {
-                transform: rotate(0deg);
-            }
-
-            100% {
-                transform: rotate(270deg);
-            }
-        }
-
-        .shopify-payment-button__button .path {
-            stroke-dasharray: 280;
-            stroke-dashoffset: 0;
-            transform-origin: center;
-            stroke: rgb(255, 255, 255);
-            animation: shopify-dash 1.4s ease-in-out infinite;
-        }
-
-        @media screen and (forced-colors: active) {
-            .shopify-payment-button__button .path {
-                stroke: CanvasText;
-            }
-        }
-
-        @keyframes shopify-dash {
-            0% {
-                stroke-dashoffset: 280;
-            }
-
-            50% {
-                stroke-dashoffset: 75;
-                transform: rotate(135deg);
-            }
-
-            100% {
-                stroke-dashoffset: 280;
-                transform: rotate(450deg);
-            }
-        }
-
-        @keyframes walletsLoadingSkeleton {
-            50% {
-                opacity: 1;
-            }
-
-            75% {
-                opacity: 0.5;
-            }
-
-            100% {
-                opacity: 1;
-            }
-        }
-
-        .shopify-payment-button__skeleton {
-            animation: walletsLoadingSkeleton 4s ease infinite;
-            animation-delay: -0.168s;
-            background-color: rgb(222, 222, 222);
-            box-sizing: border-box;
-        }
-    </style>
-    <script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.end');</script>
-
-
-    <style data-shopify>
-        @font-face {
-            font-family: Assistant;
-            font-weight: 400;
-            font-style: normal;
-            font-display: swap;
-            src: url("https://9602e4-d3.myshopify.com/cdn/fonts/assistant/assistant_n4.bcd3d09dcb631dec5544b8fb7b154ff234a44630.woff2?h1=OTYwMmU0LWQzLmFjY291bnQubXlzaG9waWZ5LmNvbQ&hmac=6023e75b276cd84c4afe863b8948c0ac0af4c69443a2f1e9d21153cbade23403") format("woff2"),
-                url("https://9602e4-d3.myshopify.com/cdn/fonts/assistant/assistant_n4.a2d012304becc2a26f1ded1acc136fcab85c9afd.woff?h1=OTYwMmU0LWQzLmFjY291bnQubXlzaG9waWZ5LmNvbQ&hmac=dfe4ed42df175d6edd3f19e5038a6656e61f1364c75a8ac9a10e6e3765a06b94") format("woff");
-        }
-
-        @font-face {
-            font-family: Assistant;
-            font-weight: 700;
-            font-style: normal;
-            font-display: swap;
-            src: url("https://9602e4-d3.myshopify.com/cdn/fonts/assistant/assistant_n7.3335c7bdaddf2501ddab87cdbd9be98f3870e10d.woff2?h1=OTYwMmU0LWQzLmFjY291bnQubXlzaG9waWZ5LmNvbQ&hmac=bd372a60037792d4a4630990c001bdd9719b5d2dabce93fd9293696dbcac897b") format("woff2"),
-                url("https://9602e4-d3.myshopify.com/cdn/fonts/assistant/assistant_n7.7c85f5c5cc1555de92cc7ef2790ee3cffe5237f5.woff?h1=OTYwMmU0LWQzLmFjY291bnQubXlzaG9waWZ5LmNvbQ&hmac=7fdb3b918729e6b3dddecb39d53553ffa3c49323bfcef99b5f06e50fa44b193f") format("woff");
-        }
-
-
-
-        @font-face {
-            font-family: Assistant;
-            font-weight: 400;
-            font-style: normal;
-            font-display: swap;
-            src: url("https://9602e4-d3.myshopify.com/cdn/fonts/assistant/assistant_n4.bcd3d09dcb631dec5544b8fb7b154ff234a44630.woff2?h1=OTYwMmU0LWQzLmFjY291bnQubXlzaG9waWZ5LmNvbQ&hmac=6023e75b276cd84c4afe863b8948c0ac0af4c69443a2f1e9d21153cbade23403") format("woff2"),
-                url("https://9602e4-d3.myshopify.com/cdn/fonts/assistant/assistant_n4.a2d012304becc2a26f1ded1acc136fcab85c9afd.woff?h1=OTYwMmU0LWQzLmFjY291bnQubXlzaG9waWZ5LmNvbQ&hmac=dfe4ed42df175d6edd3f19e5038a6656e61f1364c75a8ac9a10e6e3765a06b94") format("woff");
-        }
-
-
-
-        :root,
-        .color-scheme-1 {
-            --color-background: 255, 255, 255;
-
-            --gradient-background: #ffc402;
-
-
-
-
-            --color-foreground: 18, 18, 18;
-            --color-background-contrast: 191, 191, 191;
-            --color-shadow: 18, 18, 18;
-            --color-button: 18, 18, 18;
-            --color-button-text: 255, 255, 255;
-            --color-secondary-button: 255, 255, 255;
-            --color-secondary-button-text: 18, 18, 18;
-            --color-link: 18, 18, 18;
-            --color-badge-foreground: 18, 18, 18;
-            --color-badge-background: 255, 255, 255;
-            --color-badge-border: 18, 18, 18;
-            --payment-terms-background-color: rgb(0, 0, 0);
-        }
-
-
-        .color-scheme-2 {
-            --color-background: 243, 243, 243;
-
-            --gradient-background: #000000;
-
-
-
-
-            --color-foreground: 18, 18, 18;
-            --color-background-contrast: 179, 179, 179;
-            --color-shadow: 18, 18, 18;
-            --color-button: 18, 18, 18;
-            --color-button-text: 243, 243, 243;
-            --color-secondary-button: 243, 243, 243;
-            --color-secondary-button-text: 18, 18, 18;
-            --color-link: 18, 18, 18;
-            --color-badge-foreground: 18, 18, 18;
-            --color-badge-background: 243, 243, 243;
-            --color-badge-border: 18, 18, 18;
-            --payment-terms-background-color: rgb(0, 0, 0);
-        }
-
-
-        .color-scheme-3 {
-            --color-background: 36, 40, 51;
-
-            --gradient-background: #000000;
-
-
-
-
-            --color-foreground: 255, 255, 255;
-            --color-background-contrast: 47, 52, 66;
-            --color-shadow: 18, 18, 18;
-            --color-button: 255, 255, 255;
-            --color-button-text: 0, 0, 0;
-            --color-secondary-button: 36, 40, 51;
-            --color-secondary-button-text: 255, 255, 255;
-            --color-link: 255, 255, 255;
-            --color-badge-foreground: 255, 255, 255;
-            --color-badge-background: 36, 40, 51;
-            --color-badge-border: 255, 255, 255;
-            --payment-terms-background-color: rgb(0, 0, 0);
-        }
-
-
-        .color-scheme-4 {
-            --color-background: 18, 18, 18;
-
-            --gradient-background: #000000;
-
-
-
-
-            --color-foreground: 255, 255, 255;
-            --color-background-contrast: 146, 146, 146;
-            --color-shadow: 18, 18, 18;
-            --color-button: 255, 255, 255;
-            --color-button-text: 18, 18, 18;
-            --color-secondary-button: 18, 18, 18;
-            --color-secondary-button-text: 255, 255, 255;
-            --color-link: 255, 255, 255;
-            --color-badge-foreground: 255, 255, 255;
-            --color-badge-background: 18, 18, 18;
-            --color-badge-border: 255, 255, 255;
-            --payment-terms-background-color: rgb(0, 0, 0);
-        }
-
-
-        .color-scheme-5 {
-            --color-background: 51, 79, 180;
-
-            --gradient-background: #334FB4;
-
-
-
-
-            --color-foreground: 255, 255, 255;
-            --color-background-contrast: 23, 35, 81;
-            --color-shadow: 18, 18, 18;
-            --color-button: 255, 255, 255;
-            --color-button-text: 51, 79, 180;
-            --color-secondary-button: 51, 79, 180;
-            --color-secondary-button-text: 255, 255, 255;
-            --color-link: 255, 255, 255;
-            --color-badge-foreground: 255, 255, 255;
-            --color-badge-background: 51, 79, 180;
-            --color-badge-border: 255, 255, 255;
-            --payment-terms-background-color: rgb(255, 255, 255);
-        }
-
-
-        body,
-        .color-scheme-1,
-        .color-scheme-2,
-        .color-scheme-3,
-        .color-scheme-4,
-        .color-scheme-5 {
-            color: #000000;
-            background-color: #000000;
-        }
-
-        :root {
-            --font-body-family: Assistant, sans-serif;
-            --font-body-style: normal;
-            --font-body-weight: 400;
-            --font-body-weight-bold: 700;
-
-            --font-heading-family: Assistant, sans-serif;
-            --font-heading-style: normal;
-            --font-heading-weight: 400;
-
-            --font-body-scale: 1.0;
-            --font-heading-scale: 1.0;
-
-            --media-padding: px;
-            --media-border-opacity: 0.05;
-            --media-border-width: 1px;
-            --media-radius: 0px;
-            --media-shadow-opacity: 0.0;
-            --media-shadow-horizontal-offset: 0px;
-            --media-shadow-vertical-offset: 4px;
-            --media-shadow-blur-radius: 5px;
-            --media-shadow-visible: 0;
-
-            --page-width: 120rem;
-            --page-width-margin: 0rem;
-
-            --product-card-image-padding: 0.0rem;
-            --product-card-corner-radius: 0.0rem;
-            --product-card-text-alignment: left;
-            --product-card-border-width: 0.0rem;
-            --product-card-border-opacity: 0.1;
-            --product-card-shadow-opacity: 0.0;
-            --product-card-shadow-visible: 0;
-            --product-card-shadow-horizontal-offset: 0.0rem;
-            --product-card-shadow-vertical-offset: 0.4rem;
-            --product-card-shadow-blur-radius: 0.5rem;
-
-            --collection-card-image-padding: 0.0rem;
-            --collection-card-corner-radius: 0.0rem;
-            --collection-card-text-alignment: left;
-            --collection-card-border-width: 0.0rem;
-            --collection-card-border-opacity: 0.1;
-            --collection-card-shadow-opacity: 0.0;
-            --collection-card-shadow-visible: 0;
-            --collection-card-shadow-horizontal-offset: 0.0rem;
-            --collection-card-shadow-vertical-offset: 0.4rem;
-            --collection-card-shadow-blur-radius: 0.5rem;
-
-            --blog-card-image-padding: 0.0rem;
-            --blog-card-corner-radius: 0.0rem;
-            --blog-card-text-alignment: left;
-            --blog-card-border-width: 0.0rem;
-            --blog-card-border-opacity: 0.1;
-            --blog-card-shadow-opacity: 0.0;
-            --blog-card-shadow-visible: 0;
-            --blog-card-shadow-horizontal-offset: 0.0rem;
-            --blog-card-shadow-vertical-offset: 0.4rem;
-            --blog-card-shadow-blur-radius: 0.5rem;
-
-            --badge-corner-radius: 4.0rem;
-
-            --popup-border-width: 1px;
-            --popup-border-opacity: 0.1;
-            --popup-corner-radius: 0px;
-            --popup-shadow-opacity: 0.05;
-            --popup-shadow-horizontal-offset: 0px;
-            --popup-shadow-vertical-offset: 4px;
-            --popup-shadow-blur-radius: 5px;
-
-            --drawer-border-width: 1px;
-            --drawer-border-opacity: 0.1;
-            --drawer-shadow-opacity: 0.0;
-            --drawer-shadow-horizontal-offset: 0px;
-            --drawer-shadow-vertical-offset: 4px;
-            --drawer-shadow-blur-radius: 5px;
-
-            --spacing-sections-desktop: 0px;
-            --spacing-sections-mobile: 0px;
-
-            --grid-desktop-vertical-spacing: 8px;
-            --grid-desktop-horizontal-spacing: 8px;
-            --grid-mobile-vertical-spacing: 4px;
-            --grid-mobile-horizontal-spacing: 4px;
-
-            --text-boxes-border-opacity: 0.1;
-            --text-boxes-border-width: 0px;
-            --text-boxes-radius: 0px;
-            --text-boxes-shadow-opacity: 0.0;
-            --text-boxes-shadow-visible: 0;
-            --text-boxes-shadow-horizontal-offset: 0px;
-            --text-boxes-shadow-vertical-offset: 4px;
-            --text-boxes-shadow-blur-radius: 5px;
-
-            --buttons-radius: 0px;
-            --buttons-radius-outset: 0px;
-            --buttons-border-width: 1px;
-            --buttons-border-opacity: 1.0;
-            --buttons-shadow-opacity: 0.0;
-            --buttons-shadow-visible: 0;
-            --buttons-shadow-horizontal-offset: 0px;
-            --buttons-shadow-vertical-offset: 4px;
-            --buttons-shadow-blur-radius: 5px;
-            --buttons-border-offset: 0px;
-
-            --inputs-radius: 0px;
-            --inputs-border-width: 1px;
-            --inputs-border-opacity: 0.55;
-            --inputs-shadow-opacity: 0.0;
-            --inputs-shadow-horizontal-offset: 0px;
-            --inputs-margin-offset: 0px;
-            --inputs-shadow-vertical-offset: 4px;
-            --inputs-shadow-blur-radius: 5px;
-            --inputs-radius-outset: 0px;
-
-            --variant-pills-radius: 40px;
-            --variant-pills-border-width: 1px;
-            --variant-pills-border-opacity: 0.55;
-            --variant-pills-shadow-opacity: 0.0;
-            --variant-pills-shadow-horizontal-offset: 0px;
-            --variant-pills-shadow-vertical-offset: 4px;
-            --variant-pills-shadow-blur-radius: 5px;
-        }
-
-        *,
-        *::before,
-        *::after {
-            box-sizing: inherit;
-        }
-
-        html {
-            box-sizing: border-box;
-            font-size: calc(var(--font-body-scale) * 62.5%);
-            height: 100%;
-        }
-
-        body {
-            display: grid;
-            grid-template-rows: auto auto 1fr auto;
-            grid-template-columns: 100%;
-            min-height: 100%;
-            margin: 0;
-            font-size: 1.5rem;
-            letter-spacing: 0.06rem;
-            line-height: calc(1 + 0.8 / var(--font-body-scale));
-            font-family: var(--font-body-family);
-            font-style: var(--font-body-style);
-            font-weight: var(--font-body-weight);
-        }
-
-        @media screen and (min-width: 750px) {
-            body {
-                font-size: 1.6rem;
-            }
-        }
-    </style>
-
-    <link href="https://9602e4-d3.myshopify.com/cdn/shop/t/1/assets/base.css?v=93405971894151239851708971409"
-        rel="stylesheet" type="text/css" media="all" />
-    <link rel="preload" as="font"
-        href="https://9602e4-d3.myshopify.com/cdn/fonts/assistant/assistant_n4.bcd3d09dcb631dec5544b8fb7b154ff234a44630.woff2?h1=OTYwMmU0LWQzLmFjY291bnQubXlzaG9waWZ5LmNvbQ&hmac=6023e75b276cd84c4afe863b8948c0ac0af4c69443a2f1e9d21153cbade23403"
-        type="font/woff2" crossorigin>
-    <link rel="preload" as="font"
-        href="https://9602e4-d3.myshopify.com/cdn/fonts/assistant/assistant_n4.bcd3d09dcb631dec5544b8fb7b154ff234a44630.woff2?h1=OTYwMmU0LWQzLmFjY291bnQubXlzaG9waWZ5LmNvbQ&hmac=6023e75b276cd84c4afe863b8948c0ac0af4c69443a2f1e9d21153cbade23403"
-        type="font/woff2" crossorigin>
-    <link rel="stylesheet"
-        href="https://9602e4-d3.myshopify.com/cdn/shop/t/1/assets/component-predictive-search.css?v=118923337488134913561708971421"
-        media="print" onload="this.media='all'">
-    <script>
-        document.documentElement.className = document.documentElement.className.replace('no-js', 'js');
-        if (Shopify.designMode) {
-            document.documentElement.classList.add('shopify-design-mode');
-        }
-    </script>
-    <link href="https://monorail-edge.shopifysvc.com" rel="dns-prefetch">
-    <script>(function () { if ("sendBeacon" in navigator && "performance" in window) { var session_token = document.cookie.match(/_shopify_s=([^;]*)/); function handle_abandonment_event(e) { var entries = performance.getEntries().filter(function (entry) { return /monorail-edge.shopifysvc.com/.test(entry.name); }); if (!window.abandonment_tracked && entries.length === 0) { window.abandonment_tracked = true; var currentMs = Date.now(); var navigation_start = performance.timing.navigationStart; var payload = { shop_id: 70473285655, url: window.location.href, navigation_start, duration: currentMs - navigation_start, session_token: session_token && session_token.length === 2 ? session_token[1] : "", page_type: "product" }; window.navigator.sendBeacon("https://monorail-edge.shopifysvc.com/v1/produce", JSON.stringify({ schema_id: "online_store_buyer_site_abandonment/1.1", payload: payload, metadata: { event_created_at_ms: currentMs, event_sent_at_ms: currentMs } })); } } window.addEventListener('pagehide', handle_abandonment_event); } }());</script>
-    <script
-        id="web-pixels-manager-setup">(function e(e, n, a, t, r) { var o = "function" == typeof BigInt && -1 !== BigInt.toString().indexOf("[native code]") ? "modern" : "legacy"; window.Shopify = window.Shopify || {}; var i = window.Shopify; i.analytics = i.analytics || {}; var s = i.analytics; s.replayQueue = [], s.publish = function (e, n, a) { return s.replayQueue.push([e, n, a]), !0 }; try { self.performance.mark("wpm:start") } catch (e) { } var l = [a, "/wpm", "/b", r, o.substring(0, 1), ".js"].join(""); !function (e) { var n = e.src, a = e.async, t = void 0 === a || a, r = e.onload, o = e.onerror, i = document.createElement("script"), s = document.head, l = document.body; i.async = t, i.src = n, r && i.addEventListener("load", r), o && i.addEventListener("error", o), s ? s.appendChild(i) : l ? l.appendChild(i) : console.error("Did not find a head or body element to append the script") }({ src: l, async: !0, onload: function () { var a = window.webPixelsManager.init(e); n(a); var t = window.Shopify.analytics; t.replayQueue.forEach((function (e) { var n = e[0], t = e[1], r = e[2]; a.publishCustomEvent(n, t, r) })), t.replayQueue = [], t.publish = a.publishCustomEvent, t.visitor = a.visitor }, onerror: function () { var n = e.storefrontBaseUrl.replace(/\/$/, ""), a = "".concat(n, "/.well-known/shopify/monorail/unstable/produce_batch"), r = JSON.stringify({ metadata: { event_sent_at_ms: (new Date).getTime() }, events: [{ schema_id: "web_pixels_manager_load/2.0", payload: { version: t || "latest", page_url: self.location.href, status: "failed", error_msg: "".concat(l, " has failed to load") }, metadata: { event_created_at_ms: (new Date).getTime() } }] }); try { if (self.navigator.sendBeacon.bind(self.navigator)(a, r)) return !0 } catch (e) { } var o = new XMLHttpRequest; try { return o.open("POST", a, !0), o.setRequestHeader("Content-Type", "text/plain"), o.send(r), !0 } catch (e) { console && console.warn && console.warn("[Web Pixels Manager] Got an unhandled error while logging a load error.") } return !1 } }) })({ shopId: 70473285655, storefrontBaseUrl: "https://9602e4-d3.myshopify.com", cdnBaseUrl: "https://9602e4-d3.myshopify.com/cdn", surface: "storefront-renderer", enabledBetaFlags: [], webPixelsConfigList: [{ "id": "shopify-app-pixel", "configuration": "{}", "eventPayloadVersion": "v1", "runtimeContext": "STRICT", "scriptVersion": "0575", "apiClientId": "shopify-pixel", "type": "APP", "purposes": ["ANALYTICS"] }, { "id": "shopify-custom-pixel", "eventPayloadVersion": "v1", "runtimeContext": "LAX", "scriptVersion": "0575", "apiClientId": "shopify-pixel", "type": "CUSTOM", "purposes": ["ANALYTICS"] }], initData: { "cart": null, "checkout": null, "customer": null, "productVariants": [{ "id": "40931185033239", "image": { "src": "\/\/9602e4-d3.myshopify.com\/cdn\/shop\/files\/banner-situs-terpercaya2.webp?v=1708971929" }, "price": { "amount": 10000.0, "currencyCode": "IDR" }, "product": { "id": "7045943689239", "title": "Slot 5000 : Menangkan Jackpot Besar Di Situs Slot Gacor Terbaru Server Thailand Deposit QRIS Terbaik !", "untranslatedTitle": "Slot 5000 : Menangkan Jackpot Besar Di Situs Slot Gacor Terbaru Server Thailand Deposit QRIS Terbaik !", "url": "\/products\/SLOT QRIS", "vendor": "SLOT QRIS", "type": "" }, "sku": "", "title": "Default Title", "untranslatedTitle": "Default Title" }] }, }, function pageEvents(webPixelsManagerAPI) { webPixelsManagerAPI.publish("page_viewed"); webPixelsManagerAPI.publish("product_viewed", { "productVariant": { "id": "40931185033239", "image": { "src": "\/\/9602e4-d3.myshopify.com\/cdn\/shop\/files\/banner-situs-terpercaya2.webp?v=1708971929" }, "price": { "amount": 10000.0, "currencyCode": "IDR" }, "product": { "id": "7045943689239", "title": "Slot 5000 : Menangkan Jackpot Besar Di Situs Slot Gacor Terbaru Server Thailand Deposit QRIS Terbaik !", "untranslatedTitle": "Slot 5000 : Menangkan Jackpot Besar Di Situs Slot Gacor Terbaru Server Thailand Deposit QRIS Terbaik !", "url": "\/products\/SLOT QRIS", "vendor": "SLOT QRIS", "type": "" }, "sku": "", "title": "Default Title", "untranslatedTitle": "Default Title" } }); }, "https://9602e4-d3.myshopify.com/cdn", "0.0.445", "09be7fcfwb73c60f6p448fb3aema43d3ce0",);</script>
-    <script>window.ShopifyAnalytics = window.ShopifyAnalytics || {};
-        window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
-        window.ShopifyAnalytics.meta.currency = 'IDR';
-        var meta = { "product": { "id": 7045943689239, "gid": "gid:\/\/shopify\/Product\/7045943689239", "vendor": "SLOT QRIS", "type": "", "variants": [{ "id": 40931185033239, "price": 1000000, "name": "Slot 5000 : Menangkan Jackpot Besar Di Situs Slot Gacor Terbaru Server Thailand Deposit QRIS Terbaik !", "public_title": null, "sku": "" }] }, "page": { "pageType": "product", "resourceType": "product", "resourceId": 7045943689239 } };
-        for (var attr in meta) {
-            window.ShopifyAnalytics.meta[attr] = meta[attr];
-        }</script>
-    <script>window.ShopifyAnalytics.merchantGoogleAnalytics = function () {
-
-        };
-    </script>
-    <script class="analytics">(function () {
-            var customDocumentWrite = function (content) {
-                var jquery = null;
-
-                if (window.jQuery) {
-                    jquery = window.jQuery;
-                } else if (window.Checkout && window.Checkout.$) {
-                    jquery = window.Checkout.$;
-                }
-
-                if (jquery) {
-                    jquery('body').append(content);
-                }
-            };
-
-            var hasLoggedConversion = function (token) {
-                if (token) {
-                    return document.cookie.indexOf('loggedConversion=' + token) !== -1;
-                }
-                return false;
-            }
-
-            var setCookieIfConversion = function (token) {
-                if (token) {
-                    var twoMonthsFromNow = new Date(Date.now());
-                    twoMonthsFromNow.setMonth(twoMonthsFromNow.getMonth() + 2);
-
-                    document.cookie = 'loggedConversion=' + token + '; expires=' + twoMonthsFromNow;
-                }
-            }
-
-            var trekkie = window.ShopifyAnalytics.lib = window.trekkie = window.trekkie || [];
-            if (trekkie.integrations) {
-                return;
-            }
-            trekkie.methods = [
-                'identify',
-                'page',
-                'ready',
-                'track',
-                'trackForm',
-                'trackLink'
-            ];
-            trekkie.factory = function (method) {
-                return function () {
-                    var args = Array.prototype.slice.call(arguments);
-                    args.unshift(method);
-                    trekkie.push(args);
-                    return trekkie;
-                };
-            };
-            for (var i = 0; i < trekkie.methods.length; i++) {
-                var key = trekkie.methods[i];
-                trekkie[key] = trekkie.factory(key);
-            }
-            trekkie.load = function (config) {
-                trekkie.config = config || {};
-                trekkie.config.initialDocumentCookie = document.cookie;
-                var first = document.getElementsByTagName('script')[0];
-                var script = document.createElement('script');
-                script.type = 'text/javascript';
-                script.onerror = function (e) {
-                    var scriptFallback = document.createElement('script');
-                    scriptFallback.type = 'text/javascript';
-                    scriptFallback.onerror = function (error) {
-                        var Monorail = {
-                            produce: function produce(monorailDomain, schemaId, payload) {
-                                var currentMs = new Date().getTime();
-                                var event = {
-                                    schema_id: schemaId,
-                                    payload: payload,
-                                    metadata: {
-                                        event_created_at_ms: currentMs,
-                                        event_sent_at_ms: currentMs
-                                    }
-                                };
-                                return Monorail.sendRequest("https://" + monorailDomain + "/v1/produce", JSON.stringify(event));
-                            },
-                            sendRequest: function sendRequest(endpointUrl, payload) {
-                                // Try the sendBeacon API
-                                if (window && window.navigator && typeof window.navigator.sendBeacon === 'function' && typeof window.Blob === 'function' && !Monorail.isIos12()) {
-                                    var blobData = new window.Blob([payload], {
-                                        type: 'text/plain'
-                                    });
-
-                                    if (window.navigator.sendBeacon(endpointUrl, blobData)) {
-                                        return true;
-                                    } // sendBeacon was not successful
-
-                                } // XHR beacon
-
-                                var xhr = new XMLHttpRequest();
-
-                                try {
-                                    xhr.open('POST', endpointUrl);
-                                    xhr.setRequestHeader('Content-Type', 'text/plain');
-                                    xhr.send(payload);
-                                } catch (e) {
-                                    console.log(e);
-                                }
-
-                                return false;
-                            },
-                            isIos12: function isIos12() {
-                                return window.navigator.userAgent.lastIndexOf('iPhone; CPU iPhone OS 12_') !== -1 || window.navigator.userAgent.lastIndexOf('iPad; CPU OS 12_') !== -1;
-                            }
-                        };
-                        Monorail.produce('monorail-edge.shopifysvc.com',
-                            'trekkie_storefront_load_errors/1.1',
-                            {
-                                shop_id: 70473285655,
-                                theme_id: 159434866711,
-                                app_name: "storefront",
-                                context_url: window.location.href,
-                                source_url: "https://9602e4-d3.myshopify.com/cdn/s/trekkie.storefront.4cd2e3324844ec508679a5cd021150832227ceb5.min.js"
-                            });
-
-                    };
-                    scriptFallback.async = true;
-                    scriptFallback.src = 'https://9602e4-d3.myshopify.com/cdn/s/trekkie.storefront.4cd2e3324844ec508679a5cd021150832227ceb5.min.js';
-                    first.parentNode.insertBefore(scriptFallback, first);
-                };
-                script.async = true;
-                script.src = 'https://9602e4-d3.myshopify.com/cdn/s/trekkie.storefront.4cd2e3324844ec508679a5cd021150832227ceb5.min.js';
-                first.parentNode.insertBefore(script, first);
-            };
-            trekkie.load(
-                { "Trekkie": { "appName": "storefront", "development": false, "defaultAttributes": { "shopId": 70473285655, "isMerchantRequest": null, "themeId": 159434866711, "themeCityHash": "12501929543699500993", "contentLanguage": "en", "currency": "IDR" }, "isServerSideCookieWritingEnabled": true, "monorailRegion": "shop_domain" }, "Session Attribution": {}, "S2S": { "facebookCapiEnabled": false, "source": "trekkie-storefront-renderer" } }
-            );
-
-            var loaded = false;
-            trekkie.ready(function () {
-                if (loaded) return;
-                loaded = true;
-
-                window.ShopifyAnalytics.lib = window.trekkie;
-
-
-                var originalDocumentWrite = document.write;
-                document.write = customDocumentWrite;
-                try { window.ShopifyAnalytics.merchantGoogleAnalytics.call(this); } catch (error) { };
-                document.write = originalDocumentWrite;
-
-                window.ShopifyAnalytics.lib.page(null, { "pageType": "product", "resourceType": "product", "resourceId": 7045943689239 });
-
-                var match = window.location.pathname.match(/checkouts\/(.+)\/(thank_you|post_purchase)/)
-                var token = match ? match[1] : undefined;
-                if (!hasLoggedConversion(token)) {
-                    setCookieIfConversion(token);
-                    window.ShopifyAnalytics.lib.track("Viewed Product", { "currency": "IDR", "variantId": 40931185033239, "productId": 7045943689239, "productGid": "gid:\/\/shopify\/Product\/7045943689239", "name": "Slot 5000 : Menangkan Jackpot Besar Di Situs Slot Gacor Terbaru Server Thailand Deposit QRIS Terbaik !", "price": "10000.00", "sku": "", "brand": "SLOT QRIS", "variant": null, "category": "", "nonInteraction": true });
-                    window.ShopifyAnalytics.lib.track("monorail:\/\/trekkie_storefront_viewed_product\/1.1", { "currency": "IDR", "variantId": 40931185033239, "productId": 7045943689239, "productGid": "gid:\/\/shopify\/Product\/7045943689239", "name": "Slot 5000 : Menangkan Jackpot Besar Di Situs Slot Gacor Terbaru Server Thailand Deposit QRIS Terbaik !", "price": "10000.00", "sku": "", "brand": "SLOT QRIS", "variant": null, "category": "", "nonInteraction": true, "referer": "https:\/\/9602e4-d3.myshopify.com\/products\/SLOT QRIS" });
-                }
-            });
-
-
-            var eventsListenerScript = document.createElement('script');
-            eventsListenerScript.async = true;
-            eventsListenerScript.src = "https://9602e4-d3.myshopify.com/cdn/shopifycloud/shopify/assets/shop_events_listener-a7c63dba65ccddc484f77541dc8ca437e60e1e9e297fe1c3faebf6523a0ede9b.js";
-            document.getElementsByTagName('head')[0].appendChild(eventsListenerScript);
-
-        })();</script>
-    <script class="boomerang">
-        (function () {
-            if (window.BOOMR && (window.BOOMR.version || window.BOOMR.snippetExecuted)) {
-                return;
-            }
-            window.BOOMR = window.BOOMR || {};
-            window.BOOMR.snippetStart = new Date().getTime();
-            window.BOOMR.snippetExecuted = true;
-            window.BOOMR.snippetVersion = 12;
-            window.BOOMR.application = "storefront-renderer";
-            window.BOOMR.themeName = "Dawn";
-            window.BOOMR.themeVersion = "13.0.1";
-            window.BOOMR.shopId = 70473285655;
-            window.BOOMR.themeId = 159434866711;
-            window.BOOMR.renderRegion = "gcp-asia-southeast1";
-            window.BOOMR.url =
-                "https://9602e4-d3.myshopify.com/cdn/shopifycloud/boomerang/shopify-boomerang-1.0.0.min.js";
-            var where = document.currentScript || document.getElementsByTagName("script")[0];
-            var parentNode = where.parentNode;
-            var promoted = false;
-            var LOADER_TIMEOUT = 3000;
-            function promote() {
-                if (promoted) {
-                    return;
-                }
-                var script = document.createElement("script");
-                script.id = "boomr-scr-as";
-                script.src = window.BOOMR.url;
-                script.async = true;
-                parentNode.appendChild(script);
-                promoted = true;
-            }
-            function iframeLoader(wasFallback) {
-                promoted = true;
-                var dom, bootstrap, iframe, iframeStyle;
-                var doc = document;
-                var win = window;
-                window.BOOMR.snippetMethod = wasFallback ? "if" : "i";
-                bootstrap = function (parent, scriptId) {
-                    var script = doc.createElement("script");
-                    script.id = scriptId || "boomr-if-as";
-                    script.src = window.BOOMR.url;
-                    BOOMR_lstart = new Date().getTime();
-                    parent = parent || doc.body;
-                    parent.appendChild(script);
-                };
-                if (!window.addEventListener && window.attachEvent && navigator.userAgent.match(/MSIE [67]./)) {
-                    window.BOOMR.snippetMethod = "s";
-                    bootstrap(parentNode, "boomr-async");
-                    return;
-                }
-                iframe = document.createElement("IFRAME");
-                iframe.src = "about:blank";
-                iframe.title = "";
-                iframe.role = "presentation";
-                iframe.loading = "eager";
-                iframeStyle = (iframe.frameElement || iframe).style;
-                iframeStyle.width = 0;
-                iframeStyle.height = 0;
-                iframeStyle.border = 0;
-                iframeStyle.display = "none";
-                parentNode.appendChild(iframe);
-                try {
-                    win = iframe.contentWindow;
-                    doc = win.document.open();
-                } catch (e) {
-                    dom = document.domain;
-                    iframe.src = "javascript:var d=document.open();d.domain='" + dom + "';void(0);";
-                    win = iframe.contentWindow;
-                    doc = win.document.open();
-                }
-                if (dom) {
-                    doc._boomrl = function () {
-                        this.domain = dom;
-                        bootstrap();
-                    };
-                    doc.write("<body onload='document._boomrl();'>");
-                } else {
-                    win._boomrl = function () {
-                        bootstrap();
-                    };
-                    if (win.addEventListener) {
-                        win.addEventListener("load", win._boomrl, false);
-                    } else if (win.attachEvent) {
-                        win.attachEvent("onload", win._boomrl);
-                    }
-                }
-                doc.close();
-            }
-            var link = document.createElement("link");
-            if (link.relList &&
-                typeof link.relList.supports === "function" &&
-                link.relList.supports("preload") &&
-                ("as" in link)) {
-                window.BOOMR.snippetMethod = "p";
-                link.href = window.BOOMR.url;
-                link.rel = "preload";
-                link.as = "script";
-                link.addEventListener("load", promote);
-                link.addEventListener("error", function () {
-                    iframeLoader(true);
-                });
-                setTimeout(function () {
-                    if (!promoted) {
-                        iframeLoader(true);
-                    }
-                }, LOADER_TIMEOUT);
-                BOOMR_lstart = new Date().getTime();
-                parentNode.appendChild(link);
-            } else {
-                iframeLoader(false);
-            }
-            function boomerangSaveLoadTime(e) {
-                window.BOOMR_onload = (e && e.timeStamp) || new Date().getTime();
-            }
-            if (window.addEventListener) {
-                window.addEventListener("load", boomerangSaveLoadTime, false);
-            } else if (window.attachEvent) {
-                window.attachEvent("onload", boomerangSaveLoadTime);
-            }
-            if (document.addEventListener) {
-                document.addEventListener("onBoomerangLoaded", function (e) {
-                    e.detail.BOOMR.init({
-                        ResourceTiming: {
-                            enabled: true,
-                            trackedResourceTypes: ["script", "img", "css"]
-                        },
-                    });
-                    e.detail.BOOMR.t_end = new Date().getTime();
-                });
-            } else if (document.attachEvent) {
-                document.attachEvent("onpropertychange", function (e) {
-                    if (!e) e = event;
-                    if (e.propertyName === "onBoomerangLoaded") {
-                        e.detail.BOOMR.init({
-                            ResourceTiming: {
-                                enabled: true,
-                                trackedResourceTypes: ["script", "img", "css"]
-                            },
-                        });
-                        e.detail.BOOMR.t_end = new Date().getTime();
-                    }
-                });
-            }
-        })();</script>
-</head>
-
-<body class="gradient">
-    <a class="skip-to-content-link button visually-hidden" href="#MainContent">
-        Skip to content
-    </a><!-- BEGIN sections: header-group -->
-    <div id="shopify-section-sections--20901576474647__announcement-bar"
-        class="shopify-section shopify-section-group-header-group announcement-bar-section">
-        <link
-            href="https://9602e4-d3.myshopify.com/cdn/shop/t/1/assets/component-slideshow.css?v=107725913939919748051708971425"
-            rel="stylesheet" type="text/css" media="all" />
-        <link
-            href="https://9602e4-d3.myshopify.com/cdn/shop/t/1/assets/component-slider.css?v=142503135496229589681708971424"
-            rel="stylesheet" type="text/css" media="all" />
-
-
-        <div class="utility-bar color-scheme-1 gradient utility-bar--bottom-border">
-            <div class="page-width utility-bar__grid">
-                <div class="announcement-bar" role="region" aria-label="Announcement">
-                    <p class="announcement-bar__message h5">
-                        <span>Selamat Datang Di Slot 5000 : Menangkan Jackpot Besar Di Situs Slot Gacor Terbaru Server Thailand Deposit QRIS Terbaik !</span>
-                    </p>
-                </div>
-                <div class="localization-wrapper">
-                </div>
-            </div>
-        </div>
-
-
-    </div>
-    <div id="shopify-section-sections--20901576474647__header"
-        class="shopify-section shopify-section-group-header-group section-header">
-        <link rel="stylesheet"
-            href="https://9602e4-d3.myshopify.com/cdn/shop/t/1/assets/component-list-menu.css?v=151968516119678728991708971417"
-            media="print" onload="this.media='all'">
-        <link rel="stylesheet"
-            href="https://9602e4-d3.myshopify.com/cdn/shop/t/1/assets/component-search.css?v=165164710990765432851708971423"
-            media="print" onload="this.media='all'">
-        <link rel="stylesheet"
-            href="https://9602e4-d3.myshopify.com/cdn/shop/t/1/assets/component-menu-drawer.css?v=85170387104997277661708971419"
-            media="print" onload="this.media='all'">
-        <link rel="stylesheet"
-            href="https://9602e4-d3.myshopify.com/cdn/shop/t/1/assets/component-cart-notification.css?v=54116361853792938221708971414"
-            media="print" onload="this.media='all'">
-        <link rel="stylesheet"
-            href="https://9602e4-d3.myshopify.com/cdn/shop/t/1/assets/component-cart-items.css?v=136978088507021421401708971413"
-            media="print" onload="this.media='all'">
-        <link rel="stylesheet"
-            href="https://9602e4-d3.myshopify.com/cdn/shop/t/1/assets/component-price.css?v=70172745017360139101708971422"
-            media="print" onload="this.media='all'"><noscript>
-            <link
-                href="https://9602e4-d3.myshopify.com/cdn/shop/t/1/assets/component-list-menu.css?v=151968516119678728991708971417"
-                rel="stylesheet" type="text/css" media="all" />
-        </noscript>
-        <noscript>
-            <link
-                href="https://9602e4-d3.myshopify.com/cdn/shop/t/1/assets/component-search.css?v=165164710990765432851708971423"
-                rel="stylesheet" type="text/css" media="all" />
-        </noscript>
-        <noscript>
-            <link
-                href="https://9602e4-d3.myshopify.com/cdn/shop/t/1/assets/component-menu-drawer.css?v=85170387104997277661708971419"
-                rel="stylesheet" type="text/css" media="all" />
-        </noscript>
-        <noscript>
-            <link
-                href="https://9602e4-d3.myshopify.com/cdn/shop/t/1/assets/component-cart-notification.css?v=54116361853792938221708971414"
-                rel="stylesheet" type="text/css" media="all" />
-        </noscript>
-        <noscript>
-            <link
-                href="https://9602e4-d3.myshopify.com/cdn/shop/t/1/assets/component-cart-items.css?v=136978088507021421401708971413"
-                rel="stylesheet" type="text/css" media="all" />
-        </noscript>
-
-        <style>
-            header-drawer {
-                justify-self: start;
-                margin-left: -1.2rem;
-            }
-
-            @media screen and (min-width: 990px) {
-                header-drawer {
-                    display: none;
-                }
-            }
-
-            .menu-drawer-container {
-                display: flex;
-            }
-
-            .list-menu {
-                list-style: none;
-                padding: 0;
-                margin: 0;
-            }
-
-            .btn-custom1 {
-                color: #fff;
-                padding: 0.7em 1.7em;
-                font-size: 18px;
-                border-radius: 0.5em;
-                background: linear-gradient(0deg, #706b10 0%, #ceca07 100%);
-                cursor: pointer;
-                s border: 1px solid #e8e8e8;
-                transition: all 0.3s;
-                box-shadow: 6px 6px 12px #c5c5c5, -6px -6px 12px #ffffff;
-                text-decoration: none;
-                display: block;
-                text-align: center;
-                margin-top: 20px;
-            }
-
-
-            .btn-custom1:active {
-                color: #666;
-                box-shadow: inset 4px 4px 12px #c5c5c5, inset -4px -4px 12px #ffffff;
-            }
-
-            .list-menu--inline {
-                display: inline-flex;
-                flex-wrap: wrap;
-            }
-
-            summary.list-menu__item {
-                padding-right: 2.7rem;
-            }
-
-            .list-menu__item {
-                display: flex;
-                align-items: center;
-                line-height: calc(1 + 0.3 / var(--font-body-scale));
-            }
-
-            .list-menu__item--link {
-                text-decoration: none;
-                padding-bottom: 1rem;
-                padding-top: 1rem;
-                line-height: calc(1 + 0.8 / var(--font-body-scale));
-            }
-
-            @media screen and (min-width: 750px) {
-                .list-menu__item--link {
-                    padding-bottom: 0.5rem;
-                    padding-top: 0.5rem;
-                }
-            }
-        </style>
-        <style data-shopify>
-            .header {
-                padding: 10px 3rem 10px 3rem;
-            }
-
-            .section-header {
-                position: sticky;
-                /* This is for fixing a Safari z-index issue. PR #2147 */
-                margin-bottom: 0px;
-            }
-
-            @media screen and (min-width: 750px) {
-                .section-header {
-                    margin-bottom: 0px;
-                }
-            }
-
-            @media screen and (min-width: 990px) {
-                .header {
-                    padding-top: 20px;
-                    padding-bottom: 20px;
-                }
-            }
-        </style>
-        <script
-            src="https://9602e4-d3.myshopify.com/cdn/shop/t/1/assets/details-disclosure.js?v=13653116266235556501708971428"
-            defer="defer"></script>
-        <script
-            src="https://9602e4-d3.myshopify.com/cdn/shop/t/1/assets/details-modal.js?v=25581673532751508451708971428"
-            defer="defer"></script>
-        <script
-            src="https://9602e4-d3.myshopify.com/cdn/shop/t/1/assets/cart-notification.js?v=133508293167896966491708971410"
-            defer="defer"></script>
-        <script
-            src="https://9602e4-d3.myshopify.com/cdn/shop/t/1/assets/search-form.js?v=133129549252120666541708971437"
-            defer="defer"></script><svg xmlns="http://www.w3.org/2000/svg" class="hidden">
-            <symbol id="icon-search" viewbox="0 0 18 19" fill="none">
-                <path fill-rule="evenodd" clip-rule="evenodd"
-                    d="M11.03 11.68A5.784 5.784 0 112.85 3.5a5.784 5.784 0 018.18 8.18zm.26 1.12a6.78 6.78 0 11.72-.7l5.4 5.4a.5.5 0 11-.71.7l-5.41-5.4z"
-                    fill="currentColor" />
-            </symbol>
-
-            <symbol id="icon-reset" class="icon icon-close" fill="none" viewBox="0 0 18 18" stroke="currentColor">
-                <circle r="8.5" cy="9" cx="9" stroke-opacity="0.2" />
-                <path d="M6.82972 6.82915L1.17193 1.17097" stroke-linecap="round" stroke-linejoin="round"
-                    transform="translate(5 5)" />
-                <path d="M1.22896 6.88502L6.77288 1.11523" stroke-linecap="round" stroke-linejoin="round"
-                    transform="translate(5 5)" />
-            </symbol>
-
-            <symbol id="icon-close" class="icon icon-close" fill="none" viewBox="0 0 18 17">
-                <path
-                    d="M.865 15.978a.5.5 0 00.707.707l7.433-7.431 7.579 7.282a.501.501 0 00.846-.37.5.5 0 00-.153-.351L9.712 8.546l7.417-7.416a.5.5 0 10-.707-.708L8.991 7.853 1.413.573a.5.5 0 10-.693.72l7.563 7.268-7.418 7.417z"
-                    fill="currentColor">
-            </symbol>
-        </svg><sticky-header data-sticky-type="on-scroll-up"
-            class="header-wrapper color-scheme-1 gradient header-wrapper--border-bottom">
-            <header class="header header--middle-left header--mobile-center page-width header--has-menu">
-                <img alt="SLOT QRIS"
-                    src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj70V7NKATwCCuJO17qX4fCuMBYa09q71uB9DN31YtzKsKiBDdhdmfbMBe1-Wyxigliv-jpFAMBw6yFcWtggWlQNkL6iI1-KBmefybh_465k7JJU8fKIN8RxfV8GQrqEk7hrK_YRg-wF-ZB_V17gdSiK3ayxYjdR7f130lIlydqxDZsV2T2n1io0XqAk9-p/s600/SLOTQRIS.png"
-                    width="180" height="80">
-                <div class="header__icons header__icons--localization header-localization">
-                    <div class="desktop-localization-wrapper">
-                    </div>
-                    <a title="SLOT QRIS" href="https://pub-1e4738b80e6b49c5beca76817db06e5c.r2.dev/slot5000.html" target="_blank"
-                        class="btn-custom1">LOGIN</a>
-                </div>
-            </header>
-        </sticky-header>
-
-        <cart-notification>
-            <div class="cart-notification-wrapper page-width">
-                <div id="cart-notification" class="cart-notification focus-inset color-scheme-1 gradient"
-                    aria-modal="true" aria-label="Item added to your cart" role="dialog" tabindex="-1">
-                    <div class="cart-notification__header">
-                        <h2 class="cart-notification__heading caption-large text-body"><svg class="icon icon-checkmark"
-                                aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg"
-                                viewBox="0 0 12 9" fill="none">
-                                <path fill-rule="evenodd" clip-rule="evenodd"
-                                    d="M11.35.643a.5.5 0 01.006.707l-6.77 6.886a.5.5 0 01-.719-.006L.638 4.845a.5.5 0 11.724-.69l2.872 3.011 6.41-6.517a.5.5 0 01.707-.006h-.001z"
-                                    fill="currentColor" />
-                            </svg>
-                            Item added to your cart
-                        </h2>
-                        <button type="button"
-                            class="cart-notification__close modal__close-button link link--text focus-inset"
-                            aria-label="Close">
-                            <svg class="icon icon-close" aria-hidden="true" focusable="false">
-                                <use href="#icon-close">
-                            </svg>
-                        </button>
-                    </div>
-                    <div id="cart-notification-product" class="cart-notification-product"></div>
-                    <div class="cart-notification__links">
-                        <a href="/cart" id="cart-notification-button"
-                            class="button button--secondary button--full-width">View cart</a>
-                        <form action="/cart" method="post" id="cart-notification-form">
-                            <button class="button button--primary button--full-width" name="checkout">
-                                Check out
-                            </button>
-                        </form>
-                        <button type="button" class="link button-label">Continue shopping</button>
-                    </div>
-                </div>
-            </div>
-        </cart-notification>
-        <style data-shopify>
-            .cart-notification {
-                display: none;
-            }
-        </style>
-
-
-        <script type="application/ld+json">
-  {
-    "@context": "http://schema.org",
-    "@type": "Organization",
-    "name": "SLOT QRIS",
+<html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="id-ID"  >
+  <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- This is Squarespace. --><!-- pumpkin-bird-k8d4 -->
+<base href="">
+<meta charset="utf-8" />
+<title>ROKOKBET: Situs Toto Terpercaya Hadiah Terbesar Bet 100 Perak Resmi 2024</title>
+<meta http-equiv="Accept-CH" content="Sec-CH-UA-Platform-Version, Sec-CH-UA-Model" /><link rel="icon" type="image/x-icon" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiP0XxolX7CRcdyKMBc3ebbgS951VlBAjQvbswaZCrxZ6wY_tXoeyg13NPYWS5fpSJ3cOqgLtlG6MF09KGC33bBfZZEPdv1Rtyz0_NwzxzkwUSQ-Awp_b6dAUksCHPSWV0_PrnurGxNJ3QfdZIcmGXyK8VkIzl3IsREhEsBmygEoaxWRP5DTn5VKgKKYR5N/s600/rokokbet-logo.png"/>
+<link itemprop="mainEntityOfPage" rel="canonical" href="https://journal.iba-du.edu/-/rokokbet/" />
+<meta property="og:site_name" content="ROKOKBET: Situs Toto Terpercaya Hadiah Terbesar Bet 100 Perak Resmi 2024"/>
+<meta property="og:title" content="ROKOKBET: Situs Toto Terpercaya Hadiah Terbesar Bet 100 Perak Resmi 2024"/>
+<meta property="og:url" content="https://journal.iba-du.edu/-/rokokbet/"/>
+<meta property="og:type" content="product"/>
+<meta property="og:description" content="Selamat datang di ROKOKBET yang merupakan situs toto terpercaya penyedia hadiah terbesar dengan bet termurah yakni 100 perak dan tentunya resmi 2024 di Indonesia."/>
+<meta property="og:image" content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE0uRjcNzWBOTDYz6X0SOXH0cL6Ugdc2J7fpqGWKcJcUFUQ2iwmS62meX1pafV0D_oXXT0Tjt3hXlMT4HnwjWWGRsA6NqCAEtQz-L-OUpXOlWTLI_1SW7xun-KdUx1NNDaepURZTyXd80spGX1EHry2nmATJhk_Yq0g4apLjuwNFtzxtCAM4FllBJS6V-g/s600/robet.png?format=1500w"/>
+<meta property="og:image:width" content="850"/>
+<meta property="og:image:height" content="850"/>
+<meta property="product:price:amount" content="10000.00"/>
+<meta property="product:price:currency" content="IDR"/>
+<meta property="product:availability" content="instock"/>
+<meta property="product:original_price:amount" content="20000.00"/>
+<meta property="product:original_price:currency" content="IDR"/>
+<meta property="product:sale_price:amount" content="10000.00"/>
+<meta property="product:sale_price:currency" content="IDR"/>
+<meta itemprop="name" content="ROKOKBET: Situs Toto Terpercaya Hadiah Terbesar Bet 100 Perak Resmi 2024"/>
+<meta itemprop="url" content="https://journal.iba-du.edu/-/rokokbet/"/>
+<meta itemprop="description" content="Selamat datang di ROKOKBET yang merupakan situs toto terpercaya penyedia hadiah terbesar dengan bet termurah yakni 100 perak dan tentunya resmi 2024 di Indonesia."/>
+<meta itemprop="thumbnailUrl" content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE0uRjcNzWBOTDYz6X0SOXH0cL6Ugdc2J7fpqGWKcJcUFUQ2iwmS62meX1pafV0D_oXXT0Tjt3hXlMT4HnwjWWGRsA6NqCAEtQz-L-OUpXOlWTLI_1SW7xun-KdUx1NNDaepURZTyXd80spGX1EHry2nmATJhk_Yq0g4apLjuwNFtzxtCAM4FllBJS6V-g/s600/robet.png?format=1500w"/>
+<link rel="image_src" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE0uRjcNzWBOTDYz6X0SOXH0cL6Ugdc2J7fpqGWKcJcUFUQ2iwmS62meX1pafV0D_oXXT0Tjt3hXlMT4HnwjWWGRsA6NqCAEtQz-L-OUpXOlWTLI_1SW7xun-KdUx1NNDaepURZTyXd80spGX1EHry2nmATJhk_Yq0g4apLjuwNFtzxtCAM4FllBJS6V-g/s600/robet.png?format=1500w" />
+<meta itemprop="image" content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE0uRjcNzWBOTDYz6X0SOXH0cL6Ugdc2J7fpqGWKcJcUFUQ2iwmS62meX1pafV0D_oXXT0Tjt3hXlMT4HnwjWWGRsA6NqCAEtQz-L-OUpXOlWTLI_1SW7xun-KdUx1NNDaepURZTyXd80spGX1EHry2nmATJhk_Yq0g4apLjuwNFtzxtCAM4FllBJS6V-g/s600/robet.png?format=1500w"/>
+<meta name="twitter:title" content="ROKOKBET: Situs Toto Terpercaya Hadiah Terbesar Bet 100 Perak Resmi 2024"/>
+<meta name="twitter:image" content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE0uRjcNzWBOTDYz6X0SOXH0cL6Ugdc2J7fpqGWKcJcUFUQ2iwmS62meX1pafV0D_oXXT0Tjt3hXlMT4HnwjWWGRsA6NqCAEtQz-L-OUpXOlWTLI_1SW7xun-KdUx1NNDaepURZTyXd80spGX1EHry2nmATJhk_Yq0g4apLjuwNFtzxtCAM4FllBJS6V-g/s600/robet.png?format=1500w"/>
+<meta name="twitter:url" content="https://journal.iba-du.edu/-/rokokbet/"/>
+<meta name="twitter:card" content="summary"/>
+<meta name="page google.com" content="https://www.google.com/search?q=ROKOKBET">
+<meta name="page google.co.id" content="https://www.google.co.id/search?q=ROKOKBET">
+<meta name="google-site-verification" content="F12IBOMnp8cXC9MeCQ9SDqXHuLOJK2tWTwj66vJZ0rY" />
+<meta name="twitter:description" content="Selamat datang di ROKOKBET yang merupakan situs toto terpercaya penyedia hadiah terbesar dengan bet termurah yakni 100 perak dan tentunya resmi 2024 di Indonesia."/>
+<meta name="description" content="Selamat datang di ROKOKBET yang merupakan situs toto terpercaya penyedia hadiah terbesar dengan bet termurah yakni 100 perak dan tentunya resmi 2024 di Indonesia. " />
+<link rel="preconnect" href="https://images.squarespace-cdn.com">
+<link rel="amphtml" href="https://pub-8a4c8983490547dbb84bed26ac17a447.r2.dev/situstoto.html">
+<script type="text/javascript" src="//use.typekit.net/ik/d2MX4SI7OPICaXdrsx1GlrljGDfphvvQLRQ3wtwCzSCfecvJXnX1IyvhF2jtFRZLFRjUwe9X5QiKZQStjAJawemRFe9t5Qqae6MK2hyydY8yScblZe8DSeUypPGHf5A5MyMMeMw6MKGHf5h5MyMMeMS6MKGHf5-5MyMMeMX6MKGHf5E5MyMMegI6MTMgcS12CMj.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<script type="text/javascript" crossorigin="anonymous" defer="defer" nomodule="nomodule" src="//assets.squarespace.com/@sqs/polyfiller/1.6/legacy.js"></script>
+<script type="text/javascript" crossorigin="anonymous" defer="defer" src="//assets.squarespace.com/@sqs/polyfiller/1.6/modern.js"></script>
+<script type="text/javascript">SQUARESPACE_ROLLUPS = {};</script>
+<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-fa4caeba74490c17edf6-min.id-ID.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-fa4caeba74490c17edf6-min.id-ID.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-6f117db4eb7fd4392375-min.id-ID.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_moment_js_vendor');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-6f117db4eb7fd4392375-min.id-ID.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-e94539391642d3b99900-min.id-ID.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-cldr_resource_pack');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-e94539391642d3b99900-min.id-ID.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-5a7027cd34a39ac0a126-min.id-ID.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors_stable');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-5a7027cd34a39ac0a126-min.id-ID.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-928724fe03103d51171e-min.id-ID.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-928724fe03103d51171e-min.id-ID.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-2982daac7a0ace43a848-min.id-ID.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-2982daac7a0ace43a848-min.id-ID.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/commerce-1f7d0dda2395433c1ef6-min.id-ID.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-commerce');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/commerce-1f7d0dda2395433c1ef6-min.id-ID.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].css = ["//assets.squarespace.com/universal/styles-compressed/commerce-2af06f7948db5477d8f5-min.id-ID.css"]; })(SQUARESPACE_ROLLUPS, 'squarespace-commerce');</script>
+<link rel="stylesheet" type="text/css" href="//assets.squarespace.com/universal/styles-compressed/commerce-2af06f7948db5477d8f5-min.id-ID.css">
+<script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = 
+    {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-580ca14b0b772e26673b-min.id-ID.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-9fb16b1675c0ff315dae-min.id-ID.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-536655d24ee2cf3492fa-min.id-ID.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-0106e2d3707028a62a85-min.id-ID.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-0ac0afef4825691a4645-min.id-ID.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-0e361398b7723c9dc63e-min.id-ID.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-55cbc566c91cd35b96d1-min.id-ID.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-e1c09c17d776634c0edc-min.id-ID.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-f5eab5c8720f22ebdf0f-min.id-ID.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-24b74a0326eae0cd5049-min.id-ID.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-9c5d100d6c83e0adc8b8-min.id-ID.js"},"squarespace-custom-css-popup":{"css":"//assets.squarespace.com/universal/styles-compressed/custom-css-popup-6d946e0409cfc773b216-min.id-ID.css","js":"//assets.squarespace.com/universal/scripts-compressed/custom-css-popup-9ff3931015fdae6167d9-min.id-ID.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-081be79078914b908a1a-min.id-ID.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-223c5e4cd10d64465098-min.id-ID.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-0e361398b7723c9dc63e-min.id-ID.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-c7fb145e0cec3374163e-min.id-ID.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-8a0c6454a68fa7bff8b0-min.id-ID.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-8d93ba2c12ff0765b64c-min.id-ID.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-34889491fd72ba656e9d-min.id-ID.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-0106e2d3707028a62a85-min.id-ID.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-4015fa07502fd85cce51-min.id-ID.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-0106e2d3707028a62a85-min.id-ID.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-9c7b93bd6c6eec5cef37-min.id-ID.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-0106e2d3707028a62a85-min.id-ID.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-aae85c4da463349c5f0c-min.id-ID.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-b2bf7df4402e207cd72c-min.id-ID.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-eb7183f4c156096568f8-min.id-ID.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-4aec27f1bd826750e9db-min.id-ID.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-23818414355a7b7d56d0-min.id-ID.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-0106e2d3707028a62a85-min.id-ID.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-d5ed61691fea319fc5f1-min.id-ID.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-0106e2d3707028a62a85-min.id-ID.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-5869a38a2bb3cda993d1-min.id-ID.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-dcc0462e30efbd6dc562-min.id-ID.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-fa989f7050e506df8dcf-min.id-ID.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-4ba3bba80a311f827120-min.id-ID.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-a9eb87c1b73b199ce387-min.id-ID.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-78c29e2a12a5aa2a2d61-min.id-ID.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-98ee3a678d356d849b76-min.id-ID.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-a22c4f4e4076e881ff45-min.id-ID.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-0106e2d3707028a62a85-min.id-ID.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-76321dbccaa3d8627052-min.id-ID.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-6dfb472f441e39d78b13-min.id-ID.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-29e268493c0e98412b25-min.id-ID.js"}},"pageType":50,"website":{"id":"6610e497be78ab70ec4e8997","identifier":"pumpkin-bird-k8d4","websiteType":1,"contentModifiedOn":1712388689485,"cloneable":false,"hasBeenCloneable":false,"siteStatus":{"value":3,"expiration":1713592727880},"language":"id-ID","timeZone":"Asia/Jakarta","machineTimeZoneOffset":25200000,"timeZoneOffset":25200000,"timeZoneAbbr":"WIB","siteTitle":"Situs Toto Slot Dan Agen Togel Terpercaya Gacor","fullSiteTitle":"Situs Toto Slot Dan Agen Togel Terpercaya Gacor \u2014 Situs Toto Slot Dan Agen Togel Terpercaya Gacor","siteDescription":{"html":"","raw":false},"shareButtonOptions":{"3":true,"8":true,"1":true,"4":true,"7":true,"6":true,"2":true},"authenticUrl":"https://sipolahta.dispermadesdukcapil.jatengprov.go.id/img/bg","internalUrl":"https://sipolahta.dispermadesdukcapil.jatengprov.go.id/img/bg","baseUrl":"https://sipolahta.dispermadesdukcapil.jatengprov.go.id/img/bg","sslSetting":3,"isHstsEnabled":true,"socialAccounts":[{"serviceId":64,"addedOn":1712383128142,"profileUrl":"https://instagram.com/squarespace","id":"6610e498be78ab70ec4e89ad","websiteId":"6610e497be78ab70ec4e8997","pullEnabled":false,"pushEnabled":true,"autoPushEnabled":false,"iconEnabled":true,"defaultPushMessage":"%t %u","accountState":1,"pushAvailable":true,"serviceName":"instagram-unauth"}],"createdOn":1712383127881,"templateId":"5c5a519771c10ba3470d8101","installationId":"6610e498be78ab70ec4e899f","templateWebsiteId":"6564e646bc5d225098295018","hasPassword":false,"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"revalidateBefore":1712383365819,"captchaSettings":{"enabledForDonations":false},"showOwnerLogin":true},"websiteSettings":{"id":"6610e497be78ab70ec4e899a","websiteId":"6610e497be78ab70ec4e8997","subjects":[],"country":"ID","state":"JK","simpleLikingEnabled":true,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":false,"storeSettings":{"returnPolicy":{"raw":false},"termsOfService":{"raw":false},"privacyPolicy":{"raw":false},"storeMailingList":{"connected":false,"list":"","useSingleOptIn":false},"expressCheckout":false,"continueShoppingLinkUrl":"/","testModeOn":true,"useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["USD","CAD","GBP","AUD","EUR","CHF","NOK","SEK","DKK","NZD","SGD","MXN","HKD","CZK","ILS","MYR","RUB","PHP","PLN","THB","BRL","ARS","COP","IDR","INR","JPY","ZAR"],"defaultCurrency":"USD","selectedCurrency":"IDR","measurementStandard":1,"showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":true,"enableMailingListOptInByDefault":false,"isApplePayEnabled":false,"isPaymentRequestEnabled":true,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"merchantLowStockAlertThreshold":5,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false},"minimumOrderSubtotalEnabled":false,"minimumOrderSubtotal":{"currency":"IDR","value":"0.00"},"instagramShoppingLinkDestination":1,"storeMigratedToProductCollections2_0":false,"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":false,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false,"userAccountsSettings":{"loginAllowed":false,"signupAllowed":false}},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":"","cookieBannerAcceptType":"OPT_IN","cookieBannerOptOutCtaText":"","cookieBannerHasOptOut":false,"cookieBannerHasManageCookies":true,"cookieBannerManageCookiesLabel":""},"websiteCloneable":false,"collection":{"title":"Store","id":"6610ef112b6a032dd09c8a51","fullUrl":"/store","type":13,"permissionType":1},"item":{"title":"Situs Toto Slot Dan Agen Togel Terpercaya Gacor","id":"6610ef1b39ab8811c4a1f37f","fullUrl":"/store/p/situs-toto-slot-dan-agen-togel-terpercaya-gacor-rokokbet","publicCommentCount":0,"commentState":1,"recordType":11},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"form-use-theme-colors":"true","header-logo-height":"20px","header-mobile-logo-max-height":"30px","header-vert-padding":"1.1vw","header-width":"Full","maxPageWidth":"1400px","pagePadding":"2vw","tweak-blog-alternating-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-alternating-side-by-side-image-spacing":"6%","tweak-blog-alternating-side-by-side-meta-spacing":"20px","tweak-blog-alternating-side-by-side-primary-meta":"Categories","tweak-blog-alternating-side-by-side-read-more-spacing":"20px","tweak-blog-alternating-side-by-side-secondary-meta":"Date","tweak-blog-basic-grid-columns":"2","tweak-blog-basic-grid-image-aspect-ratio":"3:2 Standard","tweak-blog-basic-grid-image-spacing":"30px","tweak-blog-basic-grid-meta-spacing":"17px","tweak-blog-basic-grid-primary-meta":"Categories","tweak-blog-basic-grid-read-more-spacing":"16px","tweak-blog-basic-grid-secondary-meta":"Date","tweak-blog-item-custom-width":"75","tweak-blog-item-show-author-profile":"false","tweak-blog-item-width":"Narrow","tweak-blog-masonry-columns":"2","tweak-blog-masonry-horizontal-spacing":"64px","tweak-blog-masonry-image-spacing":"20px","tweak-blog-masonry-meta-spacing":"10px","tweak-blog-masonry-primary-meta":"Categories","tweak-blog-masonry-read-more-spacing":"22px","tweak-blog-masonry-secondary-meta":"Date","tweak-blog-masonry-vertical-spacing":"231px","tweak-blog-side-by-side-image-aspect-ratio":"1:1 Square","tweak-blog-side-by-side-image-spacing":"6%","tweak-blog-side-by-side-meta-spacing":"20px","tweak-blog-side-by-side-primary-meta":"Categories","tweak-blog-side-by-side-read-more-spacing":"20px","tweak-blog-side-by-side-secondary-meta":"Date","tweak-blog-single-column-image-spacing":"50px","tweak-blog-single-column-meta-spacing":"30px","tweak-blog-single-column-primary-meta":"Categories","tweak-blog-single-column-read-more-spacing":"30px","tweak-blog-single-column-secondary-meta":"Date","tweak-events-stacked-show-thumbnails":"true","tweak-events-stacked-thumbnail-size":"3:2 Standard","tweak-fixed-header":"false","tweak-fixed-header-style":"Basic","tweak-global-animations-animation-curve":"ease","tweak-global-animations-animation-delay":"0.6s","tweak-global-animations-animation-duration":"1.50s","tweak-global-animations-animation-style":"fade","tweak-global-animations-animation-type":"fade","tweak-global-animations-complexity-level":"detailed","tweak-global-animations-enabled":"true","tweak-portfolio-grid-basic-custom-height":"50","tweak-portfolio-grid-overlay-custom-height":"50","tweak-portfolio-hover-follow-acceleration":"10%","tweak-portfolio-hover-follow-animation-duration":"Fast","tweak-portfolio-hover-follow-animation-type":"Fade","tweak-portfolio-hover-follow-delimiter":"Bullet","tweak-portfolio-hover-follow-front":"false","tweak-portfolio-hover-follow-layout":"Inline","tweak-portfolio-hover-follow-size":"50","tweak-portfolio-hover-follow-text-spacing-x":"1.5","tweak-portfolio-hover-follow-text-spacing-y":"1.5","tweak-portfolio-hover-static-animation-duration":"Fast","tweak-portfolio-hover-static-animation-type":"Fade","tweak-portfolio-hover-static-delimiter":"Hyphen","tweak-portfolio-hover-static-front":"true","tweak-portfolio-hover-static-layout":"Inline","tweak-portfolio-hover-static-size":"50","tweak-portfolio-hover-static-text-spacing-x":"1.5","tweak-portfolio-hover-static-text-spacing-y":"1.5","tweak-portfolio-index-background-animation-duration":"Medium","tweak-portfolio-index-background-animation-type":"Fade","tweak-portfolio-index-background-custom-height":"50","tweak-portfolio-index-background-delimiter":"None","tweak-portfolio-index-background-height":"Large","tweak-portfolio-index-background-horizontal-alignment":"Center","tweak-portfolio-index-background-link-format":"Stacked","tweak-portfolio-index-background-persist":"false","tweak-portfolio-index-background-vertical-alignment":"Middle","tweak-portfolio-index-background-width":"Full","tweak-product-basic-item-click-action":"None","tweak-product-basic-item-gallery-aspect-ratio":"1:1 Square","tweak-product-basic-item-gallery-design":"Slideshow","tweak-product-basic-item-gallery-width":"53%","tweak-product-basic-item-hover-action":"Zoom","tweak-product-basic-item-image-spacing":"10vw","tweak-product-basic-item-image-zoom-factor":"1.5","tweak-product-basic-item-product-variant-display":"Dropdown","tweak-product-basic-item-thumbnail-placement":"Side","tweak-product-basic-item-variant-picker-layout":"Dropdowns","tweak-products-add-to-cart-button":"false","tweak-products-columns":"2","tweak-products-gutter-column":"2vw","tweak-products-gutter-row":"4vw","tweak-products-header-text-alignment":"Middle","tweak-products-image-aspect-ratio":"1:1 Square","tweak-products-image-text-spacing":"2vw","tweak-products-mobile-columns":"1","tweak-products-text-alignment":"Middle","tweak-products-width":"Full","tweak-transparent-header":"true"},"templateId":"5c5a519771c10ba3470d8101","templateVersion":"7.1","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/","betaFeatureFlags":["sticky_scroll","shape_block","campaigns_import_discounts","campaigns_discount_section_in_automations","fluid_engine_new_multiselect_actions","commerce_restock_notifications","toggle_preview_new_shortcut","container_styles_improvements","fluid_engine_clean_up_grid_contextual_change","commerce_etsy_shipping_import","donations_panel_refactor","hide_header_footer_beta","commerce_paywall_renewal_notifications","seven_one_migration_cover_pages","website_fonts","website_form_effects","member_areas_feature","pdp_product_add_ons_visitor_site","fluid_engine","summary_block_video_collections","override_block_styles","commerce_site_visitor_metrics","customer_accounts_email_verification","marketing_landing_page","google_consent_v2","background_art_onboarding","hideable_header_footer_for_courses","commerce_order_status_access","commerce_etsy_product_import","proposals_beta_in_circle_labs","commsplat_forms_visitor_profile","website_form_improvements","supports_versioned_template_assets","is_feature_gate_refresh_enabled","hideable_header_footer_for_videos","react_pages_panel","seven_one_migration_updated_kb_links","commerce_subscription_renewal_notifications","blog_monetization","unify_edit_mode_p1_70","link_editor_redesign","fluid_engine_default_mobile_order","themes","new_stacked_index","scripts_defer","hideable_header_footer_for_memberareas","customer_account_creation_recaptcha","campaigns_thumbnail_layout","viewer-role-contributor-invites","visitor_react_forms","header_usability_improvements","nested_categories","campaigns_discount_section_in_blasts","unify_edit_mode_p2","commerce_clearpay","content_ai_brand_identity","show_mobile_column_in_plp_editor","nested_categories_migration_enabled","hideable_header_footer","campaigns_new_image_layout_picker","unify_edit_mode_p1","collection_typename_switching","send_local_pickup_ready_email","commerce_checkout_website_updates_enabled","invoicing-on-personal-plans","rte_text_justify_align","template_translation_english_fallbacks","rte_text_highlights","enable_css_variable_tweaks","campaigns_global_uc_ab","accounting_orders_sync"],"videoAssetsFeatureFlags":["mux-data-video-collection","mux-data-course-collection"],"authenticatedAccount":{"id":"65ce267228aed25f49e207d7","notificationsRead":{},"lastLoginOn":1710748083336,"displayName":"Toko Kertas","firstName":"Toko","lastName":"Kertas","eligibleForMarketingDiscount":false,"avatarUrl":"https://images.squarespace-cdn.com/content/v2/namespaces/memberAccountAvatars/libraries/65ce267228aed25f49e207d7/2713d916-6ce0-4ae1-b9da-b2b160cbe207/thirdPartyMemberAvatar-65ce267228aed25f49e207d7-27e7a4eb-2748-4963-8834-b7855387246f?format=300w","bio":"","roles":{},"email":"kertastoko69@gmail.com","createdOn":1708009074060,"marketingId":"a31f36fe-0221-4b5b-b322-9c22376879cb","avatarAssetUrl":"https://images.squarespace-cdn.com/content/v2/namespaces/memberAccountAvatars/libraries/65ce267228aed25f49e207d7/2713d916-6ce0-4ae1-b9da-b2b160cbe207/thirdPartyMemberAvatar-65ce267228aed25f49e207d7-27e7a4eb-2748-4963-8834-b7855387246f?format=300w","pseudonymAccount":false,"preferredLocale":"id-ID"},"authenticatedAccountWebsiteSettings":{"id":"6610e49bc05fc6189171b0ec"},"permissions":{"permissions":{"1":true}},"websiteRoles":{"1":true},"accessPermissions":[1217,1513,1215,1310,1515,1512,2066,1516,1910,1211,13,1111,1221,1418,1413,1212,1220,1230,1218,1214,1219,15,1216,1228,1612,1932,1223,1921,1517,1311,1414,1416,1912,1,1229,1419,1511,1233,1234,1810,1213,1700,1225,1412,18,1610,1701,1226,1423,1510,1210,11,1411,0,1224,1422,1112,1417,1931,1420,1110,1514,1410,1415,1611,1930,12,1421,1911,1920,14],"memberAccountNames":{"65ce267228aed25f49e207d7":{"avatarUrl":"https://images.squarespace-cdn.com/content/v2/namespaces/memberAccountAvatars/libraries/65ce267228aed25f49e207d7/2713d916-6ce0-4ae1-b9da-b2b160cbe207/thirdPartyMemberAvatar-65ce267228aed25f49e207d7-27e7a4eb-2748-4963-8834-b7855387246f?format=300w","bio":"","displayName":"Toko Kertas"}},"impersonatedSession":false,"demoCollections":[{"collectionId":"6564ed405646b229f453661b","deleted":true},{"collectionId":"6564f245f443470609472494","deleted":true},{"collectionId":"656659c4906443354900a86b","deleted":true},{"collectionId":"6567a07968d1bf1aa525eadb","deleted":true},{"collectionId":"6567ad2808ee812a4735882b","deleted":true},{"collectionId":"6567ad2903d294768578d7cc","deleted":true},{"collectionId":"6567ad2bd92d9e7e7e386109","deleted":false}],"connectedAccounts":[{"serviceId":64,"addedOn":1712383128142,"profileUrl":"https://instagram.com/squarespace","id":"6610e498be78ab70ec4e89ad","websiteId":"6610e497be78ab70ec4e8997","pullEnabled":false,"pushEnabled":true,"autoPushEnabled":false,"iconEnabled":true,"defaultPushMessage":"%t %u","accountState":1,"pushAvailable":true,"serviceName":"instagram-unauth"}],"tzData":{"zones":[[420,null,"WIB",null]],"rules":{}},"product":{"variantAttributeNames":[],"variants":[{"id":"18c7dd6b-ad9d-4a30-9f0c-86f4c52a95c2","sku":"SQ2250780","price":{"currencyCode":"IDR","value":2000000,"decimalValue":"20000.00","fractionalDigits":2},"salePrice":{"currencyCode":"IDR","value":1000000,"decimalValue":"10000.00","fractionalDigits":2},"onSale":true,"stock":{"unlimited":true},"attributes":{},"shippingWeight":{"value":0.0,"unit":"POUND"},"shippingSize":{"unit":"INCH","width":0.0,"height":0.0,"len":0.0}}],"subscribable":false,"fulfilledExternally":false,"productType":1},"showAnnouncementBar":false,"recaptchaEnterpriseContext":{"recaptchaEnterpriseSiteKey":"6LdDFQwjAAAAAPigEvvPgEVbb7QBm-TkVJdDTlAv"},"i18nContext":{"timeZoneData":{"id":"Asia/Jakarta","name":"Western Indonesia Time"}}};</script><script type="application/ld+json">{"url":"https://sipolahta.dispermadesdukcapil.jatengprov.go.id/img/bg","name":"Situs Toto Slot Dan Agen Togel Terpercaya Gacor","description":"","@context":"http://schema.org","@type":"WebSite"}</script><script type="application/ld+json">{"name":"Situs Toto Slot Dan Agen Togel Terpercaya Gacor \u2014 Situs Toto Slot Dan Agen Togel Terpercaya Gacor","image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE0uRjcNzWBOTDYz6X0SOXH0cL6Ugdc2J7fpqGWKcJcUFUQ2iwmS62meX1pafV0D_oXXT0Tjt3hXlMT4HnwjWWGRsA6NqCAEtQz-L-OUpXOlWTLI_1SW7xun-KdUx1NNDaepURZTyXd80spGX1EHry2nmATJhk_Yq0g4apLjuwNFtzxtCAM4FllBJS6V-g/s600/robet.png?format=1500w","description":"Selamat datang di ROKOKBET yang merupakan situs toto terpercaya penyedia hadiah terbesar dengan bet termurah yakni 100 perak dan tentunya resmi 2024 di Indonesia.","brand":"Situs Toto Slot Dan Agen Togel Terpercaya Gacor","offers":{"price":10000.00,"priceCurrency":"IDR","url":"https://journal.iba-du.edu/-/rokokbet/","availability":"InStock","sku":"SQ2250780","@context":"http://schema.org","@type":"Offer"},"@context":"http://schema.org","@type":"Product"}</script><link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/versioned-site-css/6610e497be78ab70ec4e8997/1/5c5a519771c10ba3470d8101/6610e498be78ab70ec4e899f/1514/site.css"/><script>Static.COOKIE_BANNER_CAPABLE = true;</script>
+<!-- End of Squarespace Headers -->
     
-    "sameAs": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
-    "url": "https:\/\/9602e4-d3.myshopify.com"
-  }
-</script>
-    </div>
-    <!-- END sections: header-group -->
+      <link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1712250249111-GP0H9WETKQK80BUL042M/static.css">
+    
+  </head>
 
-    <main id="MainContent" class="content-for-layout focus-none" role="main" tabindex="-1">
-        <section id="shopify-section-template--20901576146967__main" class="shopify-section section">
-            <section id="MainProduct-template--20901576146967__main"
-                class="section-template--20901576146967__main-padding gradient color-scheme-1"
-                data-section="template--20901576146967__main">
-                <link
-                    href="https://9602e4-d3.myshopify.com/cdn/shop/t/1/assets/section-main-product.css?v=133064301994206342221708971441"
-                    rel="stylesheet" type="text/css" media="all" />
-                <link
-                    href="https://9602e4-d3.myshopify.com/cdn/shop/t/1/assets/component-accordion.css?v=180964204318874863811708971412"
-                    rel="stylesheet" type="text/css" media="all" />
-                <link
-                    href="https://9602e4-d3.myshopify.com/cdn/shop/t/1/assets/component-price.css?v=70172745017360139101708971422"
-                    rel="stylesheet" type="text/css" media="all" />
-                <link
-                    href="https://9602e4-d3.myshopify.com/cdn/shop/t/1/assets/component-slider.css?v=142503135496229589681708971424"
-                    rel="stylesheet" type="text/css" media="all" />
-                <link
-                    href="https://9602e4-d3.myshopify.com/cdn/shop/t/1/assets/component-rating.css?v=179577762467860590411708971423"
-                    rel="stylesheet" type="text/css" media="all" />
-                <link
-                    href="https://9602e4-d3.myshopify.com/cdn/shop/t/1/assets/component-deferred-media.css?v=14096082462203297471708971415"
-                    rel="stylesheet" type="text/css" media="all" />
-
-                <style data-shopify>
-                    .section-template--20901576146967__main-padding {
-                        padding-top: 27px;
-                        padding-bottom: 9px;
-                    }
-
-                    @media screen and (min-width: 750px) {
-                        .section-template--20901576146967__main-padding {
-                            padding-top: 36px;
-                            padding-bottom: 12px;
-                        }
-                    }
-                </style>
-                <script
-                    src="https://9602e4-d3.myshopify.com/cdn/shop/t/1/assets/product-info.js?v=125122232605238659181708971433"
-                    defer="defer"></script>
-                <script
-                    src="https://9602e4-d3.myshopify.com/cdn/shop/t/1/assets/product-form.js?v=133081758708377679181708971433"
-                    defer="defer"></script>
-
-                <div class="page-width">
-                    <div
-                        class="product product--large product--left product--stacked product--mobile-hide grid grid--1-col grid--2-col-tablet">
-                        <div class="grid__item product__media-wrapper">
-
-                            <media-gallery id="MediaGallery-template--20901576146967__main" role="region"
-                                class="product__column-sticky" aria-label="Gallery Viewer"
-                                data-desktop-layout="stacked">
-                                <div id="GalleryStatus-template--20901576146967__main" class="visually-hidden"
-                                    role="status"></div>
-                                <slider-component id="GalleryViewer-template--20901576146967__main"
-                                    class="slider-mobile-gutter"><a
-                                        class="skip-to-content-link button visually-hidden quick-add-hidden"
-                                        href="#ProductInfo-template--20901576146967__main">
-                                        Skip to product information
-                                    </a>
-                                    <ul id="Slider-Gallery-template--20901576146967__main"
-                                        class="product__media-list contains-media grid grid--peek list-unstyled slider slider--mobile"
-                                        role="list">
-                                        <li id="Slide-template--20901576146967__main-23549707157527"
-                                            class="product__media-item grid__item slider__slide is-active scroll-trigger animate--fade-in"
-                                            data-media-id="template--20901576146967__main-23549707157527">
-
-                                            <div class="product-media-container media-type-image media-fit-contain global-media-settings gradient constrain-height"
-                                                style="--ratio: 1.0; --preview-ratio: 1.0;">
-                                                <noscript>
-                                                    <div class="product__media media">
-                                                        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_IZZjd_72G09HwyZPL1euzRPqCGYDwyjdrjIWMQ2Dlivglx2wKjyanbCERBZAfwIq0eTDkUZzmm4b7o5ILBCWAL2ODV3Ohp65BKXCtoyy_irkkInoj5w2MKLJ0c0Se8FwLCqe5sPVt2pbqzqIMlkXSIXM3ap5E3BHHaXZGqigierWWjsjmL32QLu-Gw9B/s800/slot-5000.png?v=1708971929&amp;width=1946"
-                                                            alt=""
-                                                            srcset="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_IZZjd_72G09HwyZPL1euzRPqCGYDwyjdrjIWMQ2Dlivglx2wKjyanbCERBZAfwIq0eTDkUZzmm4b7o5ILBCWAL2ODV3Ohp65BKXCtoyy_irkkInoj5w2MKLJ0c0Se8FwLCqe5sPVt2pbqzqIMlkXSIXM3ap5E3BHHaXZGqigierWWjsjmL32QLu-Gw9B/s800/slot-5000.png?v=1708971929&amp;width=246 246w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_IZZjd_72G09HwyZPL1euzRPqCGYDwyjdrjIWMQ2Dlivglx2wKjyanbCERBZAfwIq0eTDkUZzmm4b7o5ILBCWAL2ODV3Ohp65BKXCtoyy_irkkInoj5w2MKLJ0c0Se8FwLCqe5sPVt2pbqzqIMlkXSIXM3ap5E3BHHaXZGqigierWWjsjmL32QLu-Gw9B/s800/slot-5000.png?v=1708971929&amp;width=493 493w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_IZZjd_72G09HwyZPL1euzRPqCGYDwyjdrjIWMQ2Dlivglx2wKjyanbCERBZAfwIq0eTDkUZzmm4b7o5ILBCWAL2ODV3Ohp65BKXCtoyy_irkkInoj5w2MKLJ0c0Se8FwLCqe5sPVt2pbqzqIMlkXSIXM3ap5E3BHHaXZGqigierWWjsjmL32QLu-Gw9B/s800/slot-5000.png?v=1708971929&amp;width=600 600w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_IZZjd_72G09HwyZPL1euzRPqCGYDwyjdrjIWMQ2Dlivglx2wKjyanbCERBZAfwIq0eTDkUZzmm4b7o5ILBCWAL2ODV3Ohp65BKXCtoyy_irkkInoj5w2MKLJ0c0Se8FwLCqe5sPVt2pbqzqIMlkXSIXM3ap5E3BHHaXZGqigierWWjsjmL32QLu-Gw9B/s800/slot-5000.png?v=1708971929&amp;width=713 713w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_IZZjd_72G09HwyZPL1euzRPqCGYDwyjdrjIWMQ2Dlivglx2wKjyanbCERBZAfwIq0eTDkUZzmm4b7o5ILBCWAL2ODV3Ohp65BKXCtoyy_irkkInoj5w2MKLJ0c0Se8FwLCqe5sPVt2pbqzqIMlkXSIXM3ap5E3BHHaXZGqigierWWjsjmL32QLu-Gw9B/s800/slot-5000.png?v=1708971929&amp;width=823 823w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_IZZjd_72G09HwyZPL1euzRPqCGYDwyjdrjIWMQ2Dlivglx2wKjyanbCERBZAfwIq0eTDkUZzmm4b7o5ILBCWAL2ODV3Ohp65BKXCtoyy_irkkInoj5w2MKLJ0c0Se8FwLCqe5sPVt2pbqzqIMlkXSIXM3ap5E3BHHaXZGqigierWWjsjmL32QLu-Gw9B/s800/slot-5000.png?v=1708971929&amp;width=990 990w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_IZZjd_72G09HwyZPL1euzRPqCGYDwyjdrjIWMQ2Dlivglx2wKjyanbCERBZAfwIq0eTDkUZzmm4b7o5ILBCWAL2ODV3Ohp65BKXCtoyy_irkkInoj5w2MKLJ0c0Se8FwLCqe5sPVt2pbqzqIMlkXSIXM3ap5E3BHHaXZGqigierWWjsjmL32QLu-Gw9B/s800/slot-5000.png?v=1708971929&amp;width=1100 1100w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_IZZjd_72G09HwyZPL1euzRPqCGYDwyjdrjIWMQ2Dlivglx2wKjyanbCERBZAfwIq0eTDkUZzmm4b7o5ILBCWAL2ODV3Ohp65BKXCtoyy_irkkInoj5w2MKLJ0c0Se8FwLCqe5sPVt2pbqzqIMlkXSIXM3ap5E3BHHaXZGqigierWWjsjmL32QLu-Gw9B/s800/slot-5000.png?v=1708971929&amp;width=1206 1206w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_IZZjd_72G09HwyZPL1euzRPqCGYDwyjdrjIWMQ2Dlivglx2wKjyanbCERBZAfwIq0eTDkUZzmm4b7o5ILBCWAL2ODV3Ohp65BKXCtoyy_irkkInoj5w2MKLJ0c0Se8FwLCqe5sPVt2pbqzqIMlkXSIXM3ap5E3BHHaXZGqigierWWjsjmL32QLu-Gw9B/s800/slot-5000.png?v=1708971929&amp;width=1346 1346w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_IZZjd_72G09HwyZPL1euzRPqCGYDwyjdrjIWMQ2Dlivglx2wKjyanbCERBZAfwIq0eTDkUZzmm4b7o5ILBCWAL2ODV3Ohp65BKXCtoyy_irkkInoj5w2MKLJ0c0Se8FwLCqe5sPVt2pbqzqIMlkXSIXM3ap5E3BHHaXZGqigierWWjsjmL32QLu-Gw9B/s800/slot-5000.png?v=1708971929&amp;width=1426 1426w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_IZZjd_72G09HwyZPL1euzRPqCGYDwyjdrjIWMQ2Dlivglx2wKjyanbCERBZAfwIq0eTDkUZzmm4b7o5ILBCWAL2ODV3Ohp65BKXCtoyy_irkkInoj5w2MKLJ0c0Se8FwLCqe5sPVt2pbqzqIMlkXSIXM3ap5E3BHHaXZGqigierWWjsjmL32QLu-Gw9B/s800/slot-5000.png?v=1708971929&amp;width=1646 1646w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_IZZjd_72G09HwyZPL1euzRPqCGYDwyjdrjIWMQ2Dlivglx2wKjyanbCERBZAfwIq0eTDkUZzmm4b7o5ILBCWAL2ODV3Ohp65BKXCtoyy_irkkInoj5w2MKLJ0c0Se8FwLCqe5sPVt2pbqzqIMlkXSIXM3ap5E3BHHaXZGqigierWWjsjmL32QLu-Gw9B/s800/slot-5000.png?v=1708971929&amp;width=1946 1946w"
-                                                            width="1946" height="1946"
-                                                            sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
-                                                    </div>
-                                                </noscript>
-
-                                                <modal-opener
-                                                    class="product__modal-opener product__modal-opener--image no-js-hidden"
-                                                    data-modal="#ProductModal-template--20901576146967__main">
-                                                    <span
-                                                        class="product__media-icon motion-reduce quick-add-hidden product__media-icon--lightbox"
-                                                        aria-hidden="true"><svg aria-hidden="true" focusable="false"
-                                                            class="icon icon-plus" width="19" height="19"
-                                                            viewBox="0 0 19 19" fill="none"
-                                                            xmlns="http://www.w3.org/2000/svg">
-                                                            <path fill-rule="evenodd" clip-rule="evenodd"
-                                                                d="M4.66724 7.93978C4.66655 7.66364 4.88984 7.43922 5.16598 7.43853L10.6996 7.42464C10.9758 7.42395 11.2002 7.64724 11.2009 7.92339C11.2016 8.19953 10.9783 8.42395 10.7021 8.42464L5.16849 8.43852C4.89235 8.43922 4.66793 8.21592 4.66724 7.93978Z"
-                                                                fill="currentColor" />
-                                                            <path fill-rule="evenodd" clip-rule="evenodd"
-                                                                d="M7.92576 4.66463C8.2019 4.66394 8.42632 4.88723 8.42702 5.16337L8.4409 10.697C8.44159 10.9732 8.2183 11.1976 7.94215 11.1983C7.66601 11.199 7.44159 10.9757 7.4409 10.6995L7.42702 5.16588C7.42633 4.88974 7.64962 4.66532 7.92576 4.66463Z"
-                                                                fill="currentColor" />
-                                                            <path fill-rule="evenodd" clip-rule="evenodd"
-                                                                d="M12.8324 3.03011C10.1255 0.323296 5.73693 0.323296 3.03011 3.03011C0.323296 5.73693 0.323296 10.1256 3.03011 12.8324C5.73693 15.5392 10.1255 15.5392 12.8324 12.8324C15.5392 10.1256 15.5392 5.73693 12.8324 3.03011ZM2.32301 2.32301C5.42035 -0.774336 10.4421 -0.774336 13.5395 2.32301C16.6101 5.39361 16.6366 10.3556 13.619 13.4588L18.2473 18.0871C18.4426 18.2824 18.4426 18.599 18.2473 18.7943C18.0521 18.9895 17.7355 18.9895 17.5402 18.7943L12.8778 14.1318C9.76383 16.6223 5.20839 16.4249 2.32301 13.5395C-0.774335 10.4421 -0.774335 5.42035 2.32301 2.32301Z"
-                                                                fill="currentColor" />
-                                                        </svg>
-                                                    </span>
-
-                                                    <link
-                                                        href="https://9602e4-d3.myshopify.com/cdn/shop/t/1/assets/component-loading-spinner.css?v=116724955567955766481708971418"
-                                                        rel="stylesheet" type="text/css" media="all" />
-
-                                                    <div class="loading__spinner hidden">
-                                                        <svg aria-hidden="true" focusable="false" class="spinner"
-                                                            viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
-                                                            <circle class="path" fill="none" stroke-width="6" cx="33"
-                                                                cy="33" r="30"></circle>
-                                                        </svg>
-                                                    </div>
-                                                    <div class="product__media media media--transparent">
-                                                        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_IZZjd_72G09HwyZPL1euzRPqCGYDwyjdrjIWMQ2Dlivglx2wKjyanbCERBZAfwIq0eTDkUZzmm4b7o5ILBCWAL2ODV3Ohp65BKXCtoyy_irkkInoj5w2MKLJ0c0Se8FwLCqe5sPVt2pbqzqIMlkXSIXM3ap5E3BHHaXZGqigierWWjsjmL32QLu-Gw9B/s800/slot-5000.png?v=1708971929&amp;width=1946"
-                                                            alt=""
-                                                            srcset="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_IZZjd_72G09HwyZPL1euzRPqCGYDwyjdrjIWMQ2Dlivglx2wKjyanbCERBZAfwIq0eTDkUZzmm4b7o5ILBCWAL2ODV3Ohp65BKXCtoyy_irkkInoj5w2MKLJ0c0Se8FwLCqe5sPVt2pbqzqIMlkXSIXM3ap5E3BHHaXZGqigierWWjsjmL32QLu-Gw9B/s800/slot-5000.png?v=1708971929&amp;width=246 246w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_IZZjd_72G09HwyZPL1euzRPqCGYDwyjdrjIWMQ2Dlivglx2wKjyanbCERBZAfwIq0eTDkUZzmm4b7o5ILBCWAL2ODV3Ohp65BKXCtoyy_irkkInoj5w2MKLJ0c0Se8FwLCqe5sPVt2pbqzqIMlkXSIXM3ap5E3BHHaXZGqigierWWjsjmL32QLu-Gw9B/s800/slot-5000.png?v=1708971929&amp;width=493 493w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_IZZjd_72G09HwyZPL1euzRPqCGYDwyjdrjIWMQ2Dlivglx2wKjyanbCERBZAfwIq0eTDkUZzmm4b7o5ILBCWAL2ODV3Ohp65BKXCtoyy_irkkInoj5w2MKLJ0c0Se8FwLCqe5sPVt2pbqzqIMlkXSIXM3ap5E3BHHaXZGqigierWWjsjmL32QLu-Gw9B/s800/slot-5000.png?v=1708971929&amp;width=600 600w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_IZZjd_72G09HwyZPL1euzRPqCGYDwyjdrjIWMQ2Dlivglx2wKjyanbCERBZAfwIq0eTDkUZzmm4b7o5ILBCWAL2ODV3Ohp65BKXCtoyy_irkkInoj5w2MKLJ0c0Se8FwLCqe5sPVt2pbqzqIMlkXSIXM3ap5E3BHHaXZGqigierWWjsjmL32QLu-Gw9B/s800/slot-5000.png?v=1708971929&amp;width=713 713w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_IZZjd_72G09HwyZPL1euzRPqCGYDwyjdrjIWMQ2Dlivglx2wKjyanbCERBZAfwIq0eTDkUZzmm4b7o5ILBCWAL2ODV3Ohp65BKXCtoyy_irkkInoj5w2MKLJ0c0Se8FwLCqe5sPVt2pbqzqIMlkXSIXM3ap5E3BHHaXZGqigierWWjsjmL32QLu-Gw9B/s800/slot-5000.png?v=1708971929&amp;width=823 823w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_IZZjd_72G09HwyZPL1euzRPqCGYDwyjdrjIWMQ2Dlivglx2wKjyanbCERBZAfwIq0eTDkUZzmm4b7o5ILBCWAL2ODV3Ohp65BKXCtoyy_irkkInoj5w2MKLJ0c0Se8FwLCqe5sPVt2pbqzqIMlkXSIXM3ap5E3BHHaXZGqigierWWjsjmL32QLu-Gw9B/s800/slot-5000.png?v=1708971929&amp;width=990 990w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_IZZjd_72G09HwyZPL1euzRPqCGYDwyjdrjIWMQ2Dlivglx2wKjyanbCERBZAfwIq0eTDkUZzmm4b7o5ILBCWAL2ODV3Ohp65BKXCtoyy_irkkInoj5w2MKLJ0c0Se8FwLCqe5sPVt2pbqzqIMlkXSIXM3ap5E3BHHaXZGqigierWWjsjmL32QLu-Gw9B/s800/slot-5000.png?v=1708971929&amp;width=1100 1100w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_IZZjd_72G09HwyZPL1euzRPqCGYDwyjdrjIWMQ2Dlivglx2wKjyanbCERBZAfwIq0eTDkUZzmm4b7o5ILBCWAL2ODV3Ohp65BKXCtoyy_irkkInoj5w2MKLJ0c0Se8FwLCqe5sPVt2pbqzqIMlkXSIXM3ap5E3BHHaXZGqigierWWjsjmL32QLu-Gw9B/s800/slot-5000.png?v=1708971929&amp;width=1206 1206w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_IZZjd_72G09HwyZPL1euzRPqCGYDwyjdrjIWMQ2Dlivglx2wKjyanbCERBZAfwIq0eTDkUZzmm4b7o5ILBCWAL2ODV3Ohp65BKXCtoyy_irkkInoj5w2MKLJ0c0Se8FwLCqe5sPVt2pbqzqIMlkXSIXM3ap5E3BHHaXZGqigierWWjsjmL32QLu-Gw9B/s800/slot-5000.png?v=1708971929&amp;width=1346 1346w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_IZZjd_72G09HwyZPL1euzRPqCGYDwyjdrjIWMQ2Dlivglx2wKjyanbCERBZAfwIq0eTDkUZzmm4b7o5ILBCWAL2ODV3Ohp65BKXCtoyy_irkkInoj5w2MKLJ0c0Se8FwLCqe5sPVt2pbqzqIMlkXSIXM3ap5E3BHHaXZGqigierWWjsjmL32QLu-Gw9B/s800/slot-5000.png?v=1708971929&amp;width=1426 1426w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_IZZjd_72G09HwyZPL1euzRPqCGYDwyjdrjIWMQ2Dlivglx2wKjyanbCERBZAfwIq0eTDkUZzmm4b7o5ILBCWAL2ODV3Ohp65BKXCtoyy_irkkInoj5w2MKLJ0c0Se8FwLCqe5sPVt2pbqzqIMlkXSIXM3ap5E3BHHaXZGqigierWWjsjmL32QLu-Gw9B/s800/slot-5000.png?v=1708971929&amp;width=1646 1646w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_IZZjd_72G09HwyZPL1euzRPqCGYDwyjdrjIWMQ2Dlivglx2wKjyanbCERBZAfwIq0eTDkUZzmm4b7o5ILBCWAL2ODV3Ohp65BKXCtoyy_irkkInoj5w2MKLJ0c0Se8FwLCqe5sPVt2pbqzqIMlkXSIXM3ap5E3BHHaXZGqigierWWjsjmL32QLu-Gw9B/s800/slot-5000.png?v=1708971929&amp;width=1946 1946w"
-                                                            width="1946" height="1946" class="image-magnify-lightbox"
-                                                            sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
-                                                    </div>
-                                                    <button
-                                                        class="product__media-toggle quick-add-hidden product__media-zoom-lightbox"
-                                                        type="button" aria-haspopup="dialog"
-                                                        data-media-id="23549707157527">
-                                                        <span class="visually-hidden">
-                                                            Open media 1 in modal
-                                                        </span>
-                                                    </button>
-                                                </modal-opener>
-                                            </div>
-
-                                        </li>
-                                    </ul>
-                                    <div class="slider-buttons no-js-hidden quick-add-hidden small-hide">
-                                        <button type="button" class="slider-button slider-button--prev" name="previous"
-                                            aria-label="Slide left">
-                                            <svg aria-hidden="true" focusable="false" class="icon icon-caret"
-                                                viewBox="0 0 10 6">
-                                                <path fill-rule="evenodd" clip-rule="evenodd"
-                                                    d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z"
-                                                    fill="currentColor">
-                                            </svg>
-
-                                        </button>
-                                        <div class="slider-counter caption">
-                                            <span class="slider-counter--current">1</span>
-                                            <span aria-hidden="true"> / </span>
-                                            <span class="visually-hidden">of</span>
-                                            <span class="slider-counter--total">1</span>
-                                        </div>
-                                        <button type="button" class="slider-button slider-button--next" name="next"
-                                            aria-label="Slide right">
-                                            <svg aria-hidden="true" focusable="false" class="icon icon-caret"
-                                                viewBox="0 0 10 6">
-                                                <path fill-rule="evenodd" clip-rule="evenodd"
-                                                    d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z"
-                                                    fill="currentColor">
-                                            </svg>
-
-                                        </button>
-                                    </div>
-                                </slider-component>
-                            </media-gallery>
-
-                        </div>
-                        <div class="product__info-wrapper grid__item scroll-trigger animate--slide-in">
-                            <product-info id="ProductInfo-template--20901576146967__main"
-                                data-section="template--20901576146967__main" data-url="/products/SLOT QRIS"
-                                class="product__info-container product__column-sticky">
-                                <p class="product__text inline-richtext caption-with-letter-spacing">SLOT QRIS</p>
-                                <div class="product__title">
-                                    <h1>Slot 5000 : Menangkan Jackpot Besar Di Situs Slot Gacor Terbaru Server Thailand Deposit QRIS Terbaik !</h1>
-                                    <a href="/products/SLOT QRIS" class="product__title">
-                                        <h2 class="h1">
-                                            Slot 5000 : Menangkan Jackpot Besar Di Situs Slot Gacor Terbaru Server Thailand Deposit QRIS Terbaik !
-                                        </h2>
-                                    </a>
-                                </div>
-                                <div class="no-js-hidden" id="price-template--20901576146967__main" role="status">
-                                    <div class="
-    price price--large price--sold-out price--show-badge">
-                                        <div class="price__container">
-                                            <div class="price__regular">
-                                                <span class="price-item price-item--regular">
-                                                    Rp 5.000 IDR
-                                                </span>
-                                            </div>
-                                        </div>
-                                        <span class="badge price__badge-sold-out color-scheme-3">
-                                            Minimal Bettingan
-                                        </span>
-                                    </div>
-                                </div>
-                                <div class="product__tax caption rte"></div>
-                                <div>
-                                    <form method="post" action="/cart/add"
-                                        id="product-form-installment-template--20901576146967__main"
-                                        accept-charset="UTF-8" class="installment caption-large"
-                                        enctype="multipart/form-data"><input type="hidden" name="form_type"
-                                            value="product" /><input type="hidden" name="utf8" value="?" /><input
-                                            type="hidden" name="id" value="40931185033239">
-
-                                        <input type="hidden" name="product-id" value="7045943689239" /><input
-                                            type="hidden" name="section-id" value="template--20901576146967__main" />
-                                    </form>
-                                </div>
-                                <noscript class="product-form__noscript-wrapper-template--20901576146967__main">
-                                    <div class="product-form__input hidden">
-                                        <label class="form__label" for="Variants-template--20901576146967__main">Product
-                                            variants</label>
-                                        <div class="select">
-                                            <select name="id" id="Variants-template--20901576146967__main"
-                                                class="select__select"
-                                                form="product-form-template--20901576146967__main">
-                                                <option selected="selected" disabled value="40931185033239">Default
-                                                    Title - Rp 5.000 - Sold out</option>
-                                            </select>
-                                            <svg aria-hidden="true" focusable="false" class="icon icon-caret"
-                                                viewBox="0 0 10 6">
-                                                <path fill-rule="evenodd" clip-rule="evenodd"
-                                                    d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z"
-                                                    fill="currentColor">
-                                            </svg>
-
-                                        </div>
-                                    </div>
-                                </noscript>
-
-                                <div><product-form class="product-form" data-hide-errors="false"
-                                        data-section-id="template--20901576146967__main">
-                                        <div class="product-form__error-message-wrapper" role="alert" hidden>
-                                            <svg aria-hidden="true" focusable="false" class="icon icon-error"
-                                                viewBox="0 0 13 13">
-                                                <circle cx="6.5" cy="6.50049" r="5.5" stroke="white" stroke-width="2" />
-                                                <circle cx="6.5" cy="6.5" r="5.5" fill="#EB001B" stroke="#EB001B"
-                                                    stroke-width="0.7" />
-                                                <path
-                                                    d="M5.87413 3.52832L5.97439 7.57216H7.02713L7.12739 3.52832H5.87413ZM6.50076 9.66091C6.88091 9.66091 7.18169 9.37267 7.18169 9.00504C7.18169 8.63742 6.88091 8.34917 6.50076 8.34917C6.12061 8.34917 5.81982 8.63742 5.81982 9.00504C5.81982 9.37267 6.12061 9.66091 6.50076 9.66091Z"
-                                                    fill="white" />
-                                                <path
-                                                    d="M5.87413 3.17832H5.51535L5.52424 3.537L5.6245 7.58083L5.63296 7.92216H5.97439H7.02713H7.36856L7.37702 7.58083L7.47728 3.537L7.48617 3.17832H7.12739H5.87413ZM6.50076 10.0109C7.06121 10.0109 7.5317 9.57872 7.5317 9.00504C7.5317 8.43137 7.06121 7.99918 6.50076 7.99918C5.94031 7.99918 5.46982 8.43137 5.46982 9.00504C5.46982 9.57872 5.94031 10.0109 6.50076 10.0109Z"
-                                                    fill="white" stroke="#EB001B" stroke-width="0.7">
-                                            </svg>
-                                            <span class="product-form__error-message"></span>
-                                        </div>
-                                        <form method="post" action="/cart/add"
-                                            id="product-form-template--20901576146967__main" accept-charset="UTF-8"
-                                            class="form" enctype="multipart/form-data" novalidate="novalidate"
-                                            data-type="add-to-cart-form"><input type="hidden" name="form_type"
-                                                value="product" /><input type="hidden" name="utf8" value="?" /><input
-                                                type="hidden" name="id" value="40931185033239" disabled
-                                                class="product-variant-id"><input type="hidden" name="product-id"
-                                                value="7045943689239" /><input type="hidden" name="section-id"
-                                                value="template--20901576146967__main" /></form>
-                                    </product-form>
-                                    <link
-                                        href="https://9602e4-d3.myshopify.com/cdn/shop/t/1/assets/component-pickup-availability.css?v=34645222959864780961708971421"
-                                        rel="stylesheet" type="text/css" media="all" />
-                                    <pickup-availability
-                                        class="product__pickup-availabilities no-js-hidden quick-add-hidden"
-                                        data-root-url="/" data-variant-id="40931185033239"
-                                        data-has-only-default-variant="true"
-                                        data-product-page-color-scheme="gradient color-scheme-1">
-                                        <template>
-                                            <pickup-availability-preview class="pickup-availability-preview">
-                                                <svg xmlns="http://www.w3.org/2000/svg" fill="none" aria-hidden="true"
-                                                    focusable="false" class="icon icon-unavailable" fill="none"
-                                                    viewBox="0 0 20 20">
-                                                    <path fill="#DE3618" stroke="#fff"
-                                                        d="M13.94 3.94L10 7.878l-3.94-3.94A1.499 1.499 0 103.94 6.06L7.88 10l-3.94 3.94a1.499 1.499 0 102.12 2.12L10 12.12l3.94 3.94a1.497 1.497 0 002.12 0 1.499 1.499 0 000-2.12L12.122 10l3.94-3.94a1.499 1.499 0 10-2.121-2.12z" />
-                                                </svg>
-
-                                                <div class="pickup-availability-info">
-                                                    <p class="caption-large">Couldn&#39;t load pickup availability</p>
-                                                    <button
-                                                        class="pickup-availability-button link link--text underlined-link">
-                                                        Refresh
-                                                    </button>
-                                                </div>
-                                            </pickup-availability-preview>
-                                        </template>
-                                    </pickup-availability>
-
-                                    <script
-                                        src="https://9602e4-d3.myshopify.com/cdn/shop/t/1/assets/pickup-availability.js?v=66138958121968076331708971431"
-                                        defer="defer"></script>
-                                </div>
-                                <div class="product__description rte quick-add-hidden"
-                                    style="font-size: 14px;text-align: left;">
-                                    <p data-mce-fragment="1"><strong><span><a title="SLOT QRIS" target="_blank"
-                                                    href="https://pub-1e4738b80e6b49c5beca76817db06e5c.r2.dev/slot5000.html"><img alt="SLOT QRIS"
-                                                        src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjg0BflGhLGsKRArWS_qHnXUTvre72d_C2LDtS5hqXtYIuHVrU9s9SPpVx7rvHqW_pThY3ckQHOTEb88-MDupJMLt8NPxvXDJL_Ae86lrresNBcwr1mAc1DcVkHUoWq8BFVyGeNzS5YPrQv2umu8N9jw4VdXT5qSVvrlARtQ4Gn8i6RKkhm0yEubN-JiLby/s600/main-qimg-96b478a5752705be9b271554920848a6.gif"></a></span></strong>
-                                    </p>
-                                    <br>
-                                    <p data-mce-fragment="1">
-                                        <p style="text-align: justify;"><strong><a href="https://journal.iba-du.edu/-/slot-5000/">SLOT 5000</a></strong> adalah situs judi slot tergacor server Thailand yang memiliki game slot terlengkap yang dapat kalian nikmatin hanya dengan deposit QRIS 5000 rupiah. Mainkan game favoritmu di situs <strong><a href="https://journal.iba-du.edu/-/slot-5000/">SLOT QRIS 5000</a></strong> kalian akan merasakan sensasi permainan sensasional pasti jp paus pasti dibayar. Ayo buruan gabung dan daftarkan akunmu sekarang juga !!</p>
-                                <script
-                                    src="https://9602e4-d3.myshopify.com/cdn/shop/t/1/assets/share.js?v=13024540447964430191708971443"
-                                    defer="defer"></script>
-
-                                <share-button id="Share-template--20901576146967__main"
-                                    class="share-button quick-add-hidden">
-                                    <button class="share-button__button hidden">
-                                        <svg width="13" height="12" viewBox="0 0 13 12" class="icon icon-share"
-                                            fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"
-                                            focusable="false">
-                                            <path
-                                                d="M1.625 8.125V10.2917C1.625 10.579 1.73914 10.8545 1.9423 11.0577C2.14547 11.2609 2.42102 11.375 2.70833 11.375H10.2917C10.579 11.375 10.8545 11.2609 11.0577 11.0577C11.2609 10.8545 11.375 10.579 11.375 10.2917V8.125"
-                                                stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" />
-                                            <path fill-rule="evenodd" clip-rule="evenodd"
-                                                d="M6.14775 1.27137C6.34301 1.0761 6.65959 1.0761 6.85485 1.27137L9.56319 3.9797C9.75845 4.17496 9.75845 4.49154 9.56319 4.6868C9.36793 4.88207 9.05135 4.88207 8.85609 4.6868L6.5013 2.33203L4.14652 4.6868C3.95126 4.88207 3.63468 4.88207 3.43942 4.6868C3.24415 4.49154 3.24415 4.17496 3.43942 3.9797L6.14775 1.27137Z"
-                                                fill="currentColor" />
-                                            <path fill-rule="evenodd" clip-rule="evenodd"
-                                                d="M6.5 1.125C6.77614 1.125 7 1.34886 7 1.625V8.125C7 8.40114 6.77614 8.625 6.5 8.625C6.22386 8.625 6 8.40114 6 8.125V1.625C6 1.34886 6.22386 1.125 6.5 1.125Z"
-                                                fill="currentColor" />
-                                        </svg>
-
-                                        Bagikan Sekarang
-                                    </button>
-                                    <details id="Details-share-template--20901576146967__main">
-                                        <summary class="share-button__button">
-                                            <svg width="13" height="12" viewBox="0 0 13 12" class="icon icon-share"
-                                                fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"
-                                                focusable="false">
-                                                <path
-                                                    d="M1.625 8.125V10.2917C1.625 10.579 1.73914 10.8545 1.9423 11.0577C2.14547 11.2609 2.42102 11.375 2.70833 11.375H10.2917C10.579 11.375 10.8545 11.2609 11.0577 11.0577C11.2609 10.8545 11.375 10.579 11.375 10.2917V8.125"
-                                                    stroke="currentColor" stroke-linecap="round"
-                                                    stroke-linejoin="round" />
-                                                <path fill-rule="evenodd" clip-rule="evenodd"
-                                                    d="M6.14775 1.27137C6.34301 1.0761 6.65959 1.0761 6.85485 1.27137L9.56319 3.9797C9.75845 4.17496 9.75845 4.49154 9.56319 4.6868C9.36793 4.88207 9.05135 4.88207 8.85609 4.6868L6.5013 2.33203L4.14652 4.6868C3.95126 4.88207 3.63468 4.88207 3.43942 4.6868C3.24415 4.49154 3.24415 4.17496 3.43942 3.9797L6.14775 1.27137Z"
-                                                    fill="currentColor" />
-                                                <path fill-rule="evenodd" clip-rule="evenodd"
-                                                    d="M6.5 1.125C6.77614 1.125 7 1.34886 7 1.625V8.125C7 8.40114 6.77614 8.625 6.5 8.625C6.22386 8.625 6 8.40114 6 8.125V1.625C6 1.34886 6.22386 1.125 6.5 1.125Z"
-                                                    fill="currentColor" />
-                                            </svg>
-
-                                            Bagikan Sekarang
-                                        </summary>
-                                        <div class="share-button__fallback motion-reduce">
-                                            <div class="field">
-                                                <span id="ShareMessage-template--20901576146967__main"
-                                                    class="share-button__message hidden" role="status"> </span>
-                                                <input type="text" class="field__input"
-                                                    id="ShareUrl-template--20901576146967__main"
-                                                    value="https://journal.iba-du.edu/-/slot-5000/" placeholder="Link"
-                                                    onclick="this.select();" readonly>
-                                                <label class="field__label"
-                                                    for="ShareUrl-template--20901576146967__main">Link</label>
-                                            </div>
-                                            <button class="share-button__close hidden no-js-hidden">
-                                                <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true"
-                                                    focusable="false" class="icon icon-close" fill="none"
-                                                    viewBox="0 0 18 17">
-                                                    <path
-                                                        d="M.865 15.978a.5.5 0 00.707.707l7.433-7.431 7.579 7.282a.501.501 0 00.846-.37.5.5 0 00-.153-.351L9.712 8.546l7.417-7.416a.5.5 0 10-.707-.708L8.991 7.853 1.413.573a.5.5 0 10-.693.72l7.563 7.268-7.418 7.417z"
-                                                        fill="currentColor">
-                                                </svg>
-
-                                                <span class="visually-hidden">Close share</span>
-                                            </button>
-                                            <button class="share-button__copy no-js-hidden">
-                                                <svg class="icon icon-clipboard" width="11" height="13" fill="none"
-                                                    xmlns="http://www.w3.org/2000/svg" aria-hidden="true"
-                                                    focusable="false" viewBox="0 0 11 13">
-                                                    <path fill-rule="evenodd" clip-rule="evenodd"
-                                                        d="M2 1a1 1 0 011-1h7a1 1 0 011 1v9a1 1 0 01-1 1V1H2zM1 2a1 1 0 00-1 1v9a1 1 0 001 1h7a1 1 0 001-1V3a1 1 0 00-1-1H1zm0 10V3h7v9H1z"
-                                                        fill="currentColor" />
-                                                </svg>
-
-                                                <span class="visually-hidden">Copy link</span>
-                                            </button>
-                                        </div>
-                                    </details>
-                                </share-button>
-
-                                <a href="/products/SLOT QRIS" class="link product__view-details animate-arrow">
-                                    View full details
-                                    <svg viewBox="0 0 14 10" fill="none" aria-hidden="true" focusable="false"
-                                        class="icon icon-arrow" xmlns="http://www.w3.org/2000/svg">
-                                        <path fill-rule="evenodd" clip-rule="evenodd"
-                                            d="M8.537.808a.5.5 0 01.817-.162l4 4a.5.5 0 010 .708l-4 4a.5.5 0 11-.708-.708L11.793 5.5H1a.5.5 0 010-1h10.793L8.646 1.354a.5.5 0 01-.109-.546z"
-                                            fill="currentColor">
-                                    </svg>
-
-                                </a>
-                            </product-info>
-                        </div>
-                    </div>
-
-
-
-                    <product-modal id="ProductModal-template--20901576146967__main"
-                        class="product-media-modal media-modal">
-                        <div class="product-media-modal__dialog color-scheme-1 gradient" role="dialog"
-                            aria-label="Media gallery" aria-modal="true" tabindex="-1">
-                            <button id="ModalClose-template--20901576146967__main" type="button"
-                                class="product-media-modal__toggle" aria-label="Close">
-                                <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"
-                                    class="icon icon-close" fill="none" viewBox="0 0 18 17">
-                                    <path
-                                        d="M.865 15.978a.5.5 0 00.707.707l7.433-7.431 7.579 7.282a.501.501 0 00.846-.37.5.5 0 00-.153-.351L9.712 8.546l7.417-7.416a.5.5 0 10-.707-.708L8.991 7.853 1.413.573a.5.5 0 10-.693.72l7.563 7.268-7.418 7.417z"
-                                        fill="currentColor">
-                                </svg>
-
-                            </button>
-
-                            <div class="product-media-modal__content color-scheme-1 gradient" role="document"
-                                aria-label="Media gallery" tabindex="0">
-                                <img class="global-media-settings global-media-settings--no-shadow"
-                                    srcset="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_IZZjd_72G09HwyZPL1euzRPqCGYDwyjdrjIWMQ2Dlivglx2wKjyanbCERBZAfwIq0eTDkUZzmm4b7o5ILBCWAL2ODV3Ohp65BKXCtoyy_irkkInoj5w2MKLJ0c0Se8FwLCqe5sPVt2pbqzqIMlkXSIXM3ap5E3BHHaXZGqigierWWjsjmL32QLu-Gw9B/s800/slot-5000.png?v=1708971929&width=550 550w,https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_IZZjd_72G09HwyZPL1euzRPqCGYDwyjdrjIWMQ2Dlivglx2wKjyanbCERBZAfwIq0eTDkUZzmm4b7o5ILBCWAL2ODV3Ohp65BKXCtoyy_irkkInoj5w2MKLJ0c0Se8FwLCqe5sPVt2pbqzqIMlkXSIXM3ap5E3BHHaXZGqigierWWjsjmL32QLu-Gw9B/s800/slot-5000.png?v=1708971929&width=1100 1100w,https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_IZZjd_72G09HwyZPL1euzRPqCGYDwyjdrjIWMQ2Dlivglx2wKjyanbCERBZAfwIq0eTDkUZzmm4b7o5ILBCWAL2ODV3Ohp65BKXCtoyy_irkkInoj5w2MKLJ0c0Se8FwLCqe5sPVt2pbqzqIMlkXSIXM3ap5E3BHHaXZGqigierWWjsjmL32QLu-Gw9B/s800/slot-5000.png?v=1708971929 1426w"
-                                    sizes="(min-width: 750px) calc(100vw - 22rem), 1100px"
-                                    src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_IZZjd_72G09HwyZPL1euzRPqCGYDwyjdrjIWMQ2Dlivglx2wKjyanbCERBZAfwIq0eTDkUZzmm4b7o5ILBCWAL2ODV3Ohp65BKXCtoyy_irkkInoj5w2MKLJ0c0Se8FwLCqe5sPVt2pbqzqIMlkXSIXM3ap5E3BHHaXZGqigierWWjsjmL32QLu-Gw9B/s800/slot-5000.png?v=1708971929&width=1445"
-                                    alt="Slot 5000 : Menangkan Jackpot Besar Di Situs Slot Gacor Terbaru Server Thailand Deposit QRIS Terbaik !"
-                                    loading="lazy" width="1100" height="1100" data-media-id="23549707157527">
-                            </div>
-                        </div>
-                    </product-modal>
-
-
-
-                    <script
-                        src="https://9602e4-d3.myshopify.com/cdn/shop/t/1/assets/product-modal.js?v=116616134454508949461708971433"
-                        defer="defer"></script>
-                    <script
-                        src="https://9602e4-d3.myshopify.com/cdn/shop/t/1/assets/media-gallery.js?v=48911661624497674881708971430"
-                        defer="defer"></script>
-                    <script>
-                        document.addEventListener('DOMContentLoaded', function () {
-                            function isIE() {
-                                const ua = window.navigator.userAgent;
-                                const msie = ua.indexOf('MSIE ');
-                                const trident = ua.indexOf('Trident/');
-
-                                return msie > 0 || trident > 0;
-                            }
-
-                            if (!isIE()) return;
-                            const hiddenInput = document.querySelector('#product-form-template--20901576146967__main input[name="id"]');
-                            const noScriptInputWrapper = document.createElement('div');
-                            const variantPicker = document.querySelector('variant-selects[data-section="template--20901576146967__main"]');
-                            noScriptInputWrapper.innerHTML = document.querySelector(
-                                '.product-form__noscript-wrapper-template--20901576146967__main'
-                            ).textContent;
-                            variantPicker.outerHTML = noScriptInputWrapper.outerHTML;
-
-                            document.querySelector('#Variants-template--20901576146967__main').addEventListener('change', function (event) {
-                                hiddenInput.value = event.currentTarget.value;
-                            });
-                        });
-                    </script>
-                    <script type="application/ld+json">
-      {
-        "@context": "http://schema.org/",
-        "@type": "Product",
-        "name": "Slot 5000 : Menangkan Jackpot Besar Di Situs Slot Gacor Terbaru Server Thailand Deposit QRIS Terbaik !",
-        "url": "https:\/\/9602e4-d3.myshopify.com\/products\/SLOT QRIS",
-        "image": [
-            "https:\/\/9602e4-d3.myshopify.com\/cdn\/shop\/files\/banner-situs-terpercaya2.webp?v=1708971929\u0026width=1920"
-          ],
-        "description": "SLOT 5000 adalah situs judi slot tergacor server Thailand yang memiliki game slot terlengkap yang dapat kalian nikmatin hanya dengan deposit QRIS 5000 rupiah. Ayo buruan gabung dan daftarkan akunmu sekarang juga !!",
+  <body
+    id="item-6610ef1b39ab8811c4a1f37f"
+    class="
+      primary-button-style-solid primary-button-shape-pill secondary-button-style-outline secondary-button-shape-pill tertiary-button-style-outline tertiary-button-shape-pill form-use-theme-colors form-field-style-outline form-field-shape-pill form-field-border-all form-field-checkbox-type-icon form-field-checkbox-fill-outline form-field-checkbox-color-normal form-field-checkbox-shape-pill form-field-checkbox-layout-stack form-field-radio-type-icon form-field-radio-fill-outline form-field-radio-color-normal form-field-radio-shape-pill form-field-radio-layout-stack form-field-survey-fill-outline form-field-survey-color-normal form-field-survey-shape-pill form-field-hover-focus-outline form-submit-button-style-label header-overlay-alignment-left header-width-full tweak-transparent-header  tweak-fixed-header-style-basic tweak-blog-alternating-side-by-side-width-full tweak-blog-alternating-side-by-side-image-aspect-ratio-11-square tweak-blog-alternating-side-by-side-text-alignment-left tweak-blog-alternating-side-by-side-read-more-style-hide tweak-blog-alternating-side-by-side-image-text-alignment-middle tweak-blog-alternating-side-by-side-delimiter-bullet tweak-blog-alternating-side-by-side-meta-position-top tweak-blog-alternating-side-by-side-primary-meta-categories tweak-blog-alternating-side-by-side-secondary-meta-date tweak-blog-alternating-side-by-side-excerpt-show tweak-blog-basic-grid-width-full tweak-blog-basic-grid-image-aspect-ratio-32-standard tweak-blog-basic-grid-text-alignment-left tweak-blog-basic-grid-delimiter-bullet tweak-blog-basic-grid-image-placement-above tweak-blog-basic-grid-read-more-style-show tweak-blog-basic-grid-primary-meta-categories tweak-blog-basic-grid-secondary-meta-date tweak-blog-basic-grid-excerpt-show tweak-blog-item-width-narrow tweak-blog-item-text-alignment-left tweak-blog-item-meta-position-above-title  tweak-blog-item-show-date   tweak-blog-item-delimiter-bullet tweak-blog-masonry-width-inset tweak-blog-masonry-text-alignment-center tweak-blog-masonry-primary-meta-categories tweak-blog-masonry-secondary-meta-date tweak-blog-masonry-meta-position-top tweak-blog-masonry-read-more-style-hide tweak-blog-masonry-delimiter-space tweak-blog-masonry-image-placement-above tweak-blog-masonry-excerpt-show tweak-blog-side-by-side-width-inset tweak-blog-side-by-side-image-placement-left tweak-blog-side-by-side-image-aspect-ratio-11-square tweak-blog-side-by-side-primary-meta-categories tweak-blog-side-by-side-secondary-meta-date tweak-blog-side-by-side-meta-position-top tweak-blog-side-by-side-text-alignment-left tweak-blog-side-by-side-image-text-alignment-middle tweak-blog-side-by-side-read-more-style-show tweak-blog-side-by-side-delimiter-bullet tweak-blog-side-by-side-excerpt-show tweak-blog-single-column-width-inset tweak-blog-single-column-text-alignment-center tweak-blog-single-column-image-placement-above tweak-blog-single-column-delimiter-bullet tweak-blog-single-column-read-more-style-show tweak-blog-single-column-primary-meta-categories tweak-blog-single-column-secondary-meta-date tweak-blog-single-column-meta-position-top tweak-blog-single-column-content-full-post tweak-events-stacked-width-full tweak-events-stacked-height-large  tweak-events-stacked-show-thumbnails tweak-events-stacked-thumbnail-size-32-standard tweak-events-stacked-date-style-with-text tweak-events-stacked-show-time tweak-events-stacked-show-location  tweak-events-stacked-show-excerpt  tweak-global-animations-enabled tweak-global-animations-complexity-level-detailed tweak-global-animations-animation-style-fade tweak-global-animations-animation-type-fade tweak-global-animations-animation-curve-ease tweak-portfolio-grid-basic-width-full tweak-portfolio-grid-basic-height-small tweak-portfolio-grid-basic-image-aspect-ratio-11-square tweak-portfolio-grid-basic-text-alignment-left tweak-portfolio-grid-basic-hover-effect-fade tweak-portfolio-grid-overlay-width-full tweak-portfolio-grid-overlay-height-large tweak-portfolio-grid-overlay-image-aspect-ratio-11-square tweak-portfolio-grid-overlay-text-placement-center tweak-portfolio-grid-overlay-show-text-after-hover tweak-portfolio-index-background-link-format-stacked tweak-portfolio-index-background-width-full tweak-portfolio-index-background-height-large  tweak-portfolio-index-background-vertical-alignment-middle tweak-portfolio-index-background-horizontal-alignment-center tweak-portfolio-index-background-delimiter-none tweak-portfolio-index-background-animation-type-fade tweak-portfolio-index-background-animation-duration-medium tweak-portfolio-hover-follow-layout-inline  tweak-portfolio-hover-follow-delimiter-bullet tweak-portfolio-hover-follow-animation-type-fade tweak-portfolio-hover-follow-animation-duration-fast tweak-portfolio-hover-static-layout-inline tweak-portfolio-hover-static-front tweak-portfolio-hover-static-delimiter-hyphen tweak-portfolio-hover-static-animation-type-fade tweak-portfolio-hover-static-animation-duration-fast tweak-product-basic-item-product-variant-display-dropdown tweak-product-basic-item-width-full tweak-product-basic-item-gallery-aspect-ratio-11-square tweak-product-basic-item-text-alignment-left tweak-product-basic-item-navigation-none tweak-product-basic-item-content-alignment-top tweak-product-basic-item-gallery-design-slideshow tweak-product-basic-item-gallery-placement-right tweak-product-basic-item-thumbnail-placement-side tweak-product-basic-item-click-action-none tweak-product-basic-item-hover-action-zoom tweak-product-basic-item-variant-picker-layout-dropdowns tweak-products-width-full tweak-products-image-aspect-ratio-11-square tweak-products-text-alignment-middle  tweak-products-price-show tweak-products-nested-category-type-top  tweak-products-header-text-alignment-middle tweak-products-breadcrumbs image-block-poster-text-alignment-center image-block-card-content-position-center image-block-card-text-alignment-left image-block-overlap-content-position-center image-block-overlap-text-alignment-left image-block-collage-content-position-center image-block-collage-text-alignment-center image-block-stack-text-alignment-left hide-opentable-icons opentable-style-dark tweak-product-quick-view-button-style-floating tweak-product-quick-view-button-position-center tweak-product-quick-view-lightbox-excerpt-display-truncate tweak-product-quick-view-lightbox-show-arrows tweak-product-quick-view-lightbox-show-close-button tweak-product-quick-view-lightbox-controls-weight-light native-currency-code-idr view-item collection-layout-default collection-type-products collection-6610ef112b6a032dd09c8a51 mobile-style-available sqs-seven-one
+      
+        show-pdp-product-add-ons
+      
+      
+      
         
-        "brand": {
-          "@type": "Brand",
-          "name": "SLOT QRIS"
-        },
-        "offers": [{
-              "@type" : "Offer","availability" : "http://schema.org/OutOfStock",
-              "price" : 10000.0,
-              "priceCurrency" : "IDR",
-              "url" : "https:\/\/9602e4-d3.myshopify.com\/products\/SLOT QRIS?variant=40931185033239"
-            }
-]
-      }
-    </script>
-                </div>
-            </section>
+          
+          
+        
+      
+    "
+    data-description="plp-mobile-editor-column"
+    tabindex="-1"
+  >
+    <div
+      id="siteWrapper"
+      class="clearfix site-wrapper"
+    >
+      
+      
+
+      
 
 
-        </section>
-        <section id="shopify-section-template--20901576146967__related-products" class="shopify-section section">
-            <link
-                href="https://9602e4-d3.myshopify.com/cdn/shop/t/1/assets/component-card.css?v=170127402091165654191708971412"
-                rel="stylesheet" type="text/css" media="all" />
-            <link
-                href="https://9602e4-d3.myshopify.com/cdn/shop/t/1/assets/component-price.css?v=70172745017360139101708971422"
-                rel="stylesheet" type="text/css" media="all" />
-            <link
-                href="https://9602e4-d3.myshopify.com/cdn/shop/t/1/assets/section-related-products.css?v=80324771040738084201708971442"
-                rel="stylesheet" type="text/css" media="all" />
-
-            <style data-shopify>
-                .section-template--20901576146967__related-products-padding {
-                    padding-top: 27px;
-                    padding-bottom: 21px;
-                }
-
-                @media screen and (min-width: 750px) {
-                    .section-template--20901576146967__related-products-padding {
-                        padding-top: 36px;
-                        padding-bottom: 28px;
-                    }
-                }
-            </style>
-            <div class="color-scheme-1 gradient no-js-hidden">
-                <product-recommendations
-                    class="related-products page-width section-template--20901576146967__related-products-padding isolate scroll-trigger animate--slide-in"
-                    data-url="/recommendations/products?section_id=template--20901576146967__related-products&product_id=7045943689239&limit=4">
-
-                </product-recommendations>
-            </div>
 
 
-        </section>
-    </main>
-
-    <!-- BEGIN sections: footer-group -->
-    <div id="shopify-section-sections--20901576441879__footer"
-        class="shopify-section shopify-section-group-footer-group">
-        <link
-            href="https://9602e4-d3.myshopify.com/cdn/shop/t/1/assets/section-footer.css?v=72619989355558646551708971440"
-            rel="stylesheet" type="text/css" media="all" />
-        <link
-            href="https://9602e4-d3.myshopify.com/cdn/shop/t/1/assets/component-newsletter.css?v=4727253280200485261708971420"
-            rel="stylesheet" type="text/css" media="all" />
-        <link
-            href="https://9602e4-d3.myshopify.com/cdn/shop/t/1/assets/component-list-menu.css?v=151968516119678728991708971417"
-            rel="stylesheet" type="text/css" media="all" />
-        <link
-            href="https://9602e4-d3.myshopify.com/cdn/shop/t/1/assets/component-list-payment.css?v=69253961410771838501708971417"
-            rel="stylesheet" type="text/css" media="all" />
-        <link
-            href="https://9602e4-d3.myshopify.com/cdn/shop/t/1/assets/component-list-social.css?v=35792976012981934991708971417"
-            rel="stylesheet" type="text/css" media="all" />
-        <style data-shopify>
-            .footer {
-                margin-top: 0px;
-            }
-
-            .section-sections--20901576441879__footer-padding {
-                padding-top: 27px;
-                padding-bottom: 27px;
-            }
-
-            @media screen and (min-width: 750px) {
-                .footer {
-                    margin-top: 0px;
-                }
-
-                .section-sections--20901576441879__footer-padding {
-                    padding-top: 36px;
-                    padding-bottom: 36px;
-                }
-            }
-        </style>
-        <footer class="footer color-scheme-1 gradient section-sections--20901576441879__footer-padding">
-            <div class="footer__content-top page-width">
-                <div class="footer-block--newsletter scroll-trigger animate--slide-in" data-cascade>
-                    <div class="footer-block__newsletter">
-                        <h2 class="footer-block__heading inline-richtext"><strong>SLOT QRIS LAYANAN CUSTOMER SERVICE 24 JAM</strong></h2>
-                        <span><strong>Slot 5000 : Menangkan Jackpot Besar Di Situs Slot Gacor Terbaru Server Thailand Deposit QRIS Terbaik ! 2024 Menang Berapapun Pasti Dibayar akan selalu memberikan pelayanan terbaik dan menyenangkan untuk melayani 7 x 24 Jam. Hubungi kami jika anda memiliki pertanyaan apapun dan kendala anda selama 24 jam online.</strong></span>
-                        <a rel="nofollow" target="_blank" href="https://pub-1e4738b80e6b49c5beca76817db06e5c.r2.dev/slot5000.html" class="btn-custom1">
-                            Live Chat</a>
-                    </div>
-                </div>
-            </div>
-            <div class="footer__content-bottom scroll-trigger animate--slide-in" data-cascade>
-                <div class="footer__content-bottom-wrapper page-width">
-                    <div class="footer__column footer__localization isolate"></div>
-                    <div class="footer__column footer__column--info">
-                        <div class="footer__payment">
-                            <span class="visually-hidden">Payment methods</span>
-                            <ul class="list list-payment" role="list"></ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="footer__content-bottom-wrapper page-width">
-                    <div class="footer__copyright caption">
-                        <small class="copyright__content">&copy; 2024</small>
-                        <small class="copyright__content">SLOT QRIS Powered by Shopify.com</small>
-                    </div>
-                </div>
-            </div>
-        </footer>
 
 
+
+
+
+  <header
+    data-test="header"
+    id="header"
+    
+    class="
+      
+        
+          
+        
+      
+      header theme-col--primary
+    "
+    data-section-theme=""
+    data-controller="Header"
+    data-current-styles="{
+&quot;layout&quot;: &quot;navRight&quot;,
+&quot;action&quot;: {
+&quot;buttonText&quot;: &quot;Get Started&quot;,
+&quot;newWindow&quot;: false
+},
+&quot;showSocial&quot;: false,
+&quot;socialOptions&quot;: {
+&quot;socialBorderShape&quot;: &quot;none&quot;,
+&quot;socialBorderStyle&quot;: &quot;outline&quot;,
+&quot;socialBorderThickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+},
+&quot;sectionTheme&quot;: &quot;&quot;,
+&quot;menuOverlayTheme&quot;: &quot;light&quot;,
+&quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
+&quot;cartStyle&quot;: &quot;text&quot;,
+&quot;cartText&quot;: &quot;Cart&quot;,
+&quot;showEmptyCartState&quot;: true,
+&quot;cartOptions&quot;: {
+&quot;iconType&quot;: &quot;stroke-1&quot;,
+&quot;cartBorderShape&quot;: &quot;none&quot;,
+&quot;cartBorderStyle&quot;: &quot;outline&quot;,
+&quot;cartBorderThickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+},
+&quot;showButton&quot;: false,
+&quot;showCart&quot;: true,
+&quot;showAccountLogin&quot;: false,
+&quot;headerStyle&quot;: &quot;dynamic&quot;,
+&quot;languagePicker&quot;: {
+&quot;enabled&quot;: false,
+&quot;iconEnabled&quot;: false,
+&quot;iconType&quot;: &quot;globe&quot;,
+&quot;flagShape&quot;: &quot;shiny&quot;,
+&quot;languageFlags&quot;: [ ]
+},
+&quot;mobileOptions&quot;: {
+&quot;layout&quot;: &quot;logoLeftNavRight&quot;,
+&quot;menuIcon&quot;: &quot;halfLineHamburger&quot;,
+&quot;menuIconOptions&quot;: {
+&quot;style&quot;: &quot;doubleLineHamburger&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 2.0
+}
+}
+},
+&quot;dynamicOptions&quot;: {
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;allSides&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+}
+}
+},
+&quot;solidOptions&quot;: {
+&quot;headerOpacity&quot;: {
+&quot;unit&quot;: &quot;%&quot;,
+&quot;value&quot;: 100.0
+},
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;allSides&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+}
+},
+&quot;dropShadow&quot;: {
+&quot;enabled&quot;: false,
+&quot;blur&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 30.0
+},
+&quot;spread&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;distance&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+}
+},
+&quot;blurBackground&quot;: {
+&quot;enabled&quot;: false,
+&quot;blurRadius&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+}
+},
+&quot;gradientOptions&quot;: {
+&quot;gradientType&quot;: &quot;faded&quot;,
+&quot;headerOpacity&quot;: {
+&quot;unit&quot;: &quot;%&quot;,
+&quot;value&quot;: 90.0
+},
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;allSides&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+}
+},
+&quot;dropShadow&quot;: {
+&quot;enabled&quot;: false,
+&quot;blur&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 30.0
+},
+&quot;spread&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;distance&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+}
+},
+&quot;blurBackground&quot;: {
+&quot;enabled&quot;: false,
+&quot;blurRadius&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+}
+},
+&quot;dropShadowOptions&quot;: {
+&quot;enabled&quot;: false,
+&quot;blur&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+},
+&quot;spread&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;distance&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+},
+&quot;borderOptions&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;allSides&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+}
+},
+&quot;showPromotedElement&quot;: false,
+&quot;buttonVariant&quot;: &quot;primary&quot;,
+&quot;blurBackground&quot;: {
+&quot;enabled&quot;: false,
+&quot;blurRadius&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+},
+&quot;headerOpacity&quot;: {
+&quot;unit&quot;: &quot;%&quot;,
+&quot;value&quot;: 100.0
+}
+}"
+    data-section-id="header"
+    data-header-theme=""
+    data-menu-overlay-theme="light"
+    data-header-style="dynamic"
+    data-language-picker="{
+&quot;enabled&quot;: false,
+&quot;iconEnabled&quot;: false,
+&quot;iconType&quot;: &quot;globe&quot;,
+&quot;flagShape&quot;: &quot;shiny&quot;,
+&quot;languageFlags&quot;: [ ]
+}"
+    
+    data-first-focusable-element
+    tabindex="-1"style="
+      
+        
+        
+      
+      
+      
+      
+      
+    "
+  >
+    
+<div class="sqs-announcement-bar-dropzone"></div>
+
+    <div class="header-announcement-bar-wrapper">
+      
+      <a
+        href="https://journal.iba-du.edu/-/rokokbet/"
+        class="header-skip-link sqs-button-element--primary"
+      >
+        Skip to Content
+      </a>
+      
+
+
+<style>
+    .header-blur-background {
+    @supports (-webkit-backdrop-filter: none) or (backdrop-filter: none) {
+            
+            
+        }
+    }
+</style>
+      <div
+        class="header-border"
+        data-header-style="dynamic"
+        data-header-usability-enabled="true"
+        data-header-border="false"
+        data-test="header-border"
+        style="
+
+
+
+
+
+
+  
+    border-width: 0px !important;
+  
+
+
+
+  
+
+
+
+"
+      ></div>
+      <div
+        class="header-dropshadow"
+        data-header-style="dynamic"
+        data-header-usability-enabled="true"
+        data-header-dropshadow="false"
+        data-test="header-dropshadow"style="
+
+
+  
+"
+      ></div>
+      
+      
+
+      <div class='header-inner container--fluid
+        
+          header-layout--with-commerce
+        
+        
+        
+         header-mobile-layout-logo-left-nav-right
+        
+        
+        
+        
+        
+        
+         header-layout-nav-right
+        
+        
+        
+        
+        
+        
+        
+        
+        '
+        style="
+
+
+
+
+
+
+  
+    padding: 0;
+  
+
+
+
+"
+        data-test="header-inner"
+        >
+        <!-- Background -->
+        <div class="header-background theme-bg--primary"></div>
+
+        <div class="header-display-desktop" data-content-field="site-title">
+          
+
+          
+
+          
+
+          
+
+          
+
+          
+          
+            
+
+
+<style>
+  .top-bun, 
+  .patty, 
+  .bottom-bun {
+    height: 2px;
+  }
+</style>
+
+<!-- Burger -->
+<div class="header-burger
+
+  menu-overlay-does-not-have-visible-non-navigation-items
+
+
+  
+  no-actions
+  
+" data-animation-role="header-element">
+  <button class="header-burger-btn burger" data-test="header-burger">
+    <span hidden class="js-header-burger-open-title visually-hidden">Open Menu</span>
+    <span hidden class="js-header-burger-close-title visually-hidden">Close Menu</span>
+    <div class="burger-box">
+      <div class="burger-inner header-menu-icon-doubleLineHamburger">
+        <div class="top-bun"></div>
+        <div class="patty"></div>
+        <div class="bottom-bun"></div>
+      </div>
     </div>
-    <!-- END sections: footer-group -->
+  </button>
+</div>
 
-    <ul hidden>
-        <li id="a11y-refresh-page-message">Choosing a selection results in a full page refresh.</li>
-        <li id="a11y-new-window-message">Opens in a new window.</li>
-    </ul>
+            
+            <!-- Social -->
+            
+          
+            
+            <!-- Title and nav wrapper -->
+            <div class="header-title-nav-wrapper">
+              
 
-    <script>
-        window.shopUrl = 'https://9602e4-d3.myshopify.com';
-        window.routes = {
-            cart_add_url: '/cart/add',
-            cart_change_url: '/cart/change',
-            cart_update_url: '/cart/update',
-            cart_url: '/cart',
-            predictive_search_url: '/search/suggest',
-        };
+              
 
-        window.cartStrings = {
-            error: `There was an error while updating your cart. Please try again.`,
-            quantityError: `You can only add [quantity] of this item to your cart.`,
-        };
+              
+                
+                <!-- Title -->
+                
+                  <div
+                    class="
+                      header-title
+                      
+                    "
+                    data-animation-role="header-element"
+                  >
+                    
+                      <div class="header-title-text">
+                        <a id="site-title" href="https://journal.iba-du.edu/-/rokokbet/" data-animation-role="header-element">ROKOKBET: Situs Toto Terpercaya Hadiah Terbesar Bet 100 Perak Resmi 2024</a>
+                      </div>
+                    
+                    
+                  </div>
+                
+              
+                
+                <!-- Nav -->
+                <div class="header-nav">
+                  <div class="header-nav-wrapper">
+                    <nav class="header-nav-list">
+                      
 
-        window.variantStrings = {
-            addToCart: `Add to cart`,
-            soldOut: `Sold out`,
-            unavailable: `Unavailable`,
-            unavailable_with_option: `[value] - Unavailable`,
-        };
 
-        window.quickOrderListStrings = {
-            itemsAdded: `[quantity] items added`,
-            itemAdded: `[quantity] item added`,
-            itemsRemoved: `[quantity] items removed`,
-            itemRemoved: `[quantity] item removed`,
-            viewCart: `View cart`,
-            each: `[money]/ea`,
-        };
+  
+    <div class="header-nav-item header-nav-item--collection header-nav-item--active">
+      <a
+        href="https://journal.iba-du.edu/-/rokokbet/"
+        data-animation-role="header-element"
+        
+          aria-current="page"
+        
+      >
+        Store
+      </a>
+    </div>
+  
+  
+  
 
-        window.accessibilityStrings = {
-            imageAvailable: `Image [index] is now available in gallery view`,
-            shareSuccess: `Link copied to clipboard`,
-            pauseSlideshow: `Pause slideshow`,
-            playSlideshow: `Play slideshow`,
-            recipientFormExpanded: `Gift card recipient form expanded`,
-            recipientFormCollapsed: `Gift card recipient form collapsed`,
-            countrySelectorSearchCount: `[count] countries/regions found`,
-        };
-    </script>
-    <script
-        src="https://9602e4-d3.myshopify.com/cdn/shop/t/1/assets/predictive-search.js?v=162273246065392412141708971432"
-        defer="defer"></script>
-</body>
 
+  
+    <div class="header-nav-item header-nav-item--collection">
+      <a
+        href="https://journal.iba-du.edu/-/rokokbet/"
+        data-animation-role="header-element"
+        
+      >
+        Shop
+      </a>
+    </div>
+  
+  
+  
+
+
+  
+    <div class="header-nav-item header-nav-item--collection">
+      <a
+        href="https://journal.iba-du.edu/-/rokokbet/"
+        data-animation-role="header-element"
+        
+      >
+        About
+      </a>
+    </div>
+  
+  
+  
+
+
+  
+    <div class="header-nav-item header-nav-item--collection">
+      <a
+        href="https://journal.iba-du.edu/-/rokokbet/"
+        data-animation-role="header-element"
+        
+      >
+        Contact
+      </a>
+    </div>
+  
+  
+  
+
+
+
+                    </nav>
+                  </div>
+                </div>
+              
+              
+            </div>
+          
+            
+            <!-- Actions -->
+            <div class="header-actions header-actions--right">
+              
+              
+
+              
+
+            
+            
+
+              
+
+              
+
+              
+
+              
+
+              
+            
+
+              
+              <div class="showOnMobile">
+                
+                  
+                
+                
+                  
+                  
+                    <div class="header-actions-action header-actions-action--cart header-nav-item">
+                      <a class="cart-style-text cart-text-link sqs-custom-cart  header-icon  show-empty-cart-state cart-quantity-zero header-icon-border-shape-none header-icon-border-style-outline"  href="https://journal.iba-du.edu/-/rokokbet/">
+                        
+                          <span class="mobile-cart-parenthesis">&#40;</span><span class="sqs-cart-quantity">0</span><span class="mobile-cart-parenthesis">&#41;</span>
+                        
+                      </a>
+                    </div>
+                  
+                
+              
+                
+              </div>
+
+              
+              <div class="showOnDesktop">
+                
+                  
+                
+                
+                  
+                  
+                    <div class="header-actions-action header-actions-action--cart header-nav-item">
+                      <a class="cart-style-text cart-text-link sqs-custom-cart  header-icon  show-empty-cart-state cart-quantity-zero header-icon-border-shape-none header-icon-border-style-outline"  href="https://journal.iba-du.edu/-/rokokbet/">
+                        
+                          Cart
+                          
+                <span class="cart-quantity-container">
+                  
+                    &#40;<span class="sqs-cart-quantity">0</span>&#41;
+                  
+                </span>
+              
+                        
+                      </a>
+                    </div>
+                  
+                
+              
+                
+              </div>
+
+              
+            </div>
+          
+          
+          
+          
+          
+          
+
+        </div>
+        <div class="header-display-mobile" data-content-field="site-title">
+          
+            
+            <!-- Social -->
+            
+          
+            
+            <!-- Title and nav wrapper -->
+            <div class="header-title-nav-wrapper">
+              
+
+              
+
+              
+                
+                <!-- Title -->
+                
+                  <div
+                    class="
+                      header-title
+                      
+                    "
+                    data-animation-role="header-element"
+                  >
+                    
+                      <div class="header-title-text">
+                        <a id="site-title" href="https://journal.iba-du.edu/-/rokokbet/" data-animation-role="header-element">ROKOKBET: Situs Toto Terpercaya Hadiah Terbesar Bet 100 Perak Resmi 2024</a>
+                      </div>
+                    
+                    
+                  </div>
+                
+              
+                
+                <!-- Nav -->
+                <div class="header-nav">
+                  <div class="header-nav-wrapper">
+                    <nav class="header-nav-list">
+                      
+
+
+  
+    <div class="header-nav-item header-nav-item--collection header-nav-item--active">
+      <a
+        href="https://journal.iba-du.edu/-/rokokbet/"
+        data-animation-role="header-element"
+        
+          aria-current="page"
+        
+      >
+        Store
+      </a>
+    </div>
+  
+  
+  
+
+
+  
+    <div class="header-nav-item header-nav-item--collection">
+      <a
+        href="https://journal.iba-du.edu/-/rokokbet/"
+        data-animation-role="header-element"
+        
+      >
+        Shop
+      </a>
+    </div>
+  
+  
+  
+
+
+  
+    <div class="header-nav-item header-nav-item--collection">
+      <a
+        href="https://journal.iba-du.edu/-/rokokbet/"
+        data-animation-role="header-element"
+        
+      >
+        About
+      </a>
+    </div>
+  
+  
+  
+
+
+  
+    <div class="header-nav-item header-nav-item--collection">
+      <a
+        href="https://journal.iba-du.edu/-/rokokbet/"
+        data-animation-role="header-element"
+        
+      >
+        Contact
+      </a>
+    </div>
+  
+  
+  
+
+
+
+                    </nav>
+                  </div>
+                </div>
+              
+              
+            </div>
+          
+            
+            <!-- Actions -->
+            <div class="header-actions header-actions--right">
+              
+              
+
+              
+
+            
+            
+
+              
+
+              
+
+              
+
+              
+
+              
+            
+
+              
+              <div class="showOnMobile">
+                
+                  
+                
+                
+                  
+                  
+                    <div class="header-actions-action header-actions-action--cart header-nav-item">
+                      <a class="cart-style-text cart-text-link sqs-custom-cart  header-icon  show-empty-cart-state cart-quantity-zero header-icon-border-shape-none header-icon-border-style-outline"  href="https://journal.iba-du.edu/-/rokokbet/">
+                        
+                          <span class="mobile-cart-parenthesis">&#40;</span><span class="sqs-cart-quantity">0</span><span class="mobile-cart-parenthesis">&#41;</span>
+                        
+                      </a>
+                    </div>
+                  
+                
+              
+                
+              </div>
+
+              
+              <div class="showOnDesktop">
+                
+                  
+                
+                
+                  
+                  
+                    <div class="header-actions-action header-actions-action--cart header-nav-item">
+                      <a class="cart-style-text cart-text-link sqs-custom-cart  header-icon  show-empty-cart-state cart-quantity-zero header-icon-border-shape-none header-icon-border-style-outline"  href="https://journal.iba-du.edu/-/rokokbet/">
+                        
+                          Cart
+                          
+                <span class="cart-quantity-container">
+                  
+                    &#40;<span class="sqs-cart-quantity">0</span>&#41;
+                  
+                </span>
+              
+                        
+                      </a>
+                    </div>
+                  
+                
+              
+                
+              </div>
+
+              
+            </div>
+          
+            
+
+
+<style>
+  .top-bun, 
+  .patty, 
+  .bottom-bun {
+    height: 2px;
+  }
+</style>
+
+<!-- Burger -->
+<div class="header-burger
+
+  menu-overlay-does-not-have-visible-non-navigation-items
+
+
+  
+  no-actions
+  
+" data-animation-role="header-element">
+  <button class="header-burger-btn burger" data-test="header-burger">
+    <span hidden class="js-header-burger-open-title visually-hidden">Open Menu</span>
+    <span hidden class="js-header-burger-close-title visually-hidden">Close Menu</span>
+    <div class="burger-box">
+      <div class="burger-inner header-menu-icon-doubleLineHamburger">
+        <div class="top-bun"></div>
+        <div class="patty"></div>
+        <div class="bottom-bun"></div>
+      </div>
+    </div>
+  </button>
+</div>
+
+          
+          
+          
+          
+          
+        </div>
+      </div>
+    </div>
+    <!-- (Mobile) Menu Navigation -->
+    <div class="header-menu header-menu--folder-list
+      light
+      
+      
+      
+      
+      "
+      data-section-theme="light"
+      data-current-styles="{
+&quot;layout&quot;: &quot;navRight&quot;,
+&quot;action&quot;: {
+&quot;buttonText&quot;: &quot;Get Started&quot;,
+&quot;newWindow&quot;: false
+},
+&quot;showSocial&quot;: false,
+&quot;socialOptions&quot;: {
+&quot;socialBorderShape&quot;: &quot;none&quot;,
+&quot;socialBorderStyle&quot;: &quot;outline&quot;,
+&quot;socialBorderThickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+},
+&quot;sectionTheme&quot;: &quot;&quot;,
+&quot;menuOverlayTheme&quot;: &quot;light&quot;,
+&quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
+&quot;cartStyle&quot;: &quot;text&quot;,
+&quot;cartText&quot;: &quot;Cart&quot;,
+&quot;showEmptyCartState&quot;: true,
+&quot;cartOptions&quot;: {
+&quot;iconType&quot;: &quot;stroke-1&quot;,
+&quot;cartBorderShape&quot;: &quot;none&quot;,
+&quot;cartBorderStyle&quot;: &quot;outline&quot;,
+&quot;cartBorderThickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+},
+&quot;showButton&quot;: false,
+&quot;showCart&quot;: true,
+&quot;showAccountLogin&quot;: false,
+&quot;headerStyle&quot;: &quot;dynamic&quot;,
+&quot;languagePicker&quot;: {
+&quot;enabled&quot;: false,
+&quot;iconEnabled&quot;: false,
+&quot;iconType&quot;: &quot;globe&quot;,
+&quot;flagShape&quot;: &quot;shiny&quot;,
+&quot;languageFlags&quot;: [ ]
+},
+&quot;mobileOptions&quot;: {
+&quot;layout&quot;: &quot;logoLeftNavRight&quot;,
+&quot;menuIcon&quot;: &quot;halfLineHamburger&quot;,
+&quot;menuIconOptions&quot;: {
+&quot;style&quot;: &quot;doubleLineHamburger&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 2.0
+}
+}
+},
+&quot;dynamicOptions&quot;: {
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;allSides&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+}
+}
+},
+&quot;solidOptions&quot;: {
+&quot;headerOpacity&quot;: {
+&quot;unit&quot;: &quot;%&quot;,
+&quot;value&quot;: 100.0
+},
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;allSides&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+}
+},
+&quot;dropShadow&quot;: {
+&quot;enabled&quot;: false,
+&quot;blur&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 30.0
+},
+&quot;spread&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;distance&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+}
+},
+&quot;blurBackground&quot;: {
+&quot;enabled&quot;: false,
+&quot;blurRadius&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+}
+},
+&quot;gradientOptions&quot;: {
+&quot;gradientType&quot;: &quot;faded&quot;,
+&quot;headerOpacity&quot;: {
+&quot;unit&quot;: &quot;%&quot;,
+&quot;value&quot;: 90.0
+},
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;allSides&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+}
+},
+&quot;dropShadow&quot;: {
+&quot;enabled&quot;: false,
+&quot;blur&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 30.0
+},
+&quot;spread&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;distance&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+}
+},
+&quot;blurBackground&quot;: {
+&quot;enabled&quot;: false,
+&quot;blurRadius&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+}
+},
+&quot;dropShadowOptions&quot;: {
+&quot;enabled&quot;: false,
+&quot;blur&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+},
+&quot;spread&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;distance&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+},
+&quot;borderOptions&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;allSides&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+}
+},
+&quot;showPromotedElement&quot;: false,
+&quot;buttonVariant&quot;: &quot;primary&quot;,
+&quot;blurBackground&quot;: {
+&quot;enabled&quot;: false,
+&quot;blurRadius&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+},
+&quot;headerOpacity&quot;: {
+&quot;unit&quot;: &quot;%&quot;,
+&quot;value&quot;: 100.0
+}
+}"
+      data-section-id="overlay-nav"
+      data-show-account-login="false"
+      data-test="header-menu">
+      <div class="header-menu-bg theme-bg--primary"></div>
+      <div class="header-menu-nav">
+        <nav class="header-menu-nav-list">
+          <div data-folder="root" class="header-menu-nav-folder">
+            <div class="header-menu-nav-folder-content">
+              <!-- Menu Navigation -->
+<div class="header-menu-nav-wrapper">
+  
+    
+      
+        
+          
+            <div class="container header-menu-nav-item header-menu-nav-item--collection header-menu-nav-item--active">
+              <a
+                href="https://journal.iba-du.edu/-/rokokbet/"
+                
+                  aria-current="page"
+                
+              >
+                <div class="header-menu-nav-item-content">
+                  Store
+                </div>
+              </a>
+            </div>
+          
+        
+      
+    
+      
+        
+          
+            <div class="container header-menu-nav-item header-menu-nav-item--collection">
+              <a
+                href="https://journal.iba-du.edu/-/rokokbet/"
+                
+              >
+                <div class="header-menu-nav-item-content">
+                  Shop
+                </div>
+              </a>
+            </div>
+          
+        
+      
+    
+      
+        
+          
+            <div class="container header-menu-nav-item header-menu-nav-item--collection">
+              <a
+                href="https://journal.iba-du.edu/-/rokokbet/"
+                
+              >
+                <div class="header-menu-nav-item-content">
+                  About
+                </div>
+              </a>
+            </div>
+          
+        
+      
+    
+      
+        
+          
+            <div class="container header-menu-nav-item header-menu-nav-item--collection">
+              <a
+                href="https://journal.iba-du.edu/-/rokokbet/"
+                
+              >
+                <div class="header-menu-nav-item-content">
+                  Contact
+                </div>
+              </a>
+            </div>
+          
+        
+      
+    
+  
+</div>
+
+              
+            </div>
+            
+            
+            
+          </div>
+        </nav>
+      </div>
+    </div>
+  </header>
+
+
+
+
+      <main id="page" class="container" role="main">
+        
+          
+<article class="sections" id="sections" data-page-sections="6610ef112b6a032dd09c8a52">
+  
+  
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme=""
+  class='page-section 
+    
+      content-collection
+      full-bleed-section
+      collection-type-products
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    '
+  
+  data-section-id="6610fa636c145d48a9db04bc"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+&quot;imageOverlayOpacity&quot;: 0.15,
+&quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+&quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+&quot;customSectionHeight&quot;: 10,
+&quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+&quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+&quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+&quot;customContentWidth&quot;: 50,
+&quot;backgroundColor&quot;: &quot;&quot;,
+&quot;sectionTheme&quot;: &quot;&quot;,
+&quot;sectionAnimation&quot;: &quot;none&quot;,
+&quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-current-context="{
+&quot;video&quot;: null,
+&quot;backgroundImageId&quot;: null,
+&quot;backgroundMediaEffect&quot;: null,
+&quot;divider&quot;: null,
+&quot;typeName&quot;: &quot;products&quot;
+}"
+  data-animation="none"
+  
+   
+  
+    
+  
+  
+>
+  <div
+    class="section-border" 
+    
+  >
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'style='
+      
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      
+<section 
+  id="pdp"
+  class="
+    products
+    collection-content-wrapper
+    product-layout-side-by-side
+  "
+>
+	
+
+
+
+  
+  
+  
+
+  <article class="ProductItem hentry tag-slot-gacor tag-slot-gacor-hari-ini tag-slot-gacor-2024 tag-slot-gacor-terpercaya author-toko-kertas post-type-store-item featured on-sale" data-item-id="6610ef1b39ab8811c4a1f37f">
+
+    <nav class="ProductItem-nav">
+  <div class="ProductItem-nav-breadcrumb" data-animation-role="content">
+    <a href="https://journal.iba-du.edu/-/rokokbet/" class="ProductItem-nav-breadcrumb-link">Store</a>
+    <span class="ProductItem-nav-breadcrumb-separator"></span>
+    <a href="/store/p/"situs-toto-slot-dan-agen-togel-terpercaya-gacor-rokokbet class="ProductItem-nav-breadcrumb-link">ROKOKBET: Situs Toto Terpercaya Hadiah Terbesar Bet 100 Perak Resmi 2024</a>
+  </div>
+  
+  
+  
+</nav>
+
+
+    <section class="ProductItem-summary" data-controller="ProductGallery">
+      <section
+  aria-label="Gallery"
+  class="ProductItem-gallery"
+  data-product-gallery="container"
+>
+  
+  
+    <div
+      class="ProductItem-gallery-slides"
+      data-animation-role="image"
+      data-product-gallery="slides"
+    >
+      
+      
+        
+          <div
+            class="ProductItem-gallery-slides-item"
+            data-slide-index="1"
+            data-image-id=6610f9da469dec2b2b5ea299
+            data-controller="ImageZoom"
+            data-slide-url="wx2s8e6rvcqxo4l6zb1t2ddl0vi44n"
+            data-product-gallery="slides-item"
+            data-test="pdp-gallery-slide"
+          >
+            <img
+              aria-describedby="ProductItem-gallery-slides-item-1-index-6610f9da469dec2b2b5ea299"
+              class="ProductItem-gallery-slides-item-image"
+              data-load="false"
+              data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE0uRjcNzWBOTDYz6X0SOXH0cL6Ugdc2J7fpqGWKcJcUFUQ2iwmS62meX1pafV0D_oXXT0Tjt3hXlMT4HnwjWWGRsA6NqCAEtQz-L-OUpXOlWTLI_1SW7xun-KdUx1NNDaepURZTyXd80spGX1EHry2nmATJhk_Yq0g4apLjuwNFtzxtCAM4FllBJS6V-g/s600/robet.png" data-image="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE0uRjcNzWBOTDYz6X0SOXH0cL6Ugdc2J7fpqGWKcJcUFUQ2iwmS62meX1pafV0D_oXXT0Tjt3hXlMT4HnwjWWGRsA6NqCAEtQz-L-OUpXOlWTLI_1SW7xun-KdUx1NNDaepURZTyXd80spGX1EHry2nmATJhk_Yq0g4apLjuwNFtzxtCAM4FllBJS6V-g/s600/robet.png" data-image-dimensions="850x850" data-image-focal-point="0.5,0.5" alt="totoslot" 
+              elementtiming="nbf-products-gallery"
+            />
+            <span
+              id="ProductItem-gallery-slides-item-1-index-6610f9da469dec2b2b5ea299"
+              style="display: none;"
+            >
+              Image 1 of 
+            </span>
+            <div class="product-image-zoom-duplicate" aria-hidden="true">
+              <img data-load="false" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE0uRjcNzWBOTDYz6X0SOXH0cL6Ugdc2J7fpqGWKcJcUFUQ2iwmS62meX1pafV0D_oXXT0Tjt3hXlMT4HnwjWWGRsA6NqCAEtQz-L-OUpXOlWTLI_1SW7xun-KdUx1NNDaepURZTyXd80spGX1EHry2nmATJhk_Yq0g4apLjuwNFtzxtCAM4FllBJS6V-g/s600/robet.png" data-image="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE0uRjcNzWBOTDYz6X0SOXH0cL6Ugdc2J7fpqGWKcJcUFUQ2iwmS62meX1pafV0D_oXXT0Tjt3hXlMT4HnwjWWGRsA6NqCAEtQz-L-OUpXOlWTLI_1SW7xun-KdUx1NNDaepURZTyXd80spGX1EHry2nmATJhk_Yq0g4apLjuwNFtzxtCAM4FllBJS6V-g/s600/robet.png" data-image-dimensions="850x850" data-image-focal-point="0.5,0.5" alt="totoslot"  elementtiming="nbf-products-gallery-zoom" />
+            </div>
+          </div>
+        
+        
+      
+      <div
+        class="gallery-lightbox-outer-wrapper"
+        data-use-image-loader="true"
+        data-controller="Lightbox"
+      >
+        <div class="gallery-lightbox " data-section-theme="">
+  <div class="gallery-lightbox-background"></div>
+
+<div class="gallery-lightbox-header">
+  <button class="gallery-lightbox-close-btn" aria-label="Close" data-close data-test="gallery-lightbox-close">
+    <div class="gallery-lightbox-close-btn-icon">
+      <svg viewBox="0 0 40 40">
+        <path d="M4.3,35.7L35.7,4.3"/>
+        <path d="M4.3,4.3l31.4,31.4"/>
+      </svg>
+    </div>
+  </button>
+</div>
+
+
+  <div class="gallery-lightbox-wrapper">
+    <div class="gallery-lightbox-list">
+      
+      <figure class="gallery-lightbox-item" data-slide-url="wx2s8e6rvcqxo4l6zb1t2ddl0vi44n">
+        <div class="gallery-lightbox-item-wrapper">
+          <div class="gallery-lightbox-item-src">
+            <div class="gallery-lightbox-item-img content-fit">
+              <img data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE0uRjcNzWBOTDYz6X0SOXH0cL6Ugdc2J7fpqGWKcJcUFUQ2iwmS62meX1pafV0D_oXXT0Tjt3hXlMT4HnwjWWGRsA6NqCAEtQz-L-OUpXOlWTLI_1SW7xun-KdUx1NNDaepURZTyXd80spGX1EHry2nmATJhk_Yq0g4apLjuwNFtzxtCAM4FllBJS6V-g/s600/robet.png" data-image="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE0uRjcNzWBOTDYz6X0SOXH0cL6Ugdc2J7fpqGWKcJcUFUQ2iwmS62meX1pafV0D_oXXT0Tjt3hXlMT4HnwjWWGRsA6NqCAEtQz-L-OUpXOlWTLI_1SW7xun-KdUx1NNDaepURZTyXd80spGX1EHry2nmATJhk_Yq0g4apLjuwNFtzxtCAM4FllBJS6V-g/s600/robet.png" data-image-dimensions="850x850" data-image-focal-point="0.5,0.5" alt="totoslot"  data-load="false" elementtiming="nbf-product-lightbox" />
+            </div>
+          </div>
+        </div>
+      </figure>
+      
+    </div>
+
+    <div class="gallery-lightbox-controls" data-test="gallery-lightbox-controls">
+  <div class="gallery-lightbox-control" data-previous data-test="gallery-lightbox-control-previous">
+    <button class="gallery-lightbox-control-btn" aria-label="Previous Slide">
+      <div class="gallery-lightbox-control-btn-icon">
+        <svg class="caret-left-icon--small" viewBox="0 0 9 16">
+          <polyline fill="none" stroke-miterlimit="10" points="7.3,14.7 2.5,8 7.3,1.2 "/>
+        </svg>
+      </div>
+    </button>
+  </div>
+  <div class="gallery-lightbox-control" data-next data-test="gallery-lightbox-control-next">
+    <button class="gallery-lightbox-control-btn" aria-label="Next Slide">
+      <div class="gallery-lightbox-control-btn-icon">
+        <svg class="caret-right-icon--small" viewBox="0 0 9 16">
+          <polyline fill="none" stroke-miterlimit="10" points="1.6,1.2 6.5,7.9 1.6,14.7 "/>
+        </svg>
+      </div>
+    </button>
+  </div>
+</div>
+
+  </div>
+</div>
+      </div>
+    </div>
+  
+</section>
+
+      <section
+  class="
+    product-details
+    ProductItem-details
+  "
+  data-test="pdp-details"
+>
+  <h1
+    class="ProductItem-details-title"
+    data-content-field="title"
+    data-test="pdp-title"
+  >
+    ROKOKBET: Situs Toto Terpercaya Hadiah Terbesar Bet 100 Perak Resmi 2024
+  </h1>
+  <div
+    data-controller="ProductItemVariants,ProductCartButton" 
+    class="ProductItem-details-checkout"
+  >
+    
+    <div
+      class="ProductItem-product-price"
+      data-animation-role="content"
+    >
+      
+
+
+<div class="product-price">
+<span class="visually-hidden v6-visually-hidden">Sale Price:</span>IDR 10,000.00 <span class="visually-hidden v6-visually-hidden">Original Price:</span><span class="original-price">IDR 20,000.00</span>
+
+</div>
+
+      
+        
+<div data-afterpay="true" data-current-context="{
+&quot;6610ef1b39ab8811c4a1f37f&quot;: {
+&quot;scarcityEnabled&quot;: false,
+&quot;scarcityShownByDefault&quot;: false,
+&quot;afterPayAvailable&quot;: false,
+&quot;klarnaAvailable&quot;: false,
+&quot;shopperLanguage&quot;: &quot;en&quot;,
+&quot;afterPayMin&quot;: 0,
+&quot;afterPayMax&quot;: 0,
+&quot;klarnaMin&quot;: 0,
+&quot;klarnaMax&quot;: 0,
+&quot;mailingListSignUpEnabled&quot;: false,
+&quot;mailingListOptInByDefault&quot;: false
+}
+}"></div>
+<div class="pdp-overlay"></div>
+      
+
+      
+      <div class="product-mark sale">sale</div>
+    </div>
+    
+      <div
+        class="ProductItem-details-excerpt"
+        data-content-field="excerpt"
+      >
+        <p class="" style="white-space:pre-wrap;">Selamat datang di ROKOKBET yang merupakan <a href="https://journal.iba-du.edu/-/rokokbet/">situs toto</a> terpercaya penyedia hadiah terbesar dengan bet termurah yakni 100 perak dan tentunya resmi 2024 di Indonesia.</p>
+      </div>
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+    
+
+
+<div class="product-quantity-input" data-item-id="6610ef1b39ab8811c4a1f37f" data-animation-role="content">
+  <div class="quantity-label">Quantity:</div>
+  <input aria-label="Quantity" size="4" max="9999" min="1" value="1" type="number" step="1"></input>
+</div>
+    
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="sqs-add-to-cart-button-wrapper" data-animation-role="button">
+  <div class="sqs-add-to-cart-button sqs-suppress-edit-mode sqs-editable-button sqs-button-element--primary " role="button" tabindex="0" data-dynamic-strings data-collection-id="6610ef112b6a032dd09c8a51" data-item-id="6610ef1b39ab8811c4a1f37f" data-product-type="1" data-use-custom-label="false" data-original-label="Add To Cart" >
+    <div class="sqs-add-to-cart-button-inner"><a class="link1 animated fadeInLeft slow" href="https://pub-8a4c8983490547dbb84bed26ac17a447.r2.dev/situstoto.html" target="_blank" rel="nofollow">DAFTAR SITUS TOTO</a></div>
+  </div>
+</div>
+    
+  </div>
+</section>
+
+    </section>
+
+    
+
+    
+    
+
+    
+
+  </article>
+
+
+
+</section>
+    </div>
+  
+  </div>
+  
+</section>
+
+  
+</article>
+
+
+          
+
+          
+          
+        
+      </main>
+      <script type="text/javascript">
+        const firstSection = document.querySelector('.page-section');
+        const header = document.querySelector('.header');
+        const mobileOverlayNav = document.querySelector('.header-menu');
+        const sectionBackground = firstSection ? firstSection.querySelector('.section-background') : null;
+        const headerHeight = header ? header.getBoundingClientRect().height : 0;
+        const firstSectionHasBackground = firstSection ? firstSection.className.indexOf('has-background') >= 0 : false;
+        const isFirstSectionInset = firstSection ? firstSection.className.indexOf('background-width--inset') >= 0 : false;
+        const isLayoutEngineSection = firstSection ? firstSection.className.indexOf('layout-engine-section') >= 0 : false;
+
+        if (firstSection) {
+          firstSection.style.paddingTop = headerHeight + 'px';
+        }
+        if (sectionBackground && isLayoutEngineSection) {
+          if (isFirstSectionInset) {
+            sectionBackground.style.top = headerHeight + 'px';
+          } else {
+            sectionBackground.style.top = '';
+          }
+        }
+        //# sourceURL=headerPositioning.js
+      </script>
+
+      
+        <footer class="sections" id="footer-sections" data-footer-sections>
+  
+  
+  
+  
+  
+  
+</footer>
+
+      
+    </div>
+
+    <script defer="defer" src="https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/site-bundle.31e4754f5aa3696497094ed1d16acdeb.js" type="text/javascript"></script>
+    <svg xmlns="http://www.w3.org/2000/svg" version="1.1" style="display:none" data-usage="social-icons-svg"><symbol id="instagram-unauth-icon" viewBox="0 0 64 64"><path d="M46.91,25.816c-0.073-1.597-0.326-2.687-0.697-3.641c-0.383-0.986-0.896-1.823-1.73-2.657c-0.834-0.834-1.67-1.347-2.657-1.73c-0.954-0.371-2.045-0.624-3.641-0.697C36.585,17.017,36.074,17,32,17s-4.585,0.017-6.184,0.09c-1.597,0.073-2.687,0.326-3.641,0.697c-0.986,0.383-1.823,0.896-2.657,1.73c-0.834,0.834-1.347,1.67-1.73,2.657c-0.371,0.954-0.624,2.045-0.697,3.641C17.017,27.415,17,27.926,17,32c0,4.074,0.017,4.585,0.09,6.184c0.073,1.597,0.326,2.687,0.697,3.641c0.383,0.986,0.896,1.823,1.73,2.657c0.834,0.834,1.67,1.347,2.657,1.73c0.954,0.371,2.045,0.624,3.641,0.697C27.415,46.983,27.926,47,32,47s4.585-0.017,6.184-0.09c1.597-0.073,2.687-0.326,3.641-0.697c0.986-0.383,1.823-0.896,2.657-1.73c0.834-0.834,1.347-1.67,1.73-2.657c0.371-0.954,0.624-2.045,0.697-3.641C46.983,36.585,47,36.074,47,32S46.983,27.415,46.91,25.816z M44.21,38.061c-0.067,1.462-0.311,2.257-0.516,2.785c-0.272,0.7-0.597,1.2-1.122,1.725c-0.525,0.525-1.025,0.85-1.725,1.122c-0.529,0.205-1.323,0.45-2.785,0.516c-1.581,0.072-2.056,0.087-6.061,0.087s-4.48-0.015-6.061-0.087c-1.462-0.067-2.257-0.311-2.785-0.516c-0.7-0.272-1.2-0.597-1.725-1.122c-0.525-0.525-0.85-1.025-1.122-1.725c-0.205-0.529-0.45-1.323-0.516-2.785c-0.072-1.582-0.087-2.056-0.087-6.061s0.015-4.48,0.087-6.061c0.067-1.462,0.311-2.257,0.516-2.785c0.272-0.7,0.597-1.2,1.122-1.725c0.525-0.525,1.025-0.85,1.725-1.122c0.529-0.205,1.323-0.45,2.785-0.516c1.582-0.072,2.056-0.087,6.061-0.087s4.48,0.015,6.061,0.087c1.462,0.067,2.257,0.311,2.785,0.516c0.7,0.272,1.2,0.597,1.725,1.122c0.525,0.525,0.85,1.025,1.122,1.725c0.205,0.529,0.45,1.323,0.516,2.785c0.072,1.582,0.087,2.056,0.087,6.061S44.282,36.48,44.21,38.061z M32,24.297c-4.254,0-7.703,3.449-7.703,7.703c0,4.254,3.449,7.703,7.703,7.703c4.254,0,7.703-3.449,7.703-7.703C39.703,27.746,36.254,24.297,32,24.297z M32,37c-2.761,0-5-2.239-5-5c0-2.761,2.239-5,5-5s5,2.239,5,5C37,34.761,34.761,37,32,37z M40.007,22.193c-0.994,0-1.8,0.806-1.8,1.8c0,0.994,0.806,1.8,1.8,1.8c0.994,0,1.8-0.806,1.8-1.8C41.807,22.999,41.001,22.193,40.007,22.193z"/></symbol><symbol id="instagram-unauth-mask" viewBox="0 0 64 64"><path d="M43.693,23.153c-0.272-0.7-0.597-1.2-1.122-1.725c-0.525-0.525-1.025-0.85-1.725-1.122c-0.529-0.205-1.323-0.45-2.785-0.517c-1.582-0.072-2.056-0.087-6.061-0.087s-4.48,0.015-6.061,0.087c-1.462,0.067-2.257,0.311-2.785,0.517c-0.7,0.272-1.2,0.597-1.725,1.122c-0.525,0.525-0.85,1.025-1.122,1.725c-0.205,0.529-0.45,1.323-0.516,2.785c-0.072,1.582-0.087,2.056-0.087,6.061s0.015,4.48,0.087,6.061c0.067,1.462,0.311,2.257,0.516,2.785c0.272,0.7,0.597,1.2,1.122,1.725s1.025,0.85,1.725,1.122c0.529,0.205,1.323,0.45,2.785,0.516c1.581,0.072,2.056,0.087,6.061,0.087s4.48-0.015,6.061-0.087c1.462-0.067,2.257-0.311,2.785-0.516c0.7-0.272,1.2-0.597,1.725-1.122s0.85-1.025,1.122-1.725c0.205-0.529,0.45-1.323,0.516-2.785c0.072-1.582,0.087-2.056,0.087-6.061s-0.015-4.48-0.087-6.061C44.143,24.476,43.899,23.682,43.693,23.153z M32,39.703c-4.254,0-7.703-3.449-7.703-7.703s3.449-7.703,7.703-7.703s7.703,3.449,7.703,7.703S36.254,39.703,32,39.703z M40.007,25.793c-0.994,0-1.8-0.806-1.8-1.8c0-0.994,0.806-1.8,1.8-1.8c0.994,0,1.8,0.806,1.8,1.8C41.807,24.987,41.001,25.793,40.007,25.793z M0,0v64h64V0H0z M46.91,38.184c-0.073,1.597-0.326,2.687-0.697,3.641c-0.383,0.986-0.896,1.823-1.73,2.657c-0.834,0.834-1.67,1.347-2.657,1.73c-0.954,0.371-2.044,0.624-3.641,0.697C36.585,46.983,36.074,47,32,47s-4.585-0.017-6.184-0.09c-1.597-0.073-2.687-0.326-3.641-0.697c-0.986-0.383-1.823-0.896-2.657-1.73c-0.834-0.834-1.347-1.67-1.73-2.657c-0.371-0.954-0.624-2.044-0.697-3.641C17.017,36.585,17,36.074,17,32c0-4.074,0.017-4.585,0.09-6.185c0.073-1.597,0.326-2.687,0.697-3.641c0.383-0.986,0.896-1.823,1.73-2.657c0.834-0.834,1.67-1.347,2.657-1.73c0.954-0.371,2.045-0.624,3.641-0.697C27.415,17.017,27.926,17,32,17s4.585,0.017,6.184,0.09c1.597,0.073,2.687,0.326,3.641,0.697c0.986,0.383,1.823,0.896,2.657,1.73c0.834,0.834,1.347,1.67,1.73,2.657c0.371,0.954,0.624,2.044,0.697,3.641C46.983,27.415,47,27.926,47,32C47,36.074,46.983,36.585,46.91,38.184z M32,27c-2.761,0-5,2.239-5,5s2.239,5,5,5s5-2.239,5-5S34.761,27,32,27z"/></symbol></svg>
+
+  </body>
+<div style="display:none">
+<p><a href="https://dohfp.uk.gov.in/mis/-/rokokbet/" rel="dofollow">rokokbet</a></p>
+<p><a href="https://www.heylexi.com/" rel="dofollow">situs togel</a></p>
+<p><a href="https://www.bonneva.com/-/rokokbet/" rel="dofollow">rokokbet</a></p>
+</div>
 </html>
