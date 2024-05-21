@@ -1,1731 +1,1916 @@
-<!doctype html>
-<html class="no-js" lang="en">
-
-<head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width,initial-scale=1">
-    <meta name="theme-color" content="">
-    <meta name="google-site-verification" content="TIB5y4bWPn9UUyRstEeIrRWjLvsasiA3dZcnntc6SzM" />
-    <meta name="page google.com" content="https://www.google.com/search?q=nana4d">
-    <meta name="page google.co.id" content="https://www.google.co.id/search?q=nana4d">
-    <meta name="page google.com" content="https://www.google.com/search?q=slot+thailand">
-    <meta name="page google.co.id" content="https://www.google.co.id/search?q=slot+thailand">
-    <link rel="amphtml" href="https://keepfly.wiki/sthailand/" />
-    <link rel="canonical" href="https://journal.iba-du.edu/-/sthailand">
-    <link rel="icon" type="image/png"
-        href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFoWEhYJHcxPYfBUC8GSUBsWy9E_QHn3pYtDM3GbmLmQrm5e4-f6ER_EQwV0xvTNZwlzI-eChVIt3gEx-gAa7aVWRlqUK-k1OJ8FuEDrQ0zm5fa5gqHqozxDCnp1EaN7HN6hNccreP-lYm0CaqaAmjBpeYuuDDVG25KbuGiuCBpWp5HbpLqfQqVhnJKrLI/s16000/favicon-nana4d.png"
-        crossorigin>
-    <title>Nana4D : Situs Slot Thailand Gacor Hari Ini Gampang Maxwin Terpercaya</title>
-    <meta name="description"
-        content="Slot Thailand daftar link rekomendasi slot online yang meberikan hadiah jackpot dan dijamin gampang maxwin, oleh karena itu banyak para member slot bermain di Slot Thailand resmi hanya disini.">
-    <meta property="og:site_name" content="Slot Thailand">
-    <meta property="og:url" content="https://journal.iba-du.edu/-/sthailand">
-    <meta property="og:title" content="Nana4D : Situs Slot Thailand Gacor Hari Ini Gampang Maxwin Terpercaya">
-    <meta property="og:type" content="product">
-    <meta property="og:description"
-        content="Slot Thailand daftar link rekomendasi slot online yang meberikan hadiah jackpot dan dijamin gampang maxwin, oleh karena itu banyak para member slot bermain di Slot Thailand resmi hanya disini.">
-    <meta property="og:image"
-        content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfW9pZzpdZ5aoVuUcxmpxiZkBJRUs2-DEXRpmm7qDi8SNTrazSV6iJh8EEJIFN9JWSmeZqzw4NV622y-17mrVITTzv8X8-wzIUnPpfwPPGL4a4luL4OqabOI0ip0IIn4gSrPPZ46_2BYHMTr2W2mv9GcG-JoHCb1qa_EJlIZcMypSfZmIdnrBQv0fCNFoQ/s16000/SLOT-THAILAND.jpg">
-    <meta property="og:image:secure_url"
-        content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfW9pZzpdZ5aoVuUcxmpxiZkBJRUs2-DEXRpmm7qDi8SNTrazSV6iJh8EEJIFN9JWSmeZqzw4NV622y-17mrVITTzv8X8-wzIUnPpfwPPGL4a4luL4OqabOI0ip0IIn4gSrPPZ46_2BYHMTr2W2mv9GcG-JoHCb1qa_EJlIZcMypSfZmIdnrBQv0fCNFoQ/s16000/SLOT-THAILAND.jpg">
-    <meta property="og:image:width" content="800">
-    <meta property="og:image:height" content="600">
-    <meta property="og:price:amount" content="10.000,00">
-    <meta property="og:price:currency" content="IDR">
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Nana4D : Situs Slot Thailand Gacor Hari Ini Gampang Maxwin Terpercaya">
-    <meta name="keywords"
-        content="agen situs toto, login situs toto, togel hadiah 4d 10 juta, togel terpercaya, daftar situs toto, link togel, agen togel terbesar, bandar togel hadiah 4d 10 juta, bo togel terbesar di asia, 5 bandar togel terpercaya">
-    <meta name="twitter:description"
-        content="Slot Thailand daftar link rekomendasi slot online yang meberikan hadiah jackpot dan dijamin gampang maxwin, oleh karena itu banyak para member slot bermain di Slot Thailand resmi hanya disini.">
 
 
-    <script src="//6f576a-3.myshopify.com/cdn/shop/t/2/assets/constants.js?Slot Thailand" defer="defer"></script>
-    <script src="//6f576a-3.myshopify.com/cdn/shop/t/2/assets/pubsub.js?Slot Thailand" defer="defer"></script>
-    <script src="//6f576a-3.myshopify.com/cdn/shop/t/2/assets/global.js?Slot Thailand" defer="defer"></script>
-    <script src="//6f576a-3.myshopify.com/cdn/shop/t/2/assets/animations.js?v=88693664871331136111702891977"
-        defer="defer"></script>
-    <script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');</script>
-    <meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/61516513417/digital_wallets/dialog">
-    <link rel="alternate" type="application/json+oembed" href="https://earthquakecountry.org/dapurbet/.oembed">
-    <script async="async"
-        src="/checkouts/internal/preloads.js?permanent-domain=3da92b.myshopify.com&locale=en-ID"></script>
-    <script id="shopify-features"
-        type="application/json">{"accessToken":"62c67d12ea1a0f4ddcdea9ea0b0688e0","betas":["rich-media-storefront-analytics"],"domain":"6f576a-3.myshopify.com","predictiveSearch":true,"shopId":61516513417,"smart_payment_buttons_url":"https://journal.iba-du.edu/-/sthailand\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/spb.en.js","dynamic_checkout_cart_url":"https://journal.iba-du.edu/-/sthailand\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/dynamic-checkout-cart.en.js","locale":"en","optimusEnabled":true,"optimusHidden":false,"betterDynamicCheckoutRecommendationVariant":"control","shopPromisePDPV3Enabled":true}</script>
-    <script>var Shopify = Shopify || {};
-        Shopify.shop = "3da92b.myshopify.com";
-        Shopify.locale = "en";
-        Shopify.currency = { "active": "IDR", "rate": "1.0" };
-        Shopify.country = "ID";
-        Shopify.theme = { "name": "Refresh", "id": 130217050249, "theme_store_id": 1567, "role": "main" };
-        Shopify.theme.handle = "null";
-        Shopify.theme.style = { "id": null, "handle": null };
-        Shopify.cdnHost = "6f576a-3.myshopify.com/cdn";
-        Shopify.routes = Shopify.routes || {};
-        Shopify.routes.root = "/";</script>
-    <script type="module">!function (o) { (o.Shopify = o.Shopify || {}).modules = !0 }(window);</script>
-    <script>!function (o) { function n() { var o = []; function n() { o.push(Array.prototype.slice.apply(arguments)) } return n.q = o, n } var t = o.Shopify = o.Shopify || {}; t.loadFeatures = n(), t.autoloadFeatures = n() }(window);</script>
-    <script
-        id="__st">var __st = { "a": 61516513417, "offset": 25200, "reqid": "4093ac44-7287-4af5-a243-f0b5c9e0d37b", "pageurl": "6f576a-3.myshopify.com\/products\/slot-server-thailand?ose=false", "u": "69e3e7d2e955", "p": "product", "rtyp": "product", "rid": 7359980273801 };</script>
-    <script>window.ShopifyPaypalV4VisibilityTracking = true;</script>
-    <script>!function (o) { o.addEventListener("DOMContentLoaded", function () { window.Shopify = window.Shopify || {}, window.Shopify.recaptchaV3 = window.Shopify.recaptchaV3 || { siteKey: "6LcCR2cUAAAAANS1Gpq_mDIJ2pQuJphsSQaUEuc9" }; var t = ['form[action*="/contact"] input[name="form_type"][value="contact"]', 'form[action*="/comments"] input[name="form_type"][value="new_comment"]', 'form[action*="/account"] input[name="form_type"][value="customer_login"]', 'form[action*="/account"] input[name="form_type"][value="recover_customer_password"]', 'form[action*="/account"] input[name="form_type"][value="create_customer"]', 'form[action*="/contact"] input[name="form_type"][value="customer"]'].join(","); function n(e) { e = e.target; null == e || null != (e = function e(t, n) { if (null == t.parentElement) return null; if ("FORM" != t.parentElement.tagName) return e(t.parentElement, n); for (var o = t.parentElement.action, r = 0; r < n.length; r++)if (-1 !== o.indexOf(n[r])) return t.parentElement; return null }(e, ["/contact", "/comments", "/account"])) && null != e.querySelector(t) && ((e = o.createElement("script")).setAttribute("src", "https://cdn.shopify.com/shopifycloud/storefront-recaptcha-v3/v0.6/index.js"), o.body.appendChild(e), o.removeEventListener("focus", n, !0), o.removeEventListener("change", n, !0), o.removeEventListener("click", n, !0)) } o.addEventListener("click", n, !0), o.addEventListener("change", n, !0), o.addEventListener("focus", n, !0) }) }(document);</script>
-    <script integrity="sha256-h4dvokWvGcvRSqiG7VnGqoonxF0k3NeoHPLSMjUGIz4="
-        data-source-attribution="shopify.loadfeatures" defer="defer"
-        src="//6f576a-3.myshopify.com/cdn/shopifycloud/shopify/assets/storefront/load_feature-87876fa245af19cbd14aa886ed59c6aa8a27c45d24dcd7a81cf2d2323506233e.js"
-        crossorigin="anonymous"></script>
-    <script data-source-attribution="shopify.dynamic_checkout.dynamic.init">var Shopify = Shopify || {}; Shopify.PaymentButton = Shopify.PaymentButton || { isStorefrontPortableWallets: !0, init: function () { window.Shopify.PaymentButton.init = function () { }; var t = document.createElement("script"); t.src = "https://6f576a-3.myshopify.com/cdn/shopifycloud/portable-wallets/latest/portable-wallets.en.js", t.type = "module", document.head.appendChild(t) } };
+
+<!doctype html><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><base href="https://inlislite.lebakkab.go.id/products/sgacor/">
+<html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="id-ID" data-authenticated-account>
+  <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <base href="https://inlislite.lebakkab.go.id/products/sgacor/">
+    <meta charset="utf-8" />
+    <title>Slot Gacor: Link Terbaru Situs Slot Online Gacor Banjir Maxwin Setiap Hari</title>
+    <meta http-equiv="Accept-CH" content="Sec-CH-UA-Platform-Version, Sec-CH-UA-Model" />
+    <link rel="icon" type="image/x-icon" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_c97TIukSn3F71JjERq-3pPxUUvs9VyMRobhQ38OVcvE-N5TGz8PAJlCJr-zG_MloPysxFdVvXSICQd_7Sl3hAZA2jNJwHQAFkLBSbSJ5m90H-adXpqhk2oOHkHm2C_9Wa32wIboxeuYPU5Uc2m2YI8LAKizAV6kMGLPa9nXKqt-mmVBcckXZq6Gal4SN/s747/jabar-logo.png" />
+    <link rel="canonical" href="https://inlislite.lebakkab.go.id/products/sgacor/" />
+    <meta property="og:site_name" content="SLOT GACOR" />
+    <meta property="og:title" content="Slot Gacor: Link Terbaru Situs Slot Online Gacor Banjir Maxwin Setiap Hari" />
+    <meta property="og:url" content="https://inlislite.lebakkab.go.id/products/sgacor/" />
+    <meta property="og:type" content="product" />
+    <meta property="og:description" content="Slot gacor adalah pilihan link platform game slot online terbaru dan terbaik setiap hari yang menawarkan jaminan banjir kemenangan maxwin setiap hari untuk para pecinta slot online gacor." />
+    <meta property="og:image" content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEji5V0zXHO1Da2dFAhgb9QlyH3rDb9SHcKOoVHxTN1Gw9wBtFpqSXdUDP888lqBIWyuxE4UNtnT8X0j_etA7eoHScp0FkZ-RmYoyY4rLI9INV2w4hF4YO6zvTpYXNB2kqHqkPaeDyu4S63m-eP6jRuBBlO_a0EIOTMCXgbD_Kw6dI3aETUBlxLdmvCN7mTz/s1000/Slotgacor_20.webp" />
+    <meta property="og:image:width" content="500" />
+    <meta property="og:image:height" content="500" />
+    <meta property="product:price:amount" content="13000.00" />
+    <meta property="product:price:currency" content="IDR" />
+    <meta property="product:availability" content="instock" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="language" content="ID">
+    <meta name="copyright" content="SLOT GACOR">
+    <meta name="author" content="SLOT GACOR">
+    <meta name="distribution" content="global">
+    <meta name="publisher" content="SLOT GACOR">
+    <meta name="geo.placename" content="DKI Jakarta">
+    <meta name="geo.country" content="ID">
+    <meta name="geo.region" content="ID" />
+    <meta name="tgn.nation" content="Indonesia">
+    <meta property="og:locale" content="id_ID" />
+    <link rel="amphtml" href="https://pub-adfcc26382924050b4db214a34f3d10f.r2.dev/index.html">
+    <meta itemprop="name" content="Slot Gacor: Link Terbaru Situs Slot Online Gacor Banjir Maxwin Setiap Hari" />
+    <meta itemprop="url" content="https://inlislite.lebakkab.go.id/products/sgacor/" />
+    <meta itemprop="description" content="Slot gacor adalah pilihan link platform game slot online terbaru dan terbaik setiap hari yang menawarkan jaminan banjir kemenangan maxwin setiap hari untuk para pecinta slot online gacor." />
+    <meta itemprop="thumbnailUrl" content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEji5V0zXHO1Da2dFAhgb9QlyH3rDb9SHcKOoVHxTN1Gw9wBtFpqSXdUDP888lqBIWyuxE4UNtnT8X0j_etA7eoHScp0FkZ-RmYoyY4rLI9INV2w4hF4YO6zvTpYXNB2kqHqkPaeDyu4S63m-eP6jRuBBlO_a0EIOTMCXgbD_Kw6dI3aETUBlxLdmvCN7mTz/s1000/Slotgacor_20.webp" />
+    <link rel="image_src" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEji5V0zXHO1Da2dFAhgb9QlyH3rDb9SHcKOoVHxTN1Gw9wBtFpqSXdUDP888lqBIWyuxE4UNtnT8X0j_etA7eoHScp0FkZ-RmYoyY4rLI9INV2w4hF4YO6zvTpYXNB2kqHqkPaeDyu4S63m-eP6jRuBBlO_a0EIOTMCXgbD_Kw6dI3aETUBlxLdmvCN7mTz/s1000/Slotgacor_20.webp" />
+    <meta itemprop="image" content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEji5V0zXHO1Da2dFAhgb9QlyH3rDb9SHcKOoVHxTN1Gw9wBtFpqSXdUDP888lqBIWyuxE4UNtnT8X0j_etA7eoHScp0FkZ-RmYoyY4rLI9INV2w4hF4YO6zvTpYXNB2kqHqkPaeDyu4S63m-eP6jRuBBlO_a0EIOTMCXgbD_Kw6dI3aETUBlxLdmvCN7mTz/s1000/Slotgacor_20.webp" />
+    <meta name="twitter:title" content="Slot Gacor: Link Terbaru Situs Slot Online Gacor Banjir Maxwin Setiap Hari" />
+    <meta name="twitter:image" content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEji5V0zXHO1Da2dFAhgb9QlyH3rDb9SHcKOoVHxTN1Gw9wBtFpqSXdUDP888lqBIWyuxE4UNtnT8X0j_etA7eoHScp0FkZ-RmYoyY4rLI9INV2w4hF4YO6zvTpYXNB2kqHqkPaeDyu4S63m-eP6jRuBBlO_a0EIOTMCXgbD_Kw6dI3aETUBlxLdmvCN7mTz/s1000/Slotgacor_20.webp" />
+    <meta name="twitter:url" content="https://inlislite.lebakkab.go.id/products/sgacor/" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:description" content="Slot gacor adalah pilihan link platform game slot online terbaru dan terbaik setiap hari yang menawarkan jaminan banjir kemenangan maxwin setiap hari untuk para pecinta slot online gacor." />
+    <meta name="description" content="Slot gacor adalah pilihan link platform game slot online terbaru dan terbaik setiap hari yang menawarkan jaminan banjir kemenangan maxwin setiap hari untuk para pecinta slot online gacor." />
+    <link rel="preconnect" href="https://images.squarespace-cdn.com">
+    <script type="text/javascript" src="//use.typekit.net/ik/tGZRA1cbGdvxElqE-govWC2p0hxpuyD0RAN69hPJxovfen6gfFHN4UJLFRbh52jhWDjhwQyqwDjawhbuZcZRwc9UZRIuZcwuZyGMJ68Td1s8ScZyjh9K2A8KdPu3demtOAuzdcvKIcmuScNDie8CZPu8pYs8dcs8ZfG4fJlwIMMjgfMfH6qJR93bMg6YJMJ7fbKwQgMMeMt6MKG4fJowIMMjIPMfH6GJznSfIMIjgPMfH6GJcwqgIMJjgfMfH6GJ1CqgIMJjgPMfH6GJ1vqgIMJj2KMfqMYGT053g6.js"></script>
+    <script type="text/javascript">
+      try {
+        Typekit.load();
+      } catch (e) {}
     </script>
-    <script integrity="sha256-HAs5a9TQVLlKuuHrahvWuke+s1UlxXohfHeoYv8G2D8="
-        data-source-attribution="shopify.dynamic-checkout" defer="defer"
-        src="//6f576a-3.myshopify.com/cdn/shopifycloud/shopify/assets/storefront/features-1c0b396bd4d054b94abae1eb6a1bd6ba47beb35525c57a217c77a862ff06d83f.js"
-        crossorigin="anonymous"></script>
-    <script id="sections-script" data-sections="header" defer="defer"
-        src="//6f576a-3.myshopify.com/cdn/shop/t/2/compiled_assets/scripts.js?17"></script>
-
-    <script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.end');</script>
-
-
-    <style data-shopify>
-        @font-face {
-            font-family: Questrial;
-            font-weight: 400;
-            font-style: normal;
-            font-display: swap;
-            src: url("//6f576a-3.myshopify.com/cdn/fonts/questrial/questrial_n4.0ba6d2b6094954bab23732c75d3ecb4c47a5869c.woff2?h1=M2RhOTJiLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=YW50aS1ydW5na2FkLm15c2hvcGlmeS5jb20&hmac=c1a491413b940f08f08381c0af7c4d5ce46d12a7b5ca195943ea29ccc7199c55") format("woff2"),
-                url("//6f576a-3.myshopify.com/cdn/fonts/questrial/questrial_n4.5abce10d8846bb9326c9741eaffed9667c847692.woff?h1=M2RhOTJiLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=YW50aS1ydW5na2FkLm15c2hvcGlmeS5jb20&hmac=10a7b0373f2c37d49bc797e79ce7d711f79adebf02655c6bfbb91c9e4a403f2e") format("woff");
-        }
-
-
-
-
-        @font-face {
-            font-family: Archivo;
-            font-weight: 700;
-            font-style: normal;
-            font-display: swap;
-            src: url("//6f576a-3.myshopify.com/cdn/fonts/archivo/archivo_n7.6f363ab30b12ea00d5e6243ed0e977a11393a3ad.woff2?h1=M2RhOTJiLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=YW50aS1ydW5na2FkLm15c2hvcGlmeS5jb20&hmac=c03f4f7d355f92154aae6a0716324675dc665c495afabdefa22d435c35fc7899") format("woff2"),
-                url("//6f576a-3.myshopify.com/cdn/fonts/archivo/archivo_n7.846b40a5735bbd149ad44b083a19c3e5d88d8fab.woff?h1=M2RhOTJiLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=YW50aS1ydW5na2FkLm15c2hvcGlmeS5jb20&hmac=a0af57f20b8eb2a1e1c4e7797d232a9da09785d1f4f365b720b61ed20f68b6f5") format("woff");
-        }
-
-
-
-        :root,
-        .color-background-1 {
-            --color-background: 72, 72, 72;
-
-            --gradient-background: #363636;
-
-
-
-
-            --color-foreground: 255, 255, 255;
-            --color-background-contrast: 8, 8, 8;
-            --color-shadow: 40, 40, 40;
-            --color-button: 255, 241, 0;
-            --color-button-text: 239, 240, 245;
-            --color-secondary-button: 72, 72, 72;
-            --color-secondary-button-text: 255, 241, 0;
-            --color-link: 255, 241, 0;
-            --color-badge-foreground: 255, 255, 255;
-            --color-badge-background: 72, 72, 72;
-            --color-badge-border: 255, 255, 255;
-            --payment-terms-background-color: rgb(0, 0, 0);
-        }
-
-
-        .color-background-2 {
-            --color-background: 255, 255, 255;
-
-            --gradient-background: #ffffff;
-
-
-
-
-            --color-foreground: 40, 40, 40;
-            --color-background-contrast: 191, 191, 191;
-            --color-shadow: 14, 27, 77;
-            --color-button: 250, 6, 186;
-            --color-button-text: 255, 255, 255;
-            --color-secondary-button: 255, 255, 255;
-            --color-secondary-button-text: 250, 6, 186;
-            --color-link: 250, 6, 186;
-            --color-badge-foreground: 40, 40, 40;
-            --color-badge-background: 255, 255, 255;
-            --color-badge-border: 40, 40, 40;
-            --payment-terms-background-color: rgb(255 255 255);
-        }
-
-
-        .color-inverse {
-            --color-background: 40, 40, 40;
-
-            --gradient-background: #7a00cc;
-
-
-
-
-            --color-foreground: 255, 255, 255;
-            --color-background-contrast: 53, 53, 53;
-            --color-shadow: 14, 27, 77;
-            --color-button: 250, 6, 186;
-            --color-button-text: 255, 255, 255;
-            --color-secondary-button: 40, 40, 40;
-            --color-secondary-button-text: 250, 6, 186;
-            --color-link: 250, 6, 186;
-            --color-badge-foreground: 255, 255, 255;
-            --color-badge-background: 40, 40, 40;
-            --color-badge-border: 255, 255, 255;
-            --payment-terms-background-color: rgb(40 40 40);
-        }
-
-
-        .color-accent-1 {
-            --color-background: 255, 241, 0;
-
-            --gradient-background: #f8f6eb;
-
-
-
-
-            --color-foreground: 43, 43, 43;
-            --color-background-contrast: 128, 121, 0;
-            --color-shadow: 40, 40, 40;
-            --color-button: 255, 255, 255;
-            --color-button-text: 180, 5, 134;
-            --color-secondary-button: 255, 241, 0;
-            --color-secondary-button-text: 255, 255, 255;
-            --color-link: 255, 255, 255;
-            --color-badge-foreground: 43, 43, 43;
-            --color-badge-background: 255, 241, 0;
-            --color-badge-border: 43, 43, 43;
-            --payment-terms-background-color: rgb(232 0 0);
-        }
-
-
-        .color-accent-2 {
-            --color-background: 227, 36, 2;
-
-            --gradient-background: #e32402;
-
-
-
-
-            --color-foreground: 255, 255, 255;
-            --color-background-contrast: 101, 16, 1;
-            --color-shadow: 14, 27, 77;
-            --color-button: 255, 255, 255;
-            --color-button-text: 227, 36, 2;
-            --color-secondary-button: 227, 36, 2;
-            --color-secondary-button-text: 255, 255, 255;
-            --color-link: 255, 255, 255;
-            --color-badge-foreground: 255, 255, 255;
-            --color-badge-background: 227, 36, 2;
-            --color-badge-border: 255, 255, 255;
-            --payment-terms-background-color: rgb(227 36 2);
-        }
-
-
-        body,
-        .color-background-1,
-        .color-background-2,
-        .color-inverse,
-        .color-accent-1,
-        .color-accent-2 {
-            color: rgba(var(--color-foreground), 0.75);
-            background-color: rgb(var(--color-background));
-        }
-
-        :root {
-            --font-body-family: Questrial, sans-serif;
-            --font-body-style: normal;
-            --font-body-weight: 400;
-            --font-body-weight-bold: 700;
-
-            --font-heading-family: Archivo, serif;
-            --font-heading-style: normal;
-            --font-heading-weight: 700;
-
-            --font-body-scale: 1.05;
-            --font-heading-scale: 1.0476190476190477;
-
-            --media-padding: px;
-            --media-border-opacity: 0.1;
-            --media-border-width: 0px;
-            --media-radius: 20px;
-            --media-shadow-opacity: 0.0;
-            --media-shadow-horizontal-offset: 0px;
-            --media-shadow-vertical-offset: 4px;
-            --media-shadow-blur-radius: 5px;
-            --media-shadow-visible: 0;
-
-            --page-width: 120rem;
-            --page-width-margin: 0rem;
-
-            --product-card-image-padding: 1.6rem;
-            --product-card-corner-radius: 1.8rem;
-            --product-card-text-alignment: left;
-            --product-card-border-width: 0.1rem;
-            --product-card-border-opacity: 1.0;
-            --product-card-shadow-opacity: 0.0;
-            --product-card-shadow-visible: 0;
-            --product-card-shadow-horizontal-offset: 0.0rem;
-            --product-card-shadow-vertical-offset: 0.4rem;
-            --product-card-shadow-blur-radius: 0.5rem;
-
-            --collection-card-image-padding: 1.6rem;
-            --collection-card-corner-radius: 1.8rem;
-            --collection-card-text-alignment: left;
-            --collection-card-border-width: 0.1rem;
-            --collection-card-border-opacity: 1.0;
-            --collection-card-shadow-opacity: 0.0;
-            --collection-card-shadow-visible: 0;
-            --collection-card-shadow-horizontal-offset: 0.0rem;
-            --collection-card-shadow-vertical-offset: 0.4rem;
-            --collection-card-shadow-blur-radius: 0.5rem;
-
-            --blog-card-image-padding: 1.6rem;
-            --blog-card-corner-radius: 1.8rem;
-            --blog-card-text-alignment: left;
-            --blog-card-border-width: 0.1rem;
-            --blog-card-border-opacity: 1.0;
-            --blog-card-shadow-opacity: 0.0;
-            --blog-card-shadow-visible: 0;
-            --blog-card-shadow-horizontal-offset: 0.0rem;
-            --blog-card-shadow-vertical-offset: 0.4rem;
-            --blog-card-shadow-blur-radius: 0.5rem;
-
-            --badge-corner-radius: 0.0rem;
-
-            --popup-border-width: 1px;
-            --popup-border-opacity: 0.1;
-            --popup-corner-radius: 18px;
-            --popup-shadow-opacity: 0.0;
-            --popup-shadow-horizontal-offset: 0px;
-            --popup-shadow-vertical-offset: 4px;
-            --popup-shadow-blur-radius: 5px;
-
-            --drawer-border-width: 0px;
-            --drawer-border-opacity: 0.1;
-            --drawer-shadow-opacity: 0.0;
-            --drawer-shadow-horizontal-offset: 0px;
-            --drawer-shadow-vertical-offset: 4px;
-            --drawer-shadow-blur-radius: 5px;
-
-            --spacing-sections-desktop: 0px;
-            --spacing-sections-mobile: 0px;
-
-            --grid-desktop-vertical-spacing: 28px;
-            --grid-desktop-horizontal-spacing: 28px;
-            --grid-mobile-vertical-spacing: 14px;
-            --grid-mobile-horizontal-spacing: 14px;
-
-            --text-boxes-border-opacity: 0.1;
-            --text-boxes-border-width: 0px;
-            --text-boxes-radius: 20px;
-            --text-boxes-shadow-opacity: 0.0;
-            --text-boxes-shadow-visible: 0;
-            --text-boxes-shadow-horizontal-offset: 0px;
-            --text-boxes-shadow-vertical-offset: 4px;
-            --text-boxes-shadow-blur-radius: 5px;
-
-            --buttons-radius: 40px;
-            --buttons-radius-outset: 41px;
-            --buttons-border-width: 1px;
-            --buttons-border-opacity: 1.0;
-            --buttons-shadow-opacity: 0.0;
-            --buttons-shadow-visible: 0;
-            --buttons-shadow-horizontal-offset: 0px;
-            --buttons-shadow-vertical-offset: 4px;
-            --buttons-shadow-blur-radius: 5px;
-            --buttons-border-offset: 0.3px;
-
-            --inputs-radius: 26px;
-            --inputs-border-width: 1px;
-            --inputs-border-opacity: 0.55;
-            --inputs-shadow-opacity: 0.0;
-            --inputs-shadow-horizontal-offset: 0px;
-            --inputs-margin-offset: 0px;
-            --inputs-shadow-vertical-offset: 4px;
-            --inputs-shadow-blur-radius: 5px;
-            --inputs-radius-outset: 27px;
-
-            --variant-pills-radius: 40px;
-            --variant-pills-border-width: 1px;
-            --variant-pills-border-opacity: 0.55;
-            --variant-pills-shadow-opacity: 0.0;
-            --variant-pills-shadow-horizontal-offset: 0px;
-            --variant-pills-shadow-vertical-offset: 4px;
-            --variant-pills-shadow-blur-radius: 5px;
-        }
-
-        *,
-        *::before,
-        *::after {
-            box-sizing: inherit;
-        }
-
-        html {
-            box-sizing: border-box;
-            font-size: calc(var(--font-body-scale) * 62.5%);
-            height: 100%;
-        }
-
-        body {
-            display: grid;
-            grid-template-rows: auto auto 1fr auto;
-            grid-template-columns: 100%;
-            min-height: 100%;
-            margin: 0;
-            font-size: 1.5rem;
-            letter-spacing: 0.06rem;
-            line-height: calc(1 + 0.8 / var(--font-body-scale));
-            font-family: var(--font-body-family);
-            font-style: var(--font-body-style);
-            font-weight: var(--font-body-weight);
-        }
-
-        @media screen and (min-width: 750px) {
-            body {
-                font-size: 1.6rem;
-            }
-        }
-    </style>
-
-    <link href="//6f576a-3.myshopify.com/cdn/shop/t/2/assets/base.css?v=127867003511637661291702891977" rel="stylesheet"
-        type="text/css" media="all" />
-    <link rel="preload" as="font"
-        href="//6f576a-3.myshopify.com/cdn/fonts/questrial/questrial_n4.0ba6d2b6094954bab23732c75d3ecb4c47a5869c.woff2?h1=M2RhOTJiLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=YW50aS1ydW5na2FkLm15c2hvcGlmeS5jb20&hmac=c1a491413b940f08f08381c0af7c4d5ce46d12a7b5ca195943ea29ccc7199c55"
-        type="font/woff2" crossorigin>
-    <link rel="preload" as="font"
-        href="//6f576a-3.myshopify.com/cdn/fonts/archivo/archivo_n7.6f363ab30b12ea00d5e6243ed0e977a11393a3ad.woff2?h1=M2RhOTJiLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=YW50aS1ydW5na2FkLm15c2hvcGlmeS5jb20&hmac=c03f4f7d355f92154aae6a0716324675dc665c495afabdefa22d435c35fc7899"
-        type="font/woff2" crossorigin>
-    <link rel="stylesheet"
-        href="//6f576a-3.myshopify.com/cdn/shop/t/2/assets/component-predictive-search.css?v=118923337488134913561702891978"
-        media="print" onload="this.media='all'">
+    <script type="text/javascript" crossorigin="anonymous" defer="defer" nomodule="nomodule" src="https://assets.squarespace.com/@sqs/polyfiller/1.6/legacy.js"></script>
+    <script type="text/javascript" crossorigin="anonymous" defer="defer" src="https://assets.squarespace.com/@sqs/polyfiller/1.6/modern.js"></script>
+    <script type="text/javascript">
+      SQUARESPACE_ROLLUPS = {};
+    </script>
     <script>
-        document.documentElement.className = document.documentElement.className.replace('no-js', 'js');
-        if (Shopify.designMode) {
-            document.documentElement.classList.add('shopify-design-mode');
+      (function(rollups, name) {
+        if (!rollups[name]) {
+          rollups[name] = {};
         }
+        rollups[name].js = ["https://assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-11996ee30e36bfe38c2f-min.en-US.js"];
+      })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');
     </script>
-    <link href="https://monorail-edge.shopifysvc.com" rel="dns-prefetch">
-    <script>(function () { if ("sendBeacon" in navigator && "performance" in window) { var session_token = document.cookie.match(/_shopify_s=([^;]*)/); function handle_abandonment_event(e) { var entries = performance.getEntries().filter(function (entry) { return /monorail-edge.shopifysvc.com/.test(entry.name); }); if (!window.abandonment_tracked && entries.length === 0) { window.abandonment_tracked = true; var currentMs = Date.now(); var navigation_start = performance.timing.navigationStart; var payload = { shop_id: 61516513417, url: window.location.href, navigation_start, duration: currentMs - navigation_start, session_token: session_token && session_token.length === 2 ? session_token[1] : "", page_type: "product" }; window.navigator.sendBeacon("https://monorail-edge.shopifysvc.com/v1/produce", JSON.stringify({ schema_id: "online_store_buyer_site_abandonment/1.1", payload: payload, metadata: { event_created_at_ms: currentMs, event_sent_at_ms: currentMs } })); } } window.addEventListener('pagehide', handle_abandonment_event); } }());</script>
-    <script
-        id="web-pixels-manager-setup">(function e(e, n, a, t, o, r, i) { var s = null !== e, l = ("function" == typeof BigInt && BigInt.toString().indexOf("[native code]") ? "modern" : "legacy").substring(0, 1), c = t.substring(0, 1); if (s) { window.Shopify = window.Shopify || {}; var d = window.Shopify; d.analytics = d.analytics || {}; var u = d.analytics; u.replayQueue = [], u.publish = function (e, n, a) { u.replayQueue.push([e, n, a]) }; try { self.performance.mark("wpm:start") } catch (e) { } } var p, f, y, h, v, m, w, g, b, _ = [a, "/wpm", "/", c, r, l, ".js"].join(""); f = (p = { src: _, async: !0, onload: function () { if (e) { var a = window.webPixelsManager.init(e); null == n || n(a); var t = window.Shopify.analytics; t.replayQueue.forEach((function (e) { var n = e[0], t = e[1], o = e[2]; a.publishCustomEvent(n, t, o) })), t.replayQueue = [], t.publish = a.publishCustomEvent, t.visitor = a.visitor } }, onerror: function () { var n = (null == e ? void 0 : e.storefrontBaseUrl) ? e.storefrontBaseUrl.replace(/\/$/, "") : self.location.origin, a = "".concat(n, "/.well-known/shopify/monorail/unstable/produce_batch"), t = JSON.stringify({ metadata: { event_sent_at_ms: (new Date).getTime() }, events: [{ schema_id: "web_pixels_manager_load/2.0", payload: { version: o || "latest", page_url: self.location.href, status: "failed", error_msg: "".concat(_, " has failed to load") }, metadata: { event_created_at_ms: (new Date).getTime() } }] }); try { if (self.navigator.sendBeacon.bind(self.navigator)(a, t)) return !0 } catch (e) { } var r = new XMLHttpRequest; try { return r.open("POST", a, !0), r.setRequestHeader("Content-Type", "text/plain"), r.send(t), !0 } catch (e) { console && console.warn && console.warn("[Web Pixels Manager] Got an unhandled error while logging a load error.") } return !1 } }).src, y = p.async, h = void 0 === y || y, v = p.onload, m = p.onerror, w = document.createElement("script"), g = document.head, b = document.body, w.async = h, w.src = f, v && w.addEventListener("load", v), m && w.addEventListener("error", m), g ? g.appendChild(w) : b ? b.appendChild(w) : console.error("Did not find a head or body element to append the script") })({ shopId: 61516513417, storefrontBaseUrl: "https://6f576a-3.myshopify.com", cdnBaseUrl: "https://6f576a-3.myshopify.com/cdn", surface: "storefront-renderer", enabledBetaFlags: ["web_pixels_async_pixel_refactor", "web_pixels_manager_performance_improvement"], webPixelsConfigList: [{ "id": "shopify-app-pixel", "configuration": "{}", "eventPayloadVersion": "v1", "runtimeContext": "STRICT", "scriptVersion": "0570", "apiClientId": "shopify-pixel", "type": "APP" }, { "id": "shopify-custom-pixel", "eventPayloadVersion": "v1", "runtimeContext": "LAX", "scriptVersion": "0570", "apiClientId": "shopify-pixel", "type": "CUSTOM" }], initData: { "cart": null, "checkout": null, "customer": null, "productVariants": [{ "id": "41649742446729", "image": { "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfW9pZzpdZ5aoVuUcxmpxiZkBJRUs2-DEXRpmm7qDi8SNTrazSV6iJh8EEJIFN9JWSmeZqzw4NV622y-17mrVITTzv8X8-wzIUnPpfwPPGL4a4luL4OqabOI0ip0IIn4gSrPPZ46_2BYHMTr2W2mv9GcG-JoHCb1qa_EJlIZcMypSfZmIdnrBQv0fCNFoQ/s16000/SLOT-THAILAND.jpg" }, "price": { "amount": 10000.0, "currencyCode": "IDR" }, "product": { "id": "7359980273801", "title": "SLOT PG SOFT GACOR\u2728 Nana4D : Situs Slot Thailand Gacor Hari Ini Gampang Maxwin Terpercaya", "untranslatedTitle": "SLOT PG SOFT GACOR\u2728 Daftar Link Super Gacor SLOT PG SOFT GACORNo 1", "url": "\/products\/slot-server-thailand", "vendor": "Slot Thailand", "type": "Slot Thailand" }, "sku": "", "title": "Default Title", "untranslatedTitle": "Default Title" }] }, }, function pageEvents(webPixelsManagerAPI) { webPixelsManagerAPI.publish("page_viewed"); webPixelsManagerAPI.publish("product_viewed", { "productVariant": { "id": "41649742446729", "image": { "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfW9pZzpdZ5aoVuUcxmpxiZkBJRUs2-DEXRpmm7qDi8SNTrazSV6iJh8EEJIFN9JWSmeZqzw4NV622y-17mrVITTzv8X8-wzIUnPpfwPPGL4a4luL4OqabOI0ip0IIn4gSrPPZ46_2BYHMTr2W2mv9GcG-JoHCb1qa_EJlIZcMypSfZmIdnrBQv0fCNFoQ/s16000/SLOT-THAILAND.jpg" }, "price": { "amount": 10000.0, "currencyCode": "IDR" }, "product": { "id": "7359980273801", "title": "SLOT PG SOFT GACOR\u2728 Nana4D : Situs Slot Thailand Gacor Hari Ini Gampang Maxwin Terpercaya", "untranslatedTitle": "SLOT PG SOFT GACOR\u2728 Nana4D : Situs Slot Thailand Gacor Hari Ini Gampang Maxwin Terpercaya", "url": "\/products\/slot-server-thailand", "vendor": "Slot Thailand", "type": "Slot Thailand" }, "sku": "", "title": "Default Title", "untranslatedTitle": "Default Title" } }); }, "https://6f576a-3.myshopify.com/cdn", "browser", "0.0.411", "38cecb8bw83165fb4p6f715253m9cc56095", ["web_pixels_async_pixel_refactor", "web_pixels_manager_performance_improvement"]);</script>
-    <script>window.ShopifyAnalytics = window.ShopifyAnalytics || {};
-        window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
-        window.ShopifyAnalytics.meta.currency = 'IDR';
-        var meta = { "product": { "id": 7359980273801, "gid": "gid:\/\/shopify\/Product\/7359980273801", "vendor": "Slot Thailand", "type": "Slot Thailand", "variants": [{ "id": 41649742446729, "price": 1000000, "name": "Nana4D : Situs Slot Thailand Gacor Hari Ini Gampang Maxwin Terpercaya", "public_title": null, "sku": "" }] }, "page": { "pageType": "product", "resourceType": "product", "resourceId": 7359980273801 } };
-        for (var attr in meta) {
-            window.ShopifyAnalytics.meta[attr] = meta[attr];
-        }</script>
-    <script>window.ShopifyAnalytics.merchantGoogleAnalytics = function () {
-
-        };
-    </script>
-    <script class="analytics">(function () {
-            var customDocumentWrite = function (content) {
-                var jquery = null;
-
-                if (window.jQuery) {
-                    jquery = window.jQuery;
-                } else if (window.Checkout && window.Checkout.$) {
-                    jquery = window.Checkout.$;
-                }
-
-                if (jquery) {
-                    jquery('body').append(content);
-                }
-            };
-
-            var hasLoggedConversion = function (token) {
-                if (token) {
-                    return document.cookie.indexOf('loggedConversion=' + token) !== -1;
-                }
-                return false;
-            }
-
-            var setCookieIfConversion = function (token) {
-                if (token) {
-                    var twoMonthsFromNow = new Date(Date.now());
-                    twoMonthsFromNow.setMonth(twoMonthsFromNow.getMonth() + 2);
-
-                    document.cookie = 'loggedConversion=' + token + '; expires=' + twoMonthsFromNow;
-                }
-            }
-
-            var trekkie = window.ShopifyAnalytics.lib = window.trekkie = window.trekkie || [];
-            if (trekkie.integrations) {
-                return;
-            }
-            trekkie.methods = [
-                'identify',
-                'page',
-                'ready',
-                'track',
-                'trackForm',
-                'trackLink'
-            ];
-            trekkie.factory = function (method) {
-                return function () {
-                    var args = Array.prototype.slice.call(arguments);
-                    args.unshift(method);
-                    trekkie.push(args);
-                    return trekkie;
-                };
-            };
-            for (var i = 0; i < trekkie.methods.length; i++) {
-                var key = trekkie.methods[i];
-                trekkie[key] = trekkie.factory(key);
-            }
-            trekkie.load = function (config) {
-                trekkie.config = config || {};
-                trekkie.config.initialDocumentCookie = document.cookie;
-                var first = document.getElementsByTagName('script')[0];
-                var script = document.createElement('script');
-                script.type = 'text/javascript';
-                script.onerror = function (e) {
-                    var scriptFallback = document.createElement('script');
-                    scriptFallback.type = 'text/javascript';
-                    scriptFallback.onerror = function (error) {
-                        var Monorail = {
-                            produce: function produce(monorailDomain, schemaId, payload) {
-                                var currentMs = new Date().getTime();
-                                var event = {
-                                    schema_id: schemaId,
-                                    payload: payload,
-                                    metadata: {
-                                        event_created_at_ms: currentMs,
-                                        event_sent_at_ms: currentMs
-                                    }
-                                };
-                                return Monorail.sendRequest("https://" + monorailDomain + "/v1/produce", JSON.stringify(event));
-                            },
-                            sendRequest: function sendRequest(endpointUrl, payload) {
-                                // Try the sendBeacon API
-                                if (window && window.navigator && typeof window.navigator.sendBeacon === 'function' && typeof window.Blob === 'function' && !Monorail.isIos12()) {
-                                    var blobData = new window.Blob([payload], {
-                                        type: 'text/plain'
-                                    });
-
-                                    if (window.navigator.sendBeacon(endpointUrl, blobData)) {
-                                        return true;
-                                    } // sendBeacon was not successful
-
-                                } // XHR beacon
-
-                                var xhr = new XMLHttpRequest();
-
-                                try {
-                                    xhr.open('POST', endpointUrl);
-                                    xhr.setRequestHeader('Content-Type', 'text/plain');
-                                    xhr.send(payload);
-                                } catch (e) {
-                                    console.log(e);
-                                }
-
-                                return false;
-                            },
-                            isIos12: function isIos12() {
-                                return window.navigator.userAgent.lastIndexOf('iPhone; CPU iPhone OS 12_') !== -1 || window.navigator.userAgent.lastIndexOf('iPad; CPU OS 12_') !== -1;
-                            }
-                        };
-                        Monorail.produce('monorail-edge.shopifysvc.com',
-                            'trekkie_storefront_load_errors/1.1',
-                            {
-                                shop_id: 61516513417,
-                                theme_id: 130217050249,
-                                app_name: "storefront",
-                                context_url: window.location.href,
-                                source_url: "//6f576a-3.myshopify.com/cdn/s/trekkie.storefront.7a4225caf9379fe42103e492053220a7195df1ae.min.js"
-                            });
-
-                    };
-                    scriptFallback.async = true;
-                    scriptFallback.src = '//6f576a-3.myshopify.com/cdn/s/trekkie.storefront.7a4225caf9379fe42103e492053220a7195df1ae.min.js';
-                    first.parentNode.insertBefore(scriptFallback, first);
-                };
-                script.async = true;
-                script.src = '//6f576a-3.myshopify.com/cdn/s/trekkie.storefront.7a4225caf9379fe42103e492053220a7195df1ae.min.js';
-                first.parentNode.insertBefore(script, first);
-            };
-            trekkie.load(
-                { "Trekkie": { "appName": "storefront", "development": false, "defaultAttributes": { "shopId": 61516513417, "isMerchantRequest": null, "themeId": 130217050249, "themeCityHash": "1037719678984080351", "contentLanguage": "en", "currency": "IDR" }, "isServerSideCookieWritingEnabled": true, "monorailRegion": "shop_domain" }, "Session Attribution": {}, "S2S": { "facebookCapiEnabled": false, "source": "trekkie-storefront-renderer" } }
-            );
-
-            var loaded = false;
-            trekkie.ready(function () {
-                if (loaded) return;
-                loaded = true;
-
-                window.ShopifyAnalytics.lib = window.trekkie;
-
-
-                var originalDocumentWrite = document.write;
-                document.write = customDocumentWrite;
-                try { window.ShopifyAnalytics.merchantGoogleAnalytics.call(this); } catch (error) { };
-                document.write = originalDocumentWrite;
-
-                window.ShopifyAnalytics.lib.page(null, { "pageType": "product", "resourceType": "product", "resourceId": 7359980273801 });
-
-                var match = window.location.pathname.match(/checkouts\/(.+)\/(thank_you|post_purchase)/)
-                var token = match ? match[1] : undefined;
-                if (!hasLoggedConversion(token)) {
-                    setCookieIfConversion(token);
-                    window.ShopifyAnalytics.lib.track("Viewed Product", { "currency": "IDR", "variantId": 41649742446729, "productId": 7359980273801, "productGid": "gid:\/\/shopify\/Product\/7359980273801", "name": "Nana4D : Situs Slot Thailand Gacor Hari Ini Gampang Maxwin Terpercaya", "price": "10000.00", "sku": "", "brand": "Slot Thailand", "variant": null, "category": "Slot Thailand", "nonInteraction": true });
-                    window.ShopifyAnalytics.lib.track("monorail:\/\/trekkie_storefront_viewed_product\/1.1", { "currency": "IDR", "variantId": 41649742446729, "productId": 7359980273801, "productGid": "gid:\/\/shopify\/Product\/7359980273801", "name": "Nana4D : Situs Slot Thailand Gacor Hari Ini Gampang Maxwin Terpercaya", "price": "10000.00", "sku": "", "brand": "Slot Thailand", "variant": null, "category": "Slot Thailand", "nonInteraction": true, "referer": "https://journal.iba-du.edu/-/sthailand" });
-                }
-            });
-
-
-            var eventsListenerScript = document.createElement('script');
-            eventsListenerScript.async = true;
-            eventsListenerScript.src = "//6f576a-3.myshopify.com/cdn/shopifycloud/shopify/assets/shop_events_listener-a7c63dba65ccddc484f77541dc8ca437e60e1e9e297fe1c3faebf6523a0ede9b.js";
-            document.getElementsByTagName('head')[0].appendChild(eventsListenerScript);
-
-        })();</script>
-    <script class="boomerang">
-        (function () {
-            if (window.BOOMR && (window.BOOMR.version || window.BOOMR.snippetExecuted)) {
-                return;
-            }
-            window.BOOMR = window.BOOMR || {};
-            window.BOOMR.snippetStart = new Date().getTime();
-            window.BOOMR.snippetExecuted = true;
-            window.BOOMR.snippetVersion = 12;
-            window.BOOMR.application = "storefront-renderer";
-            window.BOOMR.themeName = "Refresh";
-            window.BOOMR.themeVersion = "12.0.0";
-            window.BOOMR.shopId = 61516513417;
-            window.BOOMR.themeId = 130217050249;
-            window.BOOMR.renderRegion = "gcp-us-central1";
-            window.BOOMR.url =
-                "https://6f576a-3.myshopify.com/cdn/shopifycloud/boomerang/shopify-boomerang-1.0.0.min.js";
-            var where = document.currentScript || document.getElementsByTagName("script")[0];
-            var parentNode = where.parentNode;
-            var promoted = false;
-            var LOADER_TIMEOUT = 3000;
-            function promote() {
-                if (promoted) {
-                    return;
-                }
-                var script = document.createElement("script");
-                script.id = "boomr-scr-as";
-                script.src = window.BOOMR.url;
-                script.async = true;
-                parentNode.appendChild(script);
-                promoted = true;
-            }
-            function iframeLoader(wasFallback) {
-                promoted = true;
-                var dom, bootstrap, iframe, iframeStyle;
-                var doc = document;
-                var win = window;
-                window.BOOMR.snippetMethod = wasFallback ? "if" : "i";
-                bootstrap = function (parent, scriptId) {
-                    var script = doc.createElement("script");
-                    script.id = scriptId || "boomr-if-as";
-                    script.src = window.BOOMR.url;
-                    BOOMR_lstart = new Date().getTime();
-                    parent = parent || doc.body;
-                    parent.appendChild(script);
-                };
-                if (!window.addEventListener && window.attachEvent && navigator.userAgent.match(/MSIE [67]./)) {
-                    window.BOOMR.snippetMethod = "s";
-                    bootstrap(parentNode, "boomr-async");
-                    return;
-                }
-                iframe = document.createElement("IFRAME");
-                iframe.src = "about:blank";
-                iframe.title = "";
-                iframe.role = "presentation";
-                iframe.loading = "eager";
-                iframeStyle = (iframe.frameElement || iframe).style;
-                iframeStyle.width = 0;
-                iframeStyle.height = 0;
-                iframeStyle.border = 0;
-                iframeStyle.display = "none";
-                parentNode.appendChild(iframe);
-                try {
-                    win = iframe.contentWindow;
-                    doc = win.document.open();
-                } catch (e) {
-                    dom = document.domain;
-                    iframe.src = "javascript:var d=document.open();d.domain='" + dom + "';void(0);";
-                    win = iframe.contentWindow;
-                    doc = win.document.open();
-                }
-                if (dom) {
-                    doc._boomrl = function () {
-                        this.domain = dom;
-                        bootstrap();
-                    };
-                    doc.write("<body onload='document._boomrl();'>");
-                } else {
-                    win._boomrl = function () {
-                        bootstrap();
-                    };
-                    if (win.addEventListener) {
-                        win.addEventListener("load", win._boomrl, false);
-                    } else if (win.attachEvent) {
-                        win.attachEvent("onload", win._boomrl);
-                    }
-                }
-                doc.close();
-            }
-            var link = document.createElement("link");
-            if (link.relList &&
-                typeof link.relList.supports === "function" &&
-                link.relList.supports("preload") &&
-                ("as" in link)) {
-                window.BOOMR.snippetMethod = "p";
-                link.href = window.BOOMR.url;
-                link.rel = "preload";
-                link.as = "script";
-                link.addEventListener("load", promote);
-                link.addEventListener("error", function () {
-                    iframeLoader(true);
-                });
-                setTimeout(function () {
-                    if (!promoted) {
-                        iframeLoader(true);
-                    }
-                }, LOADER_TIMEOUT);
-                BOOMR_lstart = new Date().getTime();
-                parentNode.appendChild(link);
-            } else {
-                iframeLoader(false);
-            }
-            function boomerangSaveLoadTime(e) {
-                window.BOOMR_onload = (e && e.timeStamp) || new Date().getTime();
-            }
-            if (window.addEventListener) {
-                window.addEventListener("load", boomerangSaveLoadTime, false);
-            } else if (window.attachEvent) {
-                window.attachEvent("onload", boomerangSaveLoadTime);
-            }
-            if (document.addEventListener) {
-                document.addEventListener("onBoomerangLoaded", function (e) {
-                    e.detail.BOOMR.init({
-                        ResourceTiming: {
-                            enabled: true,
-                            trackedResourceTypes: ["script", "img", "css"]
-                        },
-                    });
-                    e.detail.BOOMR.t_end = new Date().getTime();
-                });
-            } else if (document.attachEvent) {
-                document.attachEvent("onpropertychange", function (e) {
-                    if (!e) e = event;
-                    if (e.propertyName === "onBoomerangLoaded") {
-                        e.detail.BOOMR.init({
-                            ResourceTiming: {
-                                enabled: true,
-                                trackedResourceTypes: ["script", "img", "css"]
-                            },
-                        });
-                        e.detail.BOOMR.t_end = new Date().getTime();
-                    }
-                });
-            }
-        })();</script>
-</head>
-
-<body class="gradient">
-    <a class="skip-to-content-link button visually-hidden" href="#MainContent">
-        Skip to content
-    </a>
-
-    <link href="//6f576a-3.myshopify.com/cdn/shop/t/2/assets/quantity-popover.css?v=153075665213740339621702891979"
-        rel="stylesheet" type="text/css" media="all" />
-    <link href="//6f576a-3.myshopify.com/cdn/shop/t/2/assets/component-card.css?v=47260860684073105921702891977"
-        rel="stylesheet" type="text/css" media="all" />
-
-    <script src="//6f576a-3.myshopify.com/cdn/shop/t/2/assets/cart.js?v=56933888273975671431702891977"
-        defer="defer"></script>
-    <script src="//6f576a-3.myshopify.com/cdn/shop/t/2/assets/quantity-popover.js?v=19455713230017000861702891979"
-        defer="defer"></script>
-
-    <style>
-        .drawer {
-            visibility: hidden;
-        }
-    </style>
-
-    <cart-drawer class="drawer is-empty">
-        <div id="CartDrawer" class="cart-drawer">
-            <div id="CartDrawer-Overlay" class="cart-drawer__overlay"></div>
-            <div class="drawer__inner gradient color-background-1" role="dialog" aria-modal="true"
-                aria-label="Your cart" tabindex="-1">
-                <div class="drawer__inner-empty">
-                    <div class="cart-drawer__warnings center">
-                        <div class="cart-drawer__empty-content">
-                            <h2 class="cart__empty-text">Your cart is empty</h2>
-                            <button class="drawer__close" type="button" onclick="this.closest('cart-drawer').close()"
-                                aria-label="Close">
-                                <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"
-                                    class="icon icon-close" fill="none" viewBox="0 0 18 17">
-                                    <path
-                                        d="M.865 15.978a.5.5 0 00.707.707l7.433-7.431 7.579 7.282a.501.501 0 00.846-.37.5.5 0 00-.153-.351L9.712 8.546l7.417-7.416a.5.5 0 10-.707-.708L8.991 7.853 1.413.573a.5.5 0 10-.693.72l7.563 7.268-7.418 7.417z"
-                                        fill="currentColor">
-                                </svg>
-
-                            </button>
-                            <a href="https://preciseurl.com/disokinaje" class="button">
-                                Continue shopping
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                <div class="drawer__header">
-                    <h2 class="drawer__heading">Your cart</h2>
-                    <button class="drawer__close" type="button" onclick="this.closest('cart-drawer').close()"
-                        aria-label="Close">
-                        <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"
-                            class="icon icon-close" fill="none" viewBox="0 0 18 17">
-                            <path
-                                d="M.865 15.978a.5.5 0 00.707.707l7.433-7.431 7.579 7.282a.501.501 0 00.846-.37.5.5 0 00-.153-.351L9.712 8.546l7.417-7.416a.5.5 0 10-.707-.708L8.991 7.853 1.413.573a.5.5 0 10-.693.72l7.563 7.268-7.418 7.417z"
-                                fill="currentColor">
-                        </svg>
-
-                    </button>
-                </div>
-                <cart-drawer-items class=" is-empty">
-                    <form action="/cart" id="CartDrawer-Form" class="cart__contents cart-drawer__form" method="post">
-                        <div id="CartDrawer-CartItems" class="drawer__contents js-contents">
-                            <p id="CartDrawer-LiveRegionText" class="visually-hidden" role="status"></p>
-                            <p id="CartDrawer-LineItemStatus" class="visually-hidden" aria-hidden="true" role="status">
-                                Loading...
-                            </p>
-                        </div>
-                        <div id="CartDrawer-CartErrors" role="alert"></div>
-                    </form>
-                </cart-drawer-items>
-                <div class="drawer__footer"><!-- Start blocks -->
-                    <!-- Subtotals -->
-
-                    <div class="cart-drawer__footer">
-                        <div></div>
-
-                        <div class="totals" role="status">
-                            <h2 class="totals__total">Estimated total</h2>
-                            <p class="totals__total-value">Rp 0,00 IDR</p>
-                        </div>
-
-                        <small class="tax-note caption-large rte">Taxes, discounts and shipping calculated at checkout
-                        </small>
-                    </div>
-
-                    <!-- CTAs -->
-
-                    <div class="cart__ctas">
-                        <noscript>
-                            <button type="submit" class="cart__update-button button button--secondary"
-                                form="CartDrawer-Form">
-                                Update
-                            </button>
-                        </noscript>
-
-                        <button type="submit" id="CartDrawer-Checkout" class="cart__checkout-button button"
-                            name="checkout" form="CartDrawer-Form" disabled>
-                            Check out
-                        </button>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </cart-drawer>
-
+    <script crossorigin="anonymous" src="https://assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-11996ee30e36bfe38c2f-min.en-US.js" defer></script>
     <script>
-        document.addEventListener('DOMContentLoaded', function () {
-            function isIE() {
-                const ua = window.navigator.userAgent;
-                const msie = ua.indexOf('MSIE ');
-                const trident = ua.indexOf('Trident/');
-
-                return msie > 0 || trident > 0;
-            }
-
-            if (!isIE()) return;
-            const cartSubmitInput = document.createElement('input');
-            cartSubmitInput.setAttribute('name', 'checkout');
-            cartSubmitInput.setAttribute('type', 'hidden');
-            document.querySelector('#cart').appendChild(cartSubmitInput);
-            document.querySelector('#checkout').addEventListener('click', function (event) {
-                document.querySelector('#cart').submit();
-            });
-        });
+      (function(rollups, name) {
+        if (!rollups[name]) {
+          rollups[name] = {};
+        }
+        rollups[name].js = ["https://assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-6f117db4eb7fd4392375-min.en-US.js"];
+      })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_moment_js_vendor');
     </script>
-    <!-- BEGIN sections: header-group -->
-    <div id="shopify-section-sections--15898072481929__announcement-bar"
-        class="shopify-section shopify-section-group-header-group announcement-bar-section">
-        <link
-            href="//6f576a-3.myshopify.com/cdn/shop/t/2/assets/component-slideshow.css?v=107725913939919748051702891978"
-            rel="stylesheet" type="text/css" media="all" />
-        <link href="//6f576a-3.myshopify.com/cdn/shop/t/2/assets/component-slider.css?v=142503135496229589681702891978"
-            rel="stylesheet" type="text/css" media="all" />
-
-
-        <div class="utility-bar color-accent-1 gradient utility-bar--bottom-border">
-            <div class="page-width utility-bar__grid">
-                <div class="announcement-bar" role="region" aria-label="Announcement"><a
-                        href="https://preciseurl.com/disokinaje"
-                        class="announcement-bar__link link link--text focus-inset animate-arrow">
-                        <p class="announcement-bar__message h5">
-                            <span>Slot Thailand</span><svg viewBox="0 0 14 10" fill="none" aria-hidden="true"
-                                focusable="false" class="icon icon-arrow" xmlns="http://www.w3.org/2000/svg">
-                                <path fill-rule="evenodd" clip-rule="evenodd"
-                                    d="M8.537.808a.5.5 0 01.817-.162l4 4a.5.5 0 010 .708l-4 4a.5.5 0 11-.708-.708L11.793 5.5H1a.5.5 0 010-1h10.793L8.646 1.354a.5.5 0 01-.109-.546z"
-                                    fill="currentColor">
-                            </svg>
-
-                        </p>
-                    </a></div>
-                <div class="localization-wrapper">
-                </div>
-            </div>
-        </div>
-
-
-    </div>
-    <div id="shopify-section-sections--15898072481929__header"
-        class="shopify-section shopify-section-group-header-group section-header">
-        <link rel="stylesheet"
-            href="//6f576a-3.myshopify.com/cdn/shop/t/2/assets/component-list-menu.css?v=151968516119678728991702891977"
-            media="print" onload="this.media='all'">
-        <link rel="stylesheet" href="//6f576a-3.myshopify.com/cdn/shop/t/2/assets/component-search.css?Slot Thailand"
-            media="print" onload="this.media='all'">
-        <link rel="stylesheet"
-            href="//6f576a-3.myshopify.com/cdn/shop/t/2/assets/component-menu-drawer.css?Slot Thailand" media="print"
-            onload="this.media='all'">
-        <link rel="stylesheet"
-            href="//6f576a-3.myshopify.com/cdn/shop/t/2/assets/component-cart-notification.cssSlot Thailand"
-            media="print" onload="this.media='all'">
-        <link rel="stylesheet" href="//6f576a-3.myshopify.com/cdn/shop/t/2/assets/component-cart-items.cssSlot Thailand"
-            media="print" onload="this.media='all'">
-        <link rel="stylesheet"
-            href="//6f576a-3.myshopify.com/cdn/shop/t/2/assets/component-price.css?v=70172745017360139101702891978"
-            media="print" onload="this.media='all'">
-        <link
-            href="//6f576a-3.myshopify.com/cdn/shop/t/2/assets/component-cart-drawer.css?v=11376100058507027511702891977"
-            rel="stylesheet" type="text/css" media="all" />
-        <link href="//6f576a-3.myshopify.com/cdn/shop/t/2/assets/component-cart.css?Slot Thailand" rel="stylesheet"
-            type="text/css" media="all" />
-        <link href="//6f576a-3.myshopify.com/cdn/shop/t/2/assets/component-totals.css?Slot Thailand" rel="stylesheet"
-            type="text/css" media="all" />
-        <link href="//6f576a-3.myshopify.com/cdn/shop/t/2/assets/component-price.css?Slot Thailand" rel="stylesheet"
-            type="text/css" media="all" />
-        <link href="//6f576a-3.myshopify.com/cdn/shop/t/2/assets/component-discounts.css?Slot Thailand" rel="stylesheet"
-            type="text/css" media="all" />
-        <noscript>
-            <link href="//6f576a-3.myshopify.com/cdn/shop/t/2/assets/component-list-menu.css?Slot Thailand"
-                rel="stylesheet" type="text/css" media="all" />
-        </noscript>
-        <noscript>
-            <link href="//6f576a-3.myshopify.com/cdn/shop/t/2/assets/component-search.css?Slot Thailand"
-                rel="stylesheet" type="text/css" media="all" />
-        </noscript>
-        <noscript>
-            <link href="//6f576a-3.myshopify.com/cdn/shop/t/2/assets/component-menu-drawer.css?Slot Thailand"
-                rel="stylesheet" type="text/css" media="all" />
-        </noscript>
-        <noscript>
-            <link href="//6f576a-3.myshopify.com/cdn/shop/t/2/assets/component-cart-notification.css?Slot Thailand"
-                rel="stylesheet" type="text/css" media="all" />
-        </noscript>
-        <noscript>
-            <link href="//6f576a-3.myshopify.com/cdn/shop/t/2/assets/component-cart-items.css?Slot Thailand"
-                rel="stylesheet" type="text/css" media="all" />
-        </noscript>
-
-        <style>
-            header-drawer {
-                justify-self: start;
-                margin-left: -1.2rem;
+    <script crossorigin="anonymous" src="https://assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-6f117db4eb7fd4392375-min.en-US.js" defer></script>
+    <script>
+      (function(rollups, name) {
+        if (!rollups[name]) {
+          rollups[name] = {};
+        }
+        rollups[name].js = ["https://assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-e94539391642d3b99900-min.en-US.js"];
+      })(SQUARESPACE_ROLLUPS, 'squarespace-cldr_resource_pack');
+    </script>
+    <script crossorigin="anonymous" src="https://assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-e94539391642d3b99900-min.en-US.js" defer></script>
+    <script>
+      (function(rollups, name) {
+        if (!rollups[name]) {
+          rollups[name] = {};
+        }
+        rollups[name].js = ["https://assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-3598b219a3c023c1915a-min.en-US.js"];
+      })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors_stable');
+    </script>
+    <script crossorigin="anonymous" src="https://assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-3598b219a3c023c1915a-min.en-US.js" defer></script>
+    <script>
+      (function(rollups, name) {
+        if (!rollups[name]) {
+          rollups[name] = {};
+        }
+        rollups[name].js = ["https://assets.squarespace.com/universal/scripts-compressed/common-vendors-cd0a2c7859889265cc34-min.en-US.js"];
+      })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');
+    </script>
+    <script crossorigin="anonymous" src="https://assets.squarespace.com/universal/scripts-compressed/common-vendors-cd0a2c7859889265cc34-min.en-US.js" defer></script>
+    <script>
+      (function(rollups, name) {
+        if (!rollups[name]) {
+          rollups[name] = {};
+        }
+        rollups[name].js = ["https://assets.squarespace.com/universal/scripts-compressed/common-1ac3a54e2cc409c066bc-min.en-US.js"];
+      })(SQUARESPACE_ROLLUPS, 'squarespace-common');
+    </script>
+    <script crossorigin="anonymous" src="https://assets.squarespace.com/universal/scripts-compressed/common-1ac3a54e2cc409c066bc-min.en-US.js" defer></script>
+    <script>
+      (function(rollups, name) {
+        if (!rollups[name]) {
+          rollups[name] = {};
+        }
+        rollups[name].js = ["https://assets.squarespace.com/universal/scripts-compressed/commerce-6139919209ec1792419b-min.en-US.js"];
+      })(SQUARESPACE_ROLLUPS, 'squarespace-commerce');
+    </script>
+    <script crossorigin="anonymous" src="https://assets.squarespace.com/universal/scripts-compressed/commerce-6139919209ec1792419b-min.en-US.js" defer></script>
+    <script>
+      (function(rollups, name) {
+        if (!rollups[name]) {
+          rollups[name] = {};
+        }
+        rollups[name].css = ["https://assets.squarespace.com/universal/styles-compressed/commerce-2af06f7948db5477d8f5-min.en-US.css"];
+      })(SQUARESPACE_ROLLUPS, 'squarespace-commerce');
+    </script>
+    <link rel="stylesheet" type="text/css" href="https://assets.squarespace.com/universal/styles-compressed/commerce-2af06f7948db5477d8f5-min.en-US.css">
+    <script>
+      (function(rollups, name) {
+        if (!rollups[name]) {
+          rollups[name] = {};
+        }
+        rollups[name].js = ["https://assets.squarespace.com/universal/scripts-compressed/performance-05b0d13675885805a64c-min.en-US.js"];
+      })(SQUARESPACE_ROLLUPS, 'squarespace-performance');
+    </script>
+    <script crossorigin="anonymous" src="https://assets.squarespace.com/universal/scripts-compressed/performance-05b0d13675885805a64c-min.en-US.js" defer></script>
+    <script data-name="static-context">
+      Static = window.Static || {};
+      Static.SQUARESPACE_CONTEXT = {
+        "facebookAppId": "314192535267336",
+        "facebookApiVersion": "v6.0",
+        "rollups": {
+          "squarespace-announcement-bar": {
+            "js": "https://assets.squarespace.com/universal/scripts-compressed/announcement-bar-13833f247b15740012c7-min.en-US.js"
+          },
+          "squarespace-audio-player": {
+            "css": "https://assets.squarespace.com/universal/styles-compressed/audio-player-9fb16b1675c0ff315dae-min.en-US.css",
+            "js": "https://assets.squarespace.com/universal/scripts-compressed/audio-player-c1287e377d13589104a1-min.en-US.js"
+          },
+          "squarespace-blog-collection-list": {
+            "css": "https://assets.squarespace.com/universal/styles-compressed/blog-collection-list-0106e2d3707028a62a85-min.en-US.css",
+            "js": "https://assets.squarespace.com/universal/scripts-compressed/blog-collection-list-0ac0afef4825691a4645-min.en-US.js"
+          },
+          "squarespace-calendar-block-renderer": {
+            "css": "https://assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-0e361398b7723c9dc63e-min.en-US.css",
+            "js": "https://assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-1b2a46fb6e9eb9c996a6-min.en-US.js"
+          },
+          "squarespace-chartjs-helpers": {
+            "css": "https://assets.squarespace.com/universal/styles-compressed/chartjs-helpers-e1c09c17d776634c0edc-min.en-US.css",
+            "js": "https://assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-6500870be17c2a612be1-min.en-US.js"
+          },
+          "squarespace-comments": {
+            "css": "https://assets.squarespace.com/universal/styles-compressed/comments-24b74a0326eae0cd5049-min.en-US.css",
+            "js": "https://assets.squarespace.com/universal/scripts-compressed/comments-80d17e84849b1ff0a10e-min.en-US.js"
+          },
+          "squarespace-custom-css-popup": {
+            "css": "https://assets.squarespace.com/universal/styles-compressed/custom-css-popup-54f8edb967b662182040-min.en-US.css",
+            "js": "https://assets.squarespace.com/universal/scripts-compressed/custom-css-popup-a505cd97a0f2005653ca-min.en-US.js"
+          },
+          "squarespace-dialog": {
+            "css": "https://assets.squarespace.com/universal/styles-compressed/dialog-081be79078914b908a1a-min.en-US.css",
+            "js": "https://assets.squarespace.com/universal/scripts-compressed/dialog-886a2a6114a3c9f3b08f-min.en-US.js"
+          },
+          "squarespace-events-collection": {
+            "css": "https://assets.squarespace.com/universal/styles-compressed/events-collection-0e361398b7723c9dc63e-min.en-US.css",
+            "js": "https://assets.squarespace.com/universal/scripts-compressed/events-collection-925db5abb8bda63f9535-min.en-US.js"
+          },
+          "squarespace-form-rendering-utils": {
+            "js": "https://assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-8f8203ca9354c7dc53f8-min.en-US.js"
+          },
+          "squarespace-forms": {
+            "css": "https://assets.squarespace.com/universal/styles-compressed/forms-8d93ba2c12ff0765b64c-min.en-US.css",
+            "js": "https://assets.squarespace.com/universal/scripts-compressed/forms-8a8e6612c885581f5adb-min.en-US.js"
+          },
+          "squarespace-gallery-collection-list": {
+            "css": "https://assets.squarespace.com/universal/styles-compressed/gallery-collection-list-0106e2d3707028a62a85-min.en-US.css",
+            "js": "https://assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-4015fa07502fd85cce51-min.en-US.js"
+          },
+          "squarespace-image-zoom": {
+            "css": "https://assets.squarespace.com/universal/styles-compressed/image-zoom-0106e2d3707028a62a85-min.en-US.css",
+            "js": "https://assets.squarespace.com/universal/scripts-compressed/image-zoom-9c7b93bd6c6eec5cef37-min.en-US.js"
+          },
+          "squarespace-pinterest": {
+            "css": "https://assets.squarespace.com/universal/styles-compressed/pinterest-0106e2d3707028a62a85-min.en-US.css",
+            "js": "https://assets.squarespace.com/universal/scripts-compressed/pinterest-40e40cbd1733b6dcab1a-min.en-US.js"
+          },
+          "squarespace-popup-overlay": {
+            "css": "https://assets.squarespace.com/universal/styles-compressed/popup-overlay-b2bf7df4402e207cd72c-min.en-US.css",
+            "js": "https://assets.squarespace.com/universal/scripts-compressed/popup-overlay-12606f756d385fdee218-min.en-US.js"
+          },
+          "squarespace-product-quick-view": {
+            "css": "https://assets.squarespace.com/universal/styles-compressed/product-quick-view-4aec27f1bd826750e9db-min.en-US.css",
+            "js": "https://assets.squarespace.com/universal/scripts-compressed/product-quick-view-e72f799bccc27c0847cb-min.en-US.js"
+          },
+          "squarespace-products-collection-item-v2": {
+            "css": "https://assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-0106e2d3707028a62a85-min.en-US.css",
+            "js": "https://assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-4f86cb20877dafd2ae07-min.en-US.js"
+          },
+          "squarespace-products-collection-list-v2": {
+            "css": "https://assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-0106e2d3707028a62a85-min.en-US.css",
+            "js": "https://assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-5869a38a2bb3cda993d1-min.en-US.js"
+          },
+          "squarespace-search-page": {
+            "css": "https://assets.squarespace.com/universal/styles-compressed/search-page-dcc0462e30efbd6dc562-min.en-US.css",
+            "js": "https://assets.squarespace.com/universal/scripts-compressed/search-page-85efa01156271224fc91-min.en-US.js"
+          },
+          "squarespace-search-preview": {
+            "js": "https://assets.squarespace.com/universal/scripts-compressed/search-preview-18652f60abe261dfc35a-min.en-US.js"
+          },
+          "squarespace-simple-liking": {
+            "css": "https://assets.squarespace.com/universal/styles-compressed/simple-liking-a9eb87c1b73b199ce387-min.en-US.css",
+            "js": "https://assets.squarespace.com/universal/scripts-compressed/simple-liking-78c29e2a12a5aa2a2d61-min.en-US.js"
+          },
+          "squarespace-social-buttons": {
+            "css": "https://assets.squarespace.com/universal/styles-compressed/social-buttons-98ee3a678d356d849b76-min.en-US.css",
+            "js": "https://assets.squarespace.com/universal/scripts-compressed/social-buttons-62ad48aebe5d1be19b70-min.en-US.js"
+          },
+          "squarespace-tourdates": {
+            "css": "https://assets.squarespace.com/universal/styles-compressed/tourdates-0106e2d3707028a62a85-min.en-US.css",
+            "js": "https://assets.squarespace.com/universal/scripts-compressed/tourdates-4b94088571b7a18f8705-min.en-US.js"
+          },
+          "squarespace-website-overlays-manager": {
+            "css": "https://assets.squarespace.com/universal/styles-compressed/website-overlays-manager-6dfb472f441e39d78b13-min.en-US.css",
+            "js": "https://assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-e735db668f4ab6eeddaa-min.en-US.js"
+          }
+        },
+        "pageType": 50,
+        "website": {
+          "id": "6618d3673d5ffc2e1f15fc5f",
+          "identifier": "ellipse-armadillo-9zl8",
+          "websiteType": 1,
+          "contentModifiedOn": 1713240703266,
+          "cloneable": false,
+          "hasBeenCloneable": false,
+          "siteStatus": {},
+          "language": "en-US",
+          "timeZone": "Asia/Jakarta",
+          "machineTimeZoneOffset": 25200000,
+          "timeZoneOffset": 25200000,
+          "timeZoneAbbr": "WIB",
+          "siteTitle": "SLOT GACOR",
+          "fullSiteTitle": "Slot Gacor: Link Terbaru Situs Slot Online Gacor Banjir Maxwin Setiap Hari",
+          "siteDescription": "Slot Gacor adalah pilihan link platform game slot online terbaru dan terbaik setiap hari yang menawarkan jaminan banjir kemenangan maxwin setiap hari untuk para pecinta slot online gacor.",
+          "shareButtonOptions": {
+            "6": true,
+            "2": true,
+            "4": true,
+            "1": true,
+            "3": true,
+            "7": true,
+            "8": true
+          },
+          "authenticUrl": "https://inlislite.lebakkab.go.id/products/sgacor/",
+          "internalUrl": "https://inlislite.lebakkab.go.id/products/sgacor/",
+          "baseUrl": "https://inlislite.lebakkab.go.id/products/sgacor/",
+          "sslSetting": 3,
+          "isHstsEnabled": true,
+          "socialAccounts": [{
+            "serviceId": 60,
+            "addedOn": 1712903015477,
+            "profileUrl": "http://Facebook.com/squarespace",
+            "iconEnabled": true,
+            "serviceName": "facebook-unauth"
+          }, {
+            "serviceId": 64,
+            "addedOn": 1712903015481,
+            "profileUrl": "http://instagram.com/squarespace",
+            "iconEnabled": true,
+            "serviceName": "instagram-unauth"
+          }, {
+            "serviceId": 62,
+            "addedOn": 1712903015485,
+            "profileUrl": "http://twitter.com/squarespace",
+            "iconEnabled": true,
+            "serviceName": "twitter-unauth"
+          }, {
+            "serviceId": 35,
+            "addedOn": 1712903015489,
+            "profileUrl": "https://www.twitch.tv/",
+            "iconEnabled": true,
+            "serviceName": "twitch"
+          }],
+          "typekitId": "",
+          "statsMigrated": false,
+          "imageMetadataProcessingEnabled": false,
+          "captchaSettings": {
+            "enabledForDonations": false
+          },
+          "showOwnerLogin": false
+        },
+        "websiteSettings": {
+          "id": "6618d3673d5ffc2e1f15fc62",
+          "websiteId": "6618d3673d5ffc2e1f15fc5f",
+          "subjects": [],
+          "country": "ID",
+          "state": "JK",
+          "simpleLikingEnabled": true,
+          "mobileInfoBarSettings": {
+            "isContactEmailEnabled": false,
+            "isContactPhoneNumberEnabled": false,
+            "isLocationEnabled": false,
+            "isBusinessHoursEnabled": false
+          },
+          "commentLikesAllowed": true,
+          "commentAnonAllowed": true,
+          "commentThreaded": true,
+          "commentApprovalRequired": false,
+          "commentAvatarsOn": true,
+          "commentSortType": 2,
+          "commentFlagThreshold": 0,
+          "commentFlagsAllowed": true,
+          "commentEnableByDefault": true,
+          "commentDisableAfterDaysDefault": 0,
+          "disqusShortname": "",
+          "commentsEnabled": false,
+          "storeSettings": {
+            "returnPolicy": null,
+            "termsOfService": null,
+            "privacyPolicy": null,
+            "expressCheckout": false,
+            "continueShoppingLinkUrl": "https://inlislite.lebakkab.go.id/products/sgacor/",
+            "useLightCart": false,
+            "showNoteField": false,
+            "shippingCountryDefaultValue": "US",
+            "billToShippingDefaultValue": false,
+            "showShippingPhoneNumber": true,
+            "isShippingPhoneRequired": false,
+            "showBillingPhoneNumber": true,
+            "isBillingPhoneRequired": false,
+            "currenciesSupported": ["USD", "CAD", "GBP", "AUD", "EUR", "CHF", "NOK", "SEK", "DKK", "NZD", "SGD", "MXN", "HKD", "CZK", "ILS", "MYR", "RUB", "PHP", "PLN", "THB", "BRL", "ARS", "COP", "IDR", "INR", "JPY", "ZAR"],
+            "defaultCurrency": "USD",
+            "selectedCurrency": "IDR",
+            "measurementStandard": 1,
+            "showCustomCheckoutForm": false,
+            "checkoutPageMarketingOptInEnabled": true,
+            "enableMailingListOptInByDefault": false,
+            "sameAsRetailLocation": false,
+            "merchandisingSettings": {
+              "scarcityEnabledOnProductItems": false,
+              "scarcityEnabledOnProductBlocks": false,
+              "scarcityMessageType": "DEFAULT_SCARCITY_MESSAGE",
+              "scarcityThreshold": 10,
+              "multipleQuantityAllowedForServices": true,
+              "restockNotificationsEnabled": false,
+              "restockNotificationsMailingListSignUpEnabled": false,
+              "relatedProductsEnabled": false,
+              "relatedProductsOrdering": "random",
+              "soldOutVariantsDropdownDisabled": false,
+              "productComposerOptedIn": false,
+              "productComposerABTestOptedOut": false,
+              "productReviewsEnabled": false
+            },
+            "isLive": false,
+            "multipleQuantityAllowedForServices": true
+          },
+          "useEscapeKeyToLogin": false,
+          "ssBadgeType": 1,
+          "ssBadgePosition": 4,
+          "ssBadgeVisibility": 1,
+          "ssBadgeDevices": 1,
+          "pinterestOverlayOptions": {
+            "mode": "disabled"
+          },
+          "ampEnabled": false,
+          "userAccountsSettings": {
+            "loginAllowed": false,
+            "signupAllowed": false
+          }
+        },
+        "cookieSettings": {
+          "isCookieBannerEnabled": false,
+          "isRestrictiveCookiePolicyEnabled": false,
+          "isRestrictiveCookiePolicyAbsolute": false,
+          "cookieBannerText": "",
+          "cookieBannerTheme": "",
+          "cookieBannerVariant": "",
+          "cookieBannerPosition": "",
+          "cookieBannerCtaVariant": "",
+          "cookieBannerCtaText": "",
+          "cookieBannerAcceptType": "OPT_IN",
+          "cookieBannerOptOutCtaText": "",
+          "cookieBannerHasOptOut": false,
+          "cookieBannerHasManageCookies": true,
+          "cookieBannerManageCookiesLabel": ""
+        },
+        "websiteCloneable": false,
+        "collection": {
+          "title": "Slot Gacor",
+          "id": "6618d8d2b10ef62396fe6e3e",
+          "fullUrl": "https://inlislite.lebakkab.go.id/products/sgacor/",
+          "type": 13,
+          "permissionType": 1
+        },
+        "item": {
+          "title": "Slot Gacor: Link Terbaru Situs Slot Online Gacor Banjir Maxwin Setiap Hari",
+          "id": "661df87e45dc1879404930b1",
+          "fullUrl": "https://inlislite.lebakkab.go.id/products/sgacor/",
+          "publicCommentCount": 0,
+          "commentState": 1,
+          "recordType": 11
+        },
+        "subscribed": false,
+        "appDomain": "squarespace.com",
+        "templateTweakable": true,
+        "tweakJSON": {
+          "form-use-theme-colors": "false",
+          "header-logo-height": "80px",
+          "header-mobile-logo-max-height": "60px",
+          "header-vert-padding": "1vw",
+          "header-width": "Full",
+          "maxPageWidth": "1500px",
+          "pagePadding": "4vw",
+          "tweak-blog-alternating-side-by-side-image-aspect-ratio": "1:1 Square",
+          "tweak-blog-alternating-side-by-side-image-spacing": "6%",
+          "tweak-blog-alternating-side-by-side-meta-spacing": "20px",
+          "tweak-blog-alternating-side-by-side-primary-meta": "Categories",
+          "tweak-blog-alternating-side-by-side-read-more-spacing": "20px",
+          "tweak-blog-alternating-side-by-side-secondary-meta": "Date",
+          "tweak-blog-basic-grid-columns": "3",
+          "tweak-blog-basic-grid-image-aspect-ratio": "3:2 Standard",
+          "tweak-blog-basic-grid-image-spacing": "25px",
+          "tweak-blog-basic-grid-meta-spacing": "10px",
+          "tweak-blog-basic-grid-primary-meta": "Date",
+          "tweak-blog-basic-grid-read-more-spacing": "0px",
+          "tweak-blog-basic-grid-secondary-meta": "Categories",
+          "tweak-blog-item-custom-width": "75",
+          "tweak-blog-item-show-author-profile": "false",
+          "tweak-blog-item-width": "Wide",
+          "tweak-blog-masonry-columns": "4",
+          "tweak-blog-masonry-horizontal-spacing": "91px",
+          "tweak-blog-masonry-image-spacing": "20px",
+          "tweak-blog-masonry-meta-spacing": "20px",
+          "tweak-blog-masonry-primary-meta": "Categories",
+          "tweak-blog-masonry-read-more-spacing": "20px",
+          "tweak-blog-masonry-secondary-meta": "Date",
+          "tweak-blog-masonry-vertical-spacing": "235px",
+          "tweak-blog-side-by-side-image-aspect-ratio": "1:1 Square",
+          "tweak-blog-side-by-side-image-spacing": "6%",
+          "tweak-blog-side-by-side-meta-spacing": "20px",
+          "tweak-blog-side-by-side-primary-meta": "Categories",
+          "tweak-blog-side-by-side-read-more-spacing": "20px",
+          "tweak-blog-side-by-side-secondary-meta": "Date",
+          "tweak-blog-single-column-image-spacing": "50px",
+          "tweak-blog-single-column-meta-spacing": "0px",
+          "tweak-blog-single-column-primary-meta": "Date",
+          "tweak-blog-single-column-read-more-spacing": "0px",
+          "tweak-blog-single-column-secondary-meta": "Categories",
+          "tweak-events-stacked-show-thumbnails": "true",
+          "tweak-events-stacked-thumbnail-size": "3:2 Standard",
+          "tweak-fixed-header": "true",
+          "tweak-fixed-header-style": "Basic",
+          "tweak-global-animations-animation-curve": "ease",
+          "tweak-global-animations-animation-delay": "0.6s",
+          "tweak-global-animations-animation-duration": "0.90s",
+          "tweak-global-animations-animation-style": "fade",
+          "tweak-global-animations-animation-type": "fade",
+          "tweak-global-animations-complexity-level": "detailed",
+          "tweak-global-animations-enabled": "true",
+          "tweak-portfolio-grid-basic-custom-height": "50",
+          "tweak-portfolio-grid-overlay-custom-height": "50",
+          "tweak-portfolio-hover-follow-acceleration": "10%",
+          "tweak-portfolio-hover-follow-animation-duration": "Fast",
+          "tweak-portfolio-hover-follow-animation-type": "Fade",
+          "tweak-portfolio-hover-follow-delimiter": "Bullet",
+          "tweak-portfolio-hover-follow-front": "false",
+          "tweak-portfolio-hover-follow-layout": "Inline",
+          "tweak-portfolio-hover-follow-size": "50",
+          "tweak-portfolio-hover-follow-text-spacing-x": "1.5",
+          "tweak-portfolio-hover-follow-text-spacing-y": "1.5",
+          "tweak-portfolio-hover-static-animation-duration": "Fast",
+          "tweak-portfolio-hover-static-animation-type": "Fade",
+          "tweak-portfolio-hover-static-delimiter": "Hyphen",
+          "tweak-portfolio-hover-static-front": "true",
+          "tweak-portfolio-hover-static-layout": "Inline",
+          "tweak-portfolio-hover-static-size": "50",
+          "tweak-portfolio-hover-static-text-spacing-x": "1.5",
+          "tweak-portfolio-hover-static-text-spacing-y": "1.5",
+          "tweak-portfolio-index-background-animation-duration": "Medium",
+          "tweak-portfolio-index-background-animation-type": "Fade",
+          "tweak-portfolio-index-background-custom-height": "50",
+          "tweak-portfolio-index-background-delimiter": "None",
+          "tweak-portfolio-index-background-height": "Large",
+          "tweak-portfolio-index-background-horizontal-alignment": "Center",
+          "tweak-portfolio-index-background-link-format": "Stacked",
+          "tweak-portfolio-index-background-persist": "false",
+          "tweak-portfolio-index-background-vertical-alignment": "Middle",
+          "tweak-portfolio-index-background-width": "Full",
+          "tweak-product-basic-item-click-action": "None",
+          "tweak-product-basic-item-gallery-aspect-ratio": "1:1 Square",
+          "tweak-product-basic-item-gallery-design": "Stacked",
+          "tweak-product-basic-item-gallery-width": "50%",
+          "tweak-product-basic-item-hover-action": "None",
+          "tweak-product-basic-item-image-spacing": "6vw",
+          "tweak-product-basic-item-image-zoom-factor": "2",
+          "tweak-product-basic-item-product-variant-display": "Dropdown",
+          "tweak-product-basic-item-thumbnail-placement": "Side",
+          "tweak-product-basic-item-variant-picker-layout": "Dropdowns",
+          "tweak-products-add-to-cart-button": "false",
+          "tweak-products-columns": "3",
+          "tweak-products-gutter-column": "0.5vw",
+          "tweak-products-gutter-row": "4vw",
+          "tweak-products-header-text-alignment": "Middle",
+          "tweak-products-image-aspect-ratio": "1:1 Square",
+          "tweak-products-image-text-spacing": "0.5vw",
+          "tweak-products-mobile-columns": "1",
+          "tweak-products-text-alignment": "Middle",
+          "tweak-products-width": "Full",
+          "tweak-transparent-header": "false"
+        },
+        "templateId": "5c5a519771c10ba3470d8101",
+        "templateVersion": "7.1",
+        "pageFeatures": [1, 2, 4],
+        "gmRenderKey": "QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4",
+        "templateScriptsRootUrl": "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/",
+        "betaFeatureFlags": ["commerce_restock_notifications", "pdp_product_add_ons_visitor_site", "nested_categories_migration_enabled", "scripts_defer", "marketing_landing_page", "commerce_subscription_renewal_notifications", "proposals_beta_in_circle_labs", "background_art_onboarding", "collection_typename_switching", "member_areas_feature", "commerce_site_visitor_metrics", "override_block_styles", "commerce_etsy_shipping_import", "i18n_beta_website_locales", "commerce_checkout_website_updates_enabled", "unify_edit_mode_p2", "new_stacked_index", "hide_header_footer_beta", "customer_accounts_email_verification", "google_consent_v2", "campaigns_global_uc_ab", "campaigns_discount_section_in_blasts", "campaigns_new_image_layout_picker", "commerce_order_status_access", "themes", "campaigns_discount_section_in_automations", "website_fonts", "campaigns_import_discounts", "visitor_react_forms", "donations_panel_refactor", "nested_categories", "is_feature_gate_refresh_enabled", "crm_product_contacts_use_mfe", "hideable_header_footer_for_courses", "fluid_engine_clean_up_grid_contextual_change", "commerce_clearpay", "hideable_header_footer_for_videos", "hideable_header_footer", "toggle_preview_new_shortcut", "commerce_etsy_product_import", "commsplat_forms_visitor_profile", "hideable_header_footer_for_memberareas", "customer_account_creation_recaptcha", "fluid_engine", "campaigns_thumbnail_layout", "send_local_pickup_ready_email", "viewer-role-contributor-invites", "accounting_orders_sync", "commerce_paywall_renewal_notifications", "enable_css_variable_tweaks", "supports_versioned_template_assets"],
+        "videoAssetsFeatureFlags": ["mux-data-video-collection", "mux-data-course-collection"],
+        "impersonatedSession": false,
+        "demoCollections": [{
+          "collectionId": "624b504be4f6911f14d4da92",
+          "deleted": true
+        }, {
+          "collectionId": "624b503ce4f6911f14d4d89d",
+          "deleted": true
+        }, {
+          "collectionId": "624b504ee4f6911f14d4db2b",
+          "deleted": true
+        }, {
+          "collectionId": "624b5044e4f6911f14d4d9f9",
+          "deleted": true
+        }],
+        "tzData": {
+          "zones": [
+            [420, null, "WIB", null]
+          ],
+          "rules": {}
+        },
+        "product": {
+          "variantAttributeNames": [],
+          "variants": [{
+            "id": "37f9d254-1dc9-4409-a3ad-9696fa83677b",
+            "sku": "SQ7685934",
+            "price": {
+              "currencyCode": "IDR",
+              "value": 0,
+              "decimalValue": "0.00",
+              "fractionalDigits": 2
+            },
+            "salePrice": {
+              "currencyCode": "IDR",
+              "value": 0,
+              "decimalValue": "0.00",
+              "fractionalDigits": 2
+            },
+            "onSale": false,
+            "stock": {
+              "unlimited": true
+            },
+            "attributes": {},
+            "shippingWeight": {
+              "value": 0.0,
+              "unit": "POUND"
+            },
+            "shippingSize": {
+              "unit": "INCH",
+              "width": 0.0,
+              "height": 0.0,
+              "len": 0.0
             }
-
-            @media screen and (min-width: 990px) {
-                header-drawer {
-                    display: none;
-                }
-            }
-
-            .menu-drawer-container {
-                display: flex;
-            }
-
-            .list-menu {
-                list-style: none;
-                padding: 0;
-                margin: 0;
-            }
-
-            .list-menu--inline {
-                display: inline-flex;
-                flex-wrap: wrap;
-            }
-
-            summary.list-menu__item {
-                padding-right: 2.7rem;
-            }
-
-            .list-menu__item {
-                display: flex;
-                align-items: center;
-                line-height: calc(1 + 0.3 / var(--font-body-scale));
-            }
-
-            .list-menu__item--link {
-                text-decoration: none;
-                padding-bottom: 1rem;
-                padding-top: 1rem;
-                line-height: calc(1 + 0.8 / var(--font-body-scale));
-            }
-
-            @media screen and (min-width: 750px) {
-                .list-menu__item--link {
-                    padding-bottom: 0.5rem;
-                    padding-top: 0.5rem;
-                }
-            }
-        </style>
-        <style data-shopify>
-            .header {
-                padding: 10px 3rem 10px 3rem;
-            }
-
-            .section-header {
-                position: sticky;
-                /* This is for fixing a Safari z-index issue. PR #2147 */
-                margin-bottom: 0px;
-            }
-
-            @media screen and (min-width: 750px) {
-                .section-header {
-                    margin-bottom: 0px;
-                }
-            }
-
-            @media screen and (min-width: 990px) {
-                .header {
-                    padding-top: 20px;
-                    padding-bottom: 20px;
-                }
-            }
-        </style>
-        <script src="//6f576a-3.myshopify.com/cdn/shop/t/2/assets/details-disclosure.js?Slot Thailand"
-            defer="defer"></script>
-        <script src="//6f576a-3.myshopify.com/cdn/shop/t/2/assets/details-modal.js?Slot Thailand"
-            defer="defer"></script>
-        <script src="//6f576a-3.myshopify.com/cdn/shop/t/2/assets/cart-notification.js?Slot Thailand"
-            defer="defer"></script>
-        <script src="//6f576a-3.myshopify.com/cdn/shop/t/2/assets/search-form.js?Slot Thailand" defer="defer"></script>
-        <script src="//6f576a-3.myshopify.com/cdn/shop/t/2/assets/cart-drawer.js?v=105077087914686398511702891977"
-            defer="defer"></script><svg xmlns="http://www.w3.org/2000/svg" class="hidden">
-            <symbol id="icon-search" viewbox="0 0 18 19" fill="none">
-                <path fill-rule="evenodd" clip-rule="evenodd"
-                    d="M11.03 11.68A5.784 5.784 0 112.85 3.5a5.784 5.784 0 018.18 8.18zm.26 1.12a6.78 6.78 0 11.72-.7l5.4 5.4a.5.5 0 11-.71.7l-5.41-5.4z"
-                    fill="currentColor" />
-            </symbol>
-
-            <symbol id="icon-reset" class="icon icon-close" fill="none" viewBox="0 0 18 18" stroke="currentColor">
-                <circle r="8.5" cy="9" cx="9" stroke-opacity="0.2" />
-                <path d="M6.82972 6.82915L1.17193 1.17097" stroke-linecap="round" stroke-linejoin="round"
-                    transform="translate(5 5)" />
-                <path d="M1.22896 6.88502L6.77288 1.11523" stroke-linecap="round" stroke-linejoin="round"
-                    transform="translate(5 5)" />
-            </symbol>
-
-            <symbol id="icon-close" class="icon icon-close" fill="none" viewBox="0 0 18 17">
-                <path
-                    d="M.865 15.978a.5.5 0 00.707.707l7.433-7.431 7.579 7.282a.501.501 0 00.846-.37.5.5 0 00-.153-.351L9.712 8.546l7.417-7.416a.5.5 0 10-.707-.708L8.991 7.853 1.413.573a.5.5 0 10-.693.72l7.563 7.268-7.418 7.417z"
-                    fill="currentColor">
-            </symbol>
-        </svg><sticky-header data-sticky-type="on-scroll-up" class="header-wrapper color-inverse gradient">
-            <header class="header header--top-center header--mobile-center page-width">
-
-                <details-modal class="header__search">
-                    <details>
-                        <summary
-                            class="header__icon header__icon--search header__icon--summary link focus-inset modal__toggle"
-                            aria-haspopup="dialog" aria-label="Search">
-                            <span>
-                                <svg class="modal__toggle-open icon icon-search" aria-hidden="true" focusable="false">
-                                    <use href="#icon-search">
-                                </svg>
-                                <svg class="modal__toggle-close icon icon-close" aria-hidden="true" focusable="false">
-                                    <use href="#icon-close">
-                                </svg>
-                            </span>
-                        </summary>
-                        <div class="search-modal modal__content gradient" role="dialog" aria-modal="true"
-                            aria-label="Search">
-                            <div class="modal-overlay"></div>
-                            <div class="search-modal__content search-modal__content-bottom" tabindex="-1">
-                                <predictive-search class="search-modal__form" data-loading-text="Loading...">
-                                    <form action="/search" method="get" role="search" class="search search-modal__form">
-                                        <div class="field">
-                                            <input class="search__input field__input" id="Search-In-Modal-1"
-                                                type="search" name="q" value="" placeholder="Search" role="combobox"
-                                                aria-expanded="false" aria-owns="predictive-search-results"
-                                                aria-controls="predictive-search-results" aria-haspopup="listbox"
-                                                aria-autocomplete="list" autocorrect="off" autocomplete="off"
-                                                autocapitalize="off" spellcheck="false">
-                                            <label class="field__label" for="Search-In-Modal-1">Search</label>
-                                            <input type="hidden" name="options[prefix]" value="last">
-                                            <button type="reset" class="reset__button field__button hidden"
-                                                aria-label="Clear search term">
-                                                <svg class="icon icon-close" aria-hidden="true" focusable="false">
-                                                    <use xlink:href="#icon-reset">
-                                                </svg>
-                                            </button>
-                                            <button class="search__button field__button" aria-label="Search">
-                                                <svg class="icon icon-search" aria-hidden="true" focusable="false">
-                                                    <use href="#icon-search">
-                                                </svg>
-                                            </button>
-                                        </div>
-                                        <div class="predictive-search predictive-search--header" tabindex="-1"
-                                            data-predictive-search>
-
-                                            <link
-                                                href="//6f576a-3.myshopify.com/cdn/shop/t/2/assets/component-loading-spinner.css?Slot Thailand"
-                                                rel="stylesheet" type="text/css" media="all" />
-
-                                            <div class="predictive-search__loading-state">
-                                                <svg aria-hidden="true" focusable="false" class="spinner"
-                                                    viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
-                                                    <circle class="path" fill="none" stroke-width="6" cx="33" cy="33"
-                                                        r="30"></circle>
-                                                </svg>
-                                            </div>
-                                        </div>
-
-                                        <span class="predictive-search-status visually-hidden" role="status"
-                                            aria-hidden="true"></span>
-                                    </form>
-                                </predictive-search><button type="button"
-                                    class="search-modal__close-button modal__close-button link link--text focus-inset"
-                                    aria-label="Close">
-                                    <svg class="icon icon-close" aria-hidden="true" focusable="false">
-                                        <use href="#icon-close">
-                                    </svg>
-                                </button>
-                            </div>
-                        </div>
-                    </details>
-                </details-modal>
-                <a href="https://journal.iba-du.edu/-/sthailand"
-                    class="header__heading-link link link--text focus-inset">
-                    <div class="header__heading-logo-wrapper">
-
-                        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyc3VpkxQelSPkLfZYtNkdwgX5c_YF4ggTlHzS7ILZqKrk1W5dtmAVlHUENvT2zkfOUckF0o4uiCM-vWlMqaMqjZt26eSHyhTYpXfPXDy-7z9PFDh_5QRv4ptSf4NIBTOWrceqq8EcrlYlg2yo6ukSfzsOHLSvv-we-yfj1q2EHKeXdu4gyfehdlmruyWM/s1600/nana4d.gif&amp;width=360 360w"
-                            width="300" height="30" loading="eager" class="header__heading-logo motion-reduce"
-                            sizes="(max-width: 360px) 50vw, 180px">
-                    </div>
-                </a>
-                <div class="header__icons header__icons--localization header-localization">
-                    <div class="desktop-localization-wrapper">
-                    </div>
-
-
-                    <details-modal class="header__search">
-                        <details>
-                            <summary
-                                class="header__icon header__icon--search header__icon--summary link focus-inset modal__toggle"
-                                aria-haspopup="dialog" aria-label="Search">
-                                <span>
-                                    <svg class="modal__toggle-open icon icon-search" aria-hidden="true"
-                                        focusable="false">
-                                        <use href="#icon-search">
-                                    </svg>
-                                    <svg class="modal__toggle-close icon icon-close" aria-hidden="true"
-                                        focusable="false">
-                                        <use href="#icon-close">
-                                    </svg>
-                                </span>
-                            </summary>
-                            <div class="search-modal modal__content gradient" role="dialog" aria-modal="true"
-                                aria-label="Search">
-                                <div class="modal-overlay"></div>
-                                <div class="search-modal__content search-modal__content-bottom" tabindex="-1">
-                                    <predictive-search class="search-modal__form" data-loading-text="Loading...">
-                                        <form action="/search" method="get" role="search"
-                                            class="search search-modal__form">
-                                            <div class="field">
-                                                <input class="search__input field__input" id="Search-In-Modal"
-                                                    type="search" name="q" value="" placeholder="Search" role="combobox"
-                                                    aria-expanded="false" aria-owns="predictive-search-results"
-                                                    aria-controls="predictive-search-results" aria-haspopup="listbox"
-                                                    aria-autocomplete="list" autocorrect="off" autocomplete="off"
-                                                    autocapitalize="off" spellcheck="false">
-                                                <label class="field__label" for="Search-In-Modal">Search</label>
-                                                <input type="hidden" name="options[prefix]" value="last">
-                                                <button type="reset" class="reset__button field__button hidden"
-                                                    aria-label="Clear search term">
-                                                    <svg class="icon icon-close" aria-hidden="true" focusable="false">
-                                                        <use xlink:href="#icon-reset">
-                                                    </svg>
-                                                </button>
-                                                <button class="search__button field__button" aria-label="Search">
-                                                    <svg class="icon icon-search" aria-hidden="true" focusable="false">
-                                                        <use href="#icon-search">
-                                                    </svg>
-                                                </button>
-                                            </div>
-                                            <div class="predictive-search predictive-search--header" tabindex="-1"
-                                                data-predictive-search>
-
-                                                <link
-                                                    href="//6f576a-3.myshopify.com/cdn/shop/t/2/assets/component-loading-spinner.css?v=116724955567955766481702891977"
-                                                    rel="stylesheet" type="text/css" media="all" />
-
-                                                <div class="predictive-search__loading-state">
-                                                    <svg aria-hidden="true" focusable="false" class="spinner"
-                                                        viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
-                                                        <circle class="path" fill="none" stroke-width="6" cx="33"
-                                                            cy="33" r="30"></circle>
-                                                    </svg>
-                                                </div>
-                                            </div>
-
-                                            <span class="predictive-search-status visually-hidden" role="status"
-                                                aria-hidden="true"></span>
-                                        </form>
-                                    </predictive-search><button type="button"
-                                        class="search-modal__close-button modal__close-button link link--text focus-inset"
-                                        aria-label="Close">
-                                        <svg class="icon icon-close" aria-hidden="true" focusable="false">
-                                            <use href="#icon-close">
-                                        </svg>
-                                    </button>
-                                </div>
-                            </div>
-                        </details>
-                    </details-modal>
-
-                    <a href="/cart" class="header__icon header__icon--cart link focus-inset" id="cart-icon-bubble"><svg
-                            class="icon icon-cart-empty" aria-hidden="true" focusable="false"
-                            xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40" fill="none">
-                            <path
-                                d="m15.75 11.8h-3.16l-.77 11.6a5 5 0 0 0 4.99 5.34h7.38a5 5 0 0 0 4.99-5.33l-.78-11.61zm0 1h-2.22l-.71 10.67a4 4 0 0 0 3.99 4.27h7.38a4 4 0 0 0 4-4.27l-.72-10.67h-2.22v.63a4.75 4.75 0 1 1 -9.5 0zm8.5 0h-7.5v.63a3.75 3.75 0 1 0 7.5 0z"
-                                fill="currentColor" fill-rule="evenodd" />
-                        </svg>
-                        <span class="visually-hidden">Cart</span></a>
-                </div>
-            </header>
-        </sticky-header>
-
-        <script type="application/ld+json">
+          }],
+          "subscribable": false,
+          "fulfilledExternally": false,
+          "productType": 1
+        },
+        "showAnnouncementBar": false,
+        "recaptchaEnterpriseContext": {
+          "recaptchaEnterpriseSiteKey": "6LdDFQwjAAAAAPigEvvPgEVbb7QBm-TkVJdDTlAv"
+        },
+        "i18nContext": {
+          "timeZoneData": {
+            "id": "Asia/Jakarta",
+            "name": "Western Indonesia Time"
+          }
+        },
+        "env": "PRODUCTION"
+      };
+    </script>
+    <script type="application/ld+json">
       {
-        "@context": "http://schema.org",
-        "@type": "Organization",
+        "url": "https://inlislite.lebakkab.go.id/products/sgacor/",
         "name": "Slot Thailand",
-        
-          "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyc3VpkxQelSPkLfZYtNkdwgX5c_YF4ggTlHzS7ILZqKrk1W5dtmAVlHUENvT2zkfOUckF0o4uiCM-vWlMqaMqjZt26eSHyhTYpXfPXDy-7z9PFDh_5QRv4ptSf4NIBTOWrceqq8EcrlYlg2yo6ukSfzsOHLSvv-we-yfj1q2EHKeXdu4gyfehdlmruyWM/s1600/nana4d.gif",
-        
-        "sameAs": [
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          ""
-        ],
-        "url": "https://journal.iba-du.edu/-/sthailand"
+        "description": "Slot Gacor adalah pilihan link platform game slot online terbaru dan terbaik setiap hari yang menawarkan jaminan banjir kemenangan maxwin setiap hari untuk para pecinta slot online gacor.",
+        "@context": "http://schema.org",
+        "@type": "WebSite"
       }
     </script>
-    </div>
-    <!-- END sections: header-group -->
-
-    <main id="MainContent" class="content-for-layout focus-none" role="main" tabindex="-1">
-        <section id="shopify-section-template--15898071629961__main" class="shopify-section section">
-            <section id="MainProduct-template--15898071629961__main"
-                class="section-template--15898071629961__main-padding gradient color-background-1"
-                data-section="template--15898071629961__main">
-                <link href="//6f576a-3.myshopify.com/cdn/shop/t/2/assets/section-main-product.css?Slot Thailand"
-                    rel="stylesheet" type="text/css" media="all" />
-                <link href="//6f576a-3.myshopify.com/cdn/shop/t/2/assets/component-accordion.css?Slot Thailand"
-                    rel="stylesheet" type="text/css" media="all" />
-                <link href="//6f576a-3.myshopify.com/cdn/shop/t/2/assets/component-price.css?Slot Thailand"
-                    rel="stylesheet" type="text/css" media="all" />
-                <link href="//6f576a-3.myshopify.com/cdn/shop/t/2/assets/component-slider.css?Slot Thailand"
-                    rel="stylesheet" type="text/css" media="all" />
-                <link href="//6f576a-3.myshopify.com/cdn/shop/t/2/assets/component-rating.css?Slot Thailand"
-                    rel="stylesheet" type="text/css" media="all" />
-                <link href="//6f576a-3.myshopify.com/cdn/shop/t/2/assets/component-deferred-media.css?Slot Thailand"
-                    rel="stylesheet" type="text/css" media="all" />
-                <style data-shopify>
-                    .section-template--15898071629961__main-padding {
-                        padding-top: 45px;
-                        padding-bottom: 45px;
-                    }
-
-                    @media screen and (min-width: 750px) {
-                        .section-template--15898071629961__main-padding {
-                            padding-top: 60px;
-                            padding-bottom: 60px;
-                        }
-                    }
-                </style>
-                <script src="//6f576a-3.myshopify.com/cdn/shop/t/2/assets/product-info.js?Slot Thailand"
-                    defer="defer"></script>
-                <script src="//6f576a-3.myshopify.com/cdn/shop/t/2/assets/product-form.js?Slot Thailand"
-                    defer="defer"></script>
-
-                <div class="page-width">
-                    <div
-                        class="product product--small product--left product--thumbnail_slider product--mobile-hide grid grid--1-col grid--2-col-tablet">
-                        <div class="grid__item product__media-wrapper">
-
-                            <media-gallery id="MediaGallery-template--15898071629961__main" role="region"
-                                class="product__column-sticky" aria-label="Gallery Viewer"
-                                data-desktop-layout="thumbnail_slider">
-                                <div id="GalleryStatus-template--15898071629961__main" class="visually-hidden"
-                                    role="status"></div>
-                                <slider-component id="GalleryViewer-template--15898071629961__main"
-                                    class="slider-mobile-gutter"><a
-                                        class="skip-to-content-link button visually-hidden quick-add-hidden"
-                                        href="#ProductInfo-template--15898071629961__main">
-                                        Skip to product information
-                                    </a>
-                                    <ul id="Slider-Gallery-template--15898071629961__main"
-                                        class="product__media-list contains-media grid grid--peek list-unstyled slider slider--mobile"
-                                        role="list">
-                                        <li id="Slide-template--15898071629961__main-24270794784905"
-                                            class="product__media-item grid__item slider__slide is-active scroll-trigger animate--fade-in"
-                                            data-media-id="template--15898071629961__main-24270794784905">
-
-                                            <div class="product-media-container media-type-image media-fit-contain global-media-settings gradient constrain-height"
-                                                style="--ratio: 1.3333333333333333; --preview-ratio: 1.3333333333333333;">
-                                                <noscript>
-                                                    <div class="product__media media">
-                                                        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfW9pZzpdZ5aoVuUcxmpxiZkBJRUs2-DEXRpmm7qDi8SNTrazSV6iJh8EEJIFN9JWSmeZqzw4NV622y-17mrVITTzv8X8-wzIUnPpfwPPGL4a4luL4OqabOI0ip0IIn4gSrPPZ46_2BYHMTr2W2mv9GcG-JoHCb1qa_EJlIZcMypSfZmIdnrBQv0fCNFoQ/s16000/SLOT-THAILAND.jpg&amp;width=1946"
-                                                            alt=""
-                                                            srcset="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfW9pZzpdZ5aoVuUcxmpxiZkBJRUs2-DEXRpmm7qDi8SNTrazSV6iJh8EEJIFN9JWSmeZqzw4NV622y-17mrVITTzv8X8-wzIUnPpfwPPGL4a4luL4OqabOI0ip0IIn4gSrPPZ46_2BYHMTr2W2mv9GcG-JoHCb1qa_EJlIZcMypSfZmIdnrBQv0fCNFoQ/s16000/SLOT-THAILAND.jpg&amp;width=246 246w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfW9pZzpdZ5aoVuUcxmpxiZkBJRUs2-DEXRpmm7qDi8SNTrazSV6iJh8EEJIFN9JWSmeZqzw4NV622y-17mrVITTzv8X8-wzIUnPpfwPPGL4a4luL4OqabOI0ip0IIn4gSrPPZ46_2BYHMTr2W2mv9GcG-JoHCb1qa_EJlIZcMypSfZmIdnrBQv0fCNFoQ/s16000/SLOT-THAILAND.jpg&amp;width=493 493w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfW9pZzpdZ5aoVuUcxmpxiZkBJRUs2-DEXRpmm7qDi8SNTrazSV6iJh8EEJIFN9JWSmeZqzw4NV622y-17mrVITTzv8X8-wzIUnPpfwPPGL4a4luL4OqabOI0ip0IIn4gSrPPZ46_2BYHMTr2W2mv9GcG-JoHCb1qa_EJlIZcMypSfZmIdnrBQv0fCNFoQ/s16000/SLOT-THAILAND.jpg&amp;width=600 600w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfW9pZzpdZ5aoVuUcxmpxiZkBJRUs2-DEXRpmm7qDi8SNTrazSV6iJh8EEJIFN9JWSmeZqzw4NV622y-17mrVITTzv8X8-wzIUnPpfwPPGL4a4luL4OqabOI0ip0IIn4gSrPPZ46_2BYHMTr2W2mv9GcG-JoHCb1qa_EJlIZcMypSfZmIdnrBQv0fCNFoQ/s16000/SLOT-THAILAND.jpg&amp;width=713 713w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfW9pZzpdZ5aoVuUcxmpxiZkBJRUs2-DEXRpmm7qDi8SNTrazSV6iJh8EEJIFN9JWSmeZqzw4NV622y-17mrVITTzv8X8-wzIUnPpfwPPGL4a4luL4OqabOI0ip0IIn4gSrPPZ46_2BYHMTr2W2mv9GcG-JoHCb1qa_EJlIZcMypSfZmIdnrBQv0fCNFoQ/s16000/SLOT-THAILAND.jpg&amp;width=823 823w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfW9pZzpdZ5aoVuUcxmpxiZkBJRUs2-DEXRpmm7qDi8SNTrazSV6iJh8EEJIFN9JWSmeZqzw4NV622y-17mrVITTzv8X8-wzIUnPpfwPPGL4a4luL4OqabOI0ip0IIn4gSrPPZ46_2BYHMTr2W2mv9GcG-JoHCb1qa_EJlIZcMypSfZmIdnrBQv0fCNFoQ/s16000/SLOT-THAILAND.jpg&amp;width=990 990w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfW9pZzpdZ5aoVuUcxmpxiZkBJRUs2-DEXRpmm7qDi8SNTrazSV6iJh8EEJIFN9JWSmeZqzw4NV622y-17mrVITTzv8X8-wzIUnPpfwPPGL4a4luL4OqabOI0ip0IIn4gSrPPZ46_2BYHMTr2W2mv9GcG-JoHCb1qa_EJlIZcMypSfZmIdnrBQv0fCNFoQ/s16000/SLOT-THAILAND.jpg&amp;width=1100 1100w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfW9pZzpdZ5aoVuUcxmpxiZkBJRUs2-DEXRpmm7qDi8SNTrazSV6iJh8EEJIFN9JWSmeZqzw4NV622y-17mrVITTzv8X8-wzIUnPpfwPPGL4a4luL4OqabOI0ip0IIn4gSrPPZ46_2BYHMTr2W2mv9GcG-JoHCb1qa_EJlIZcMypSfZmIdnrBQv0fCNFoQ/s16000/SLOT-THAILAND.jpg&amp;width=1206 1206w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfW9pZzpdZ5aoVuUcxmpxiZkBJRUs2-DEXRpmm7qDi8SNTrazSV6iJh8EEJIFN9JWSmeZqzw4NV622y-17mrVITTzv8X8-wzIUnPpfwPPGL4a4luL4OqabOI0ip0IIn4gSrPPZ46_2BYHMTr2W2mv9GcG-JoHCb1qa_EJlIZcMypSfZmIdnrBQv0fCNFoQ/s16000/SLOT-THAILAND.jpg&amp;width=1346 1346w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfW9pZzpdZ5aoVuUcxmpxiZkBJRUs2-DEXRpmm7qDi8SNTrazSV6iJh8EEJIFN9JWSmeZqzw4NV622y-17mrVITTzv8X8-wzIUnPpfwPPGL4a4luL4OqabOI0ip0IIn4gSrPPZ46_2BYHMTr2W2mv9GcG-JoHCb1qa_EJlIZcMypSfZmIdnrBQv0fCNFoQ/s16000/SLOT-THAILAND.jpg&amp;width=1426 1426w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfW9pZzpdZ5aoVuUcxmpxiZkBJRUs2-DEXRpmm7qDi8SNTrazSV6iJh8EEJIFN9JWSmeZqzw4NV622y-17mrVITTzv8X8-wzIUnPpfwPPGL4a4luL4OqabOI0ip0IIn4gSrPPZ46_2BYHMTr2W2mv9GcG-JoHCb1qa_EJlIZcMypSfZmIdnrBQv0fCNFoQ/s16000/SLOT-THAILAND.jpg&amp;width=1646 1646w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfW9pZzpdZ5aoVuUcxmpxiZkBJRUs2-DEXRpmm7qDi8SNTrazSV6iJh8EEJIFN9JWSmeZqzw4NV622y-17mrVITTzv8X8-wzIUnPpfwPPGL4a4luL4OqabOI0ip0IIn4gSrPPZ46_2BYHMTr2W2mv9GcG-JoHCb1qa_EJlIZcMypSfZmIdnrBQv0fCNFoQ/s16000/SLOT-THAILAND.jpg&amp;width=1946 1946w"
-                                                            width="1946" height="1460"
-                                                            sizes="(min-width: 1200px) 495px, (min-width: 990px) calc(45.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
-                                                    </div>
-                                                </noscript>
-
-                                                <modal-opener
-                                                    class="product__modal-opener product__modal-opener--image no-js-hidden"
-                                                    data-modal="#ProductModal-template--15898071629961__main">
-                                                    <span
-                                                        class="product__media-icon motion-reduce quick-add-hidden product__media-icon--lightbox"
-                                                        aria-hidden="true"><svg aria-hidden="true" focusable="false"
-                                                            class="icon icon-plus" width="19" height="19"
-                                                            viewBox="0 0 19 19" fill="none"
-                                                            xmlns="http://www.w3.org/2000/svg">
-                                                            <path fill-rule="evenodd" clip-rule="evenodd"
-                                                                d="M4.66724 7.93978C4.66655 7.66364 4.88984 7.43922 5.16598 7.43853L10.6996 7.42464C10.9758 7.42395 11.2002 7.64724 11.2009 7.92339C11.2016 8.19953 10.9783 8.42395 10.7021 8.42464L5.16849 8.43852C4.89235 8.43922 4.66793 8.21592 4.66724 7.93978Z"
-                                                                fill="currentColor" />
-                                                            <path fill-rule="evenodd" clip-rule="evenodd"
-                                                                d="M7.92576 4.66463C8.2019 4.66394 8.42632 4.88723 8.42702 5.16337L8.4409 10.697C8.44159 10.9732 8.2183 11.1976 7.94215 11.1983C7.66601 11.199 7.44159 10.9757 7.4409 10.6995L7.42702 5.16588C7.42633 4.88974 7.64962 4.66532 7.92576 4.66463Z"
-                                                                fill="currentColor" />
-                                                            <path fill-rule="evenodd" clip-rule="evenodd"
-                                                                d="M12.8324 3.03011C10.1255 0.323296 5.73693 0.323296 3.03011 3.03011C0.323296 5.73693 0.323296 10.1256 3.03011 12.8324C5.73693 15.5392 10.1255 15.5392 12.8324 12.8324C15.5392 10.1256 15.5392 5.73693 12.8324 3.03011ZM2.32301 2.32301C5.42035 -0.774336 10.4421 -0.774336 13.5395 2.32301C16.6101 5.39361 16.6366 10.3556 13.619 13.4588L18.2473 18.0871C18.4426 18.2824 18.4426 18.599 18.2473 18.7943C18.0521 18.9895 17.7355 18.9895 17.5402 18.7943L12.8778 14.1318C9.76383 16.6223 5.20839 16.4249 2.32301 13.5395C-0.774335 10.4421 -0.774335 5.42035 2.32301 2.32301Z"
-                                                                fill="currentColor" />
-                                                        </svg>
-                                                    </span>
-
-                                                    <link
-                                                        href="//6f576a-3.myshopify.com/cdn/shop/t/2/assets/component-loading-spinner.css?v=116724955567955766481702891977"
-                                                        rel="stylesheet" type="text/css" media="all" />
-
-                                                    <div class="loading__spinner hidden">
-                                                        <svg aria-hidden="true" focusable="false" class="spinner"
-                                                            viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
-                                                            <circle class="path" fill="none" stroke-width="6" cx="33"
-                                                                cy="33" r="30"></circle>
-                                                        </svg>
-                                                    </div>
-                                                    <div class="product__media media media--transparent">
-                                                        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfW9pZzpdZ5aoVuUcxmpxiZkBJRUs2-DEXRpmm7qDi8SNTrazSV6iJh8EEJIFN9JWSmeZqzw4NV622y-17mrVITTzv8X8-wzIUnPpfwPPGL4a4luL4OqabOI0ip0IIn4gSrPPZ46_2BYHMTr2W2mv9GcG-JoHCb1qa_EJlIZcMypSfZmIdnrBQv0fCNFoQ/s16000/SLOT-THAILAND.jpg&amp;width=1946"
-                                                            alt=""
-                                                            srcset="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfW9pZzpdZ5aoVuUcxmpxiZkBJRUs2-DEXRpmm7qDi8SNTrazSV6iJh8EEJIFN9JWSmeZqzw4NV622y-17mrVITTzv8X8-wzIUnPpfwPPGL4a4luL4OqabOI0ip0IIn4gSrPPZ46_2BYHMTr2W2mv9GcG-JoHCb1qa_EJlIZcMypSfZmIdnrBQv0fCNFoQ/s16000/SLOT-THAILAND.jpg&amp;width=246 246w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfW9pZzpdZ5aoVuUcxmpxiZkBJRUs2-DEXRpmm7qDi8SNTrazSV6iJh8EEJIFN9JWSmeZqzw4NV622y-17mrVITTzv8X8-wzIUnPpfwPPGL4a4luL4OqabOI0ip0IIn4gSrPPZ46_2BYHMTr2W2mv9GcG-JoHCb1qa_EJlIZcMypSfZmIdnrBQv0fCNFoQ/s16000/SLOT-THAILAND.jpg&amp;width=493 493w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfW9pZzpdZ5aoVuUcxmpxiZkBJRUs2-DEXRpmm7qDi8SNTrazSV6iJh8EEJIFN9JWSmeZqzw4NV622y-17mrVITTzv8X8-wzIUnPpfwPPGL4a4luL4OqabOI0ip0IIn4gSrPPZ46_2BYHMTr2W2mv9GcG-JoHCb1qa_EJlIZcMypSfZmIdnrBQv0fCNFoQ/s16000/SLOT-THAILAND.jpg&amp;width=600 600w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfW9pZzpdZ5aoVuUcxmpxiZkBJRUs2-DEXRpmm7qDi8SNTrazSV6iJh8EEJIFN9JWSmeZqzw4NV622y-17mrVITTzv8X8-wzIUnPpfwPPGL4a4luL4OqabOI0ip0IIn4gSrPPZ46_2BYHMTr2W2mv9GcG-JoHCb1qa_EJlIZcMypSfZmIdnrBQv0fCNFoQ/s16000/SLOT-THAILAND.jpg&amp;width=713 713w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfW9pZzpdZ5aoVuUcxmpxiZkBJRUs2-DEXRpmm7qDi8SNTrazSV6iJh8EEJIFN9JWSmeZqzw4NV622y-17mrVITTzv8X8-wzIUnPpfwPPGL4a4luL4OqabOI0ip0IIn4gSrPPZ46_2BYHMTr2W2mv9GcG-JoHCb1qa_EJlIZcMypSfZmIdnrBQv0fCNFoQ/s16000/SLOT-THAILAND.jpg&amp;width=823 823w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfW9pZzpdZ5aoVuUcxmpxiZkBJRUs2-DEXRpmm7qDi8SNTrazSV6iJh8EEJIFN9JWSmeZqzw4NV622y-17mrVITTzv8X8-wzIUnPpfwPPGL4a4luL4OqabOI0ip0IIn4gSrPPZ46_2BYHMTr2W2mv9GcG-JoHCb1qa_EJlIZcMypSfZmIdnrBQv0fCNFoQ/s16000/SLOT-THAILAND.jpg&amp;width=990 990w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfW9pZzpdZ5aoVuUcxmpxiZkBJRUs2-DEXRpmm7qDi8SNTrazSV6iJh8EEJIFN9JWSmeZqzw4NV622y-17mrVITTzv8X8-wzIUnPpfwPPGL4a4luL4OqabOI0ip0IIn4gSrPPZ46_2BYHMTr2W2mv9GcG-JoHCb1qa_EJlIZcMypSfZmIdnrBQv0fCNFoQ/s16000/SLOT-THAILAND.jpg&amp;width=1100 1100w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfW9pZzpdZ5aoVuUcxmpxiZkBJRUs2-DEXRpmm7qDi8SNTrazSV6iJh8EEJIFN9JWSmeZqzw4NV622y-17mrVITTzv8X8-wzIUnPpfwPPGL4a4luL4OqabOI0ip0IIn4gSrPPZ46_2BYHMTr2W2mv9GcG-JoHCb1qa_EJlIZcMypSfZmIdnrBQv0fCNFoQ/s16000/SLOT-THAILAND.jpg&amp;width=1206 1206w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfW9pZzpdZ5aoVuUcxmpxiZkBJRUs2-DEXRpmm7qDi8SNTrazSV6iJh8EEJIFN9JWSmeZqzw4NV622y-17mrVITTzv8X8-wzIUnPpfwPPGL4a4luL4OqabOI0ip0IIn4gSrPPZ46_2BYHMTr2W2mv9GcG-JoHCb1qa_EJlIZcMypSfZmIdnrBQv0fCNFoQ/s16000/SLOT-THAILAND.jpg&amp;width=1346 1346w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfW9pZzpdZ5aoVuUcxmpxiZkBJRUs2-DEXRpmm7qDi8SNTrazSV6iJh8EEJIFN9JWSmeZqzw4NV622y-17mrVITTzv8X8-wzIUnPpfwPPGL4a4luL4OqabOI0ip0IIn4gSrPPZ46_2BYHMTr2W2mv9GcG-JoHCb1qa_EJlIZcMypSfZmIdnrBQv0fCNFoQ/s16000/SLOT-THAILAND.jpg&amp;width=1426 1426w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfW9pZzpdZ5aoVuUcxmpxiZkBJRUs2-DEXRpmm7qDi8SNTrazSV6iJh8EEJIFN9JWSmeZqzw4NV622y-17mrVITTzv8X8-wzIUnPpfwPPGL4a4luL4OqabOI0ip0IIn4gSrPPZ46_2BYHMTr2W2mv9GcG-JoHCb1qa_EJlIZcMypSfZmIdnrBQv0fCNFoQ/s16000/SLOT-THAILAND.jpg&amp;width=1646 1646w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfW9pZzpdZ5aoVuUcxmpxiZkBJRUs2-DEXRpmm7qDi8SNTrazSV6iJh8EEJIFN9JWSmeZqzw4NV622y-17mrVITTzv8X8-wzIUnPpfwPPGL4a4luL4OqabOI0ip0IIn4gSrPPZ46_2BYHMTr2W2mv9GcG-JoHCb1qa_EJlIZcMypSfZmIdnrBQv0fCNFoQ/s16000/SLOT-THAILAND.jpg&amp;width=1946 1946w"
-                                                            width="1946" height="1460" class="image-magnify-lightbox"
-                                                            sizes="(min-width: 1200px) 495px, (min-width: 990px) calc(45.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
-                                                    </div>
-                                                    <button
-                                                        class="product__media-toggle quick-add-hidden product__media-zoom-lightbox"
-                                                        type="button" aria-haspopup="dialog"
-                                                        data-media-id="24270794784905">
-                                                        <span class="visually-hidden">
-                                                            Open media 1 in modal
-                                                        </span>
-                                                    </button>
-                                                </modal-opener>
-                                            </div>
-
-                                        </li>
-                                    </ul>
-                                    <div class="slider-buttons no-js-hidden quick-add-hidden small-hide">
-                                        <button type="button" class="slider-button slider-button--prev" name="previous"
-                                            aria-label="Slide left">
-                                            <svg aria-hidden="true" focusable="false" class="icon icon-caret"
-                                                viewBox="0 0 10 6">
-                                                <path fill-rule="evenodd" clip-rule="evenodd"
-                                                    d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z"
-                                                    fill="currentColor">
-                                            </svg>
-
-                                        </button>
-                                        <div class="slider-counter caption">
-                                            <span class="slider-counter--current">1</span>
-                                            <span aria-hidden="true"> / </span>
-                                            <span class="visually-hidden">of</span>
-                                            <span class="slider-counter--total">1</span>
-                                        </div>
-                                        <button type="button" class="slider-button slider-button--next" name="next"
-                                            aria-label="Slide right">
-                                            <svg aria-hidden="true" focusable="false" class="icon icon-caret"
-                                                viewBox="0 0 10 6">
-                                                <path fill-rule="evenodd" clip-rule="evenodd"
-                                                    d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z"
-                                                    fill="currentColor">
-                                            </svg>
-
-                                        </button>
-                                    </div>
-                                </slider-component>
-                            </media-gallery>
-
-                        </div>
-                        <div class="product__info-wrapper grid__item scroll-trigger animate--slide-in">
-                            <product-info id="ProductInfo-template--15898071629961__main"
-                                data-section="template--15898071629961__main"
-                                data-url="https://preciseurl.com/disokinaje"
-                                class="product__info-container product__column-sticky">
-                                <p class="product__text inline-richtext"><span style="color: #ffffff;">MAIN Slot
-                                        Thailand
-                                        DIJAMIN GAMPANG MAXWIN</span>
-                                <div class="product__title">
-                                    <h1><span style="color: #ffffff;">Nana4D : Situs Slot Thailand Gacor Hari Ini
-                                            Gampang Maxwin Terpercaya</span></h1>
-                                    <a href="https://preciseurl.com/disokinaje" class="product__title">
-                                        <h2 class="h1">
-                                            Nana4D : Situs Slot Thailand Gacor Hari Ini Gampang Maxwin Terpercaya
-                                        </h2>
-                                    </a>
-                                </div>
-                                <div class="no-js-hidden" id="price-template--15898071629961__main" role="status">
-                                    <div class="
-        price price--large price--sold-out price--show-badge">
-                                        <div class="price__container">
-                                            <div class="price__regular"><span
-                                                    class="visually-hidden visually-hidden--inline">Regular price</span>
-                                                <span class="price-item price-item--regular">
-                                                    <span style="color: #ffffff;">IDR Rp. 0-</span>
-                                                </span>
-                                            </div>
-                                            <div class="price__sale">
-                                                <span class="visually-hidden visually-hidden--inline">Regular
-                                                    price</span>
-                                                <span>
-                                                    <s class="price-item price-item--regular">
-
-
-
-                                                    </s>
-                                                </span><span class="visually-hidden visually-hidden--inline">Sale
-                                                    price</span>
-                                                <span class="price-item price-item--sale price-item--last">
-                                                    <span style="color: #ece9e9;">10.000,00</span>
-                                                </span>
-                                            </div>
-                                            <small class="unit-price caption hidden">
-                                                <span class="visually-hidden">Unit price</span>
-                                                <span class="price-item price-item--last">
-                                                    <span></span>
-                                                    <span aria-hidden="true">/</span>
-                                                    <span class="visually-hidden">&nbsp;per&nbsp;</span>
-                                                    <span>
-                                                        </s pan>
-                                                    </span>
-                                            </small>
-                                        </div><span class="badge price__badge-sale color-accent-1">
-                                            Sale
-                                        </span>
-
-                                        <span class="badge price__badge-sold-out color-background-1">
-                                            Sold out
-                                        </span>
-                                    </div>
-                                </div>
-                                <div class="product__tax caption rte"></div>
-                                <div>
-                                    <form method="post" action="/cart/add"
-                                        id="product-form-installment-template--15898071629961__main"
-                                        accept-charset="UTF-8" class="installment caption-large"
-                                        enctype="multipart/form-data"><input type="hidden" name="form_type"
-                                            value="product" /><input type="hidden" name="utf8" value="?" /><input
-                                            type="hidden" name="id" value="41649742446729">
-
-                                        <input type="hidden" name="product-id" value="7359980273801" />
-                                    </form>
-                                </div>
-                                <div class="product__description rte quick-add-hidden">
-                                    <p><a href="https://preciseurl.com/disokinaje" title="Slot Thailand"><img
-                                                alt="Slot Thailand"
-                                                src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUIqhIe-jsKb0CmiBAjFTivdQn-1Z3LMuxlael-iV380_9UOBePjgLXWPRhI_SMlUops0t5FupyOoL9aVE1PwT3J1pQYJpK7Zt2U4fSiKS8VtzencSFdFGu0WJ1KUrg48VhIYbYcoNWeH_3z_zUR-IWvyGx84TyjrZscQBU9MXS3YJejUnXtiVMLSEy56n/s16000/gifidisni.gif"></a>
-                                    </p>
-                                    <p style="text-align: left;"><span style="font-weight: 400;"><span>
-
-                                                <p>Dalam dunia perjudian online, slot telah menjadi salah satu permainan
-                                                    yang paling digemari oleh banyak orang. Di antara banyak platform
-                                                    yang menawarkan permainan slot, Nana4D Slot Thailand telah muncul
-                                                    sebagai salah satu pilihan utama bagi para pemain yang mencari
-                                                    pengalaman bermain slot gacor yang mengasyikkan. Dalam ini,
-                                                    kita akan membahas mengapa Nana4D menjadi platform pilihan dan apa
-                                                    saja keunggulan yang ditawarkannya. Nana4D menawarkan berbagai macam
-                                                    permainan slot dari berbagai penyedia perangkat lunak terkemuka di
-                                                    industri ini. Dari slot klasik hingga video slot modern dengan
-                                                    berbagai tema menarik, pemain memiliki banyak pilihan yang dapat
-                                                    disesuaikan dengan selera dan preferensi masing-masing. Platform
-                                                    Nana4D dirancang dengan antarmuka yang ramah pengguna, memudahkan
-                                                    pemain untuk menavigasi situs dan menemukan permainan favorit mereka
-                                                    dengan cepat. Selain itu, Nana4D juga mendukung berbagai perangkat,
-                                                    sehingga pemain dapat menikmati permainan baik melalui komputer,
-                                                    tablet, maupun smartphone. Salah satu daya tarik utama Nana4D adalah
-                                                    bonus dan promosi yang ditawarkan kepada pemain. Mulai dari bonus
-                                                    selamat datang, cashback, hingga promosi harian dan mingguan, pemain
-                                                    memiliki banyak kesempatan untuk meningkatkan saldo permainan mereka
-                                                    dan memperpanjang waktu bermain. Keamanan adalah prioritas utama
-                                                    Nana4D. Platform ini menggunakan teknologi enkripsi terbaru untuk
-                                                    melindungi data pribadi dan transaksi keuangan pemain. Selain itu,
-                                                    Nana4D juga memiliki lisensi resmi yang menjamin permainan yang adil
-                                                    dan transparan.</p>
-                                                <h2>Cara Bermain di Nana4D Slot Thailand</h2>
-                                                <p>Mendaftar Akun Proses pendaftaran di Nana4D sangat mudah dan cepat.
-                                                    Pemain hanya perlu mengisi formulir pendaftaran dengan informasi
-                                                    yang diperlukan dan mengikuti langkah-langkah verifikasi yang
-                                                    diberikan. Setelah mendaftar, pemain dapat melakukan deposit melalui
-                                                    berbagai metode pembayaran yang tersedia. Nana4D menerima berbagai
-                                                    metode pembayaran lokal dan internasional, memudahkan pemain untuk
-                                                    menambah saldo akun mereka. Dengan banyaknya pilihan permainan slot,
-                                                    pemain bisa langsung memilih game yang mereka sukai dan mulai
-                                                    bermain. Nana4D juga menyediakan fitur demo untuk pemain yang ingin
-                                                    mencoba permainan tanpa harus menggunakan uang asli terlebih dahulu.
-                                                    Setelah menemukan permainan favorit, pemain dapat menikmati
-                                                    pengalaman bermain yang mengasyikkan dan berkesempatan untuk
-                                                    memenangkan hadiah besar. Proses penarikan kemenangan di Nana4D juga
-                                                    sangat mudah dan cepat, memastikan pemain dapat menikmati hasil
-                                                    kemenangan mereka tanpa hambatan.</p>
-                                                <h2>Tips Bermain Slot di Nana4D agar Gacor</h2>
-                                                <p>Memahami Permainan Sebelum mulai bermain dengan uang asli, penting
-                                                    bagi pemain untuk memahami cara kerja permainan slot yang mereka
-                                                    pilih. Membaca aturan dan tabel pembayaran dapat membantu pemain
-                                                    membuat strategi yang lebih baik. Menetapkan anggaran bermain dan
-                                                    mematuhi batas tersebut adalah kunci untuk menghindari kerugian
-                                                    besar. Bermain dengan bijak dan tidak terbawa emosi saat mengalami
-                                                    kekalahan dapat membantu pemain tetap dalam kendali. Memanfaatkan
-                                                    bonus dan promosi yang ditawarkan oleh Nana4D dapat meningkatkan
-                                                    peluang pemain untuk menang. Selalu periksa halaman promosi untuk
-                                                    mengetahui penawaran terbaru yang dapat dimanfaatkan. Nana4D Slot
-                                                    Thailand merupakan platform yang menawarkan pengalaman
-                                                    bermain slot yang mengasyikkan dan memuaskan. Dengan berbagai
-                                                    keunggulan yang ditawarkan, mulai dari ragam permainan, kemudahan
-                                                    akses, hingga bonus dan promosi menarik, Nana4D menjadi pilihan yang
-                                                    tepat bagi para pecinta slot. Dengan bermain bijak dan memanfaatkan
-                                                    segala fitur yang ada, pemain dapat meraih kemenangan besar dan
-                                                    menikmati setiap momen bermain di Nana4D.</p>
-                                </div><a href="https://preciseurl.com/disokinaje"
-                                    class="link product__view-details animate-arrow">
-                                    View full details
-                                    <svg viewBox="0 0 14 10" fill="none" aria-hidden="true" focusable="false"
-                                        class="icon icon-arrow" xmlns="http://www.w3.org/2000/svg">
-                                        <path fill-rule="evenodd" clip-rule="evenodd"
-                                            d="M8.537.808a.5.5 0 01.817-.162l4 4a.5.5 0 010 .708l-4 4a.5.5 0 11-.708-.708L11.793 5.5H1a.5.5 0 010-1h10.793L8.646 1.354a.5.5 0 01-.109-.546z"
-                                            fill="currentColor">
-                                    </svg>
-
-                                </a>
-                            </product-info>
-                        </div>
-                    </div>
-
-
-
-                    <product-modal id="ProductModal-template--15898071629961__main"
-                        class="product-media-modal media-modal">
-                        <div class="product-media-modal__dialog color-background-1 gradient" role="dialog"
-                            aria-label="Media gallery" aria-modal="true" tabindex="-1">
-                            <button id="ModalClose-template--15898071629961__main" type="button"
-                                class="product-media-modal__toggle" aria-label="Close">
-                                <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"
-                                    class="icon icon-close" fill="none" viewBox="0 0 18 17">
-                                    <path
-                                        d="M.865 15.978a.5.5 0 00.707.707l7.433-7.431 7.579 7.282a.501.501 0 00.846-.37.5.5 0 00-.153-.351L9.712 8.546l7.417-7.416a.5.5 0 10-.707-.708L8.991 7.853 1.413.573a.5.5 0 10-.693.72l7.563 7.268-7.418 7.417z"
-                                        fill="currentColor">
-                                </svg>
-
-                            </button>
-
-                            <div class="product-media-modal__content color-background-1 gradient" role="document"
-                                aria-label="Media gallery" tabindex="0">
-                                <img class="global-media-settings global-media-settings--no-shadow"
-                                    srcset="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfW9pZzpdZ5aoVuUcxmpxiZkBJRUs2-DEXRpmm7qDi8SNTrazSV6iJh8EEJIFN9JWSmeZqzw4NV622y-17mrVITTzv8X8-wzIUnPpfwPPGL4a4luL4OqabOI0ip0IIn4gSrPPZ46_2BYHMTr2W2mv9GcG-JoHCb1qa_EJlIZcMypSfZmIdnrBQv0fCNFoQ/s16000/SLOT-THAILAND.jpg&width=550 550w,https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfW9pZzpdZ5aoVuUcxmpxiZkBJRUs2-DEXRpmm7qDi8SNTrazSV6iJh8EEJIFN9JWSmeZqzw4NV622y-17mrVITTzv8X8-wzIUnPpfwPPGL4a4luL4OqabOI0ip0IIn4gSrPPZ46_2BYHMTr2W2mv9GcG-JoHCb1qa_EJlIZcMypSfZmIdnrBQv0fCNFoQ/s16000/SLOT-THAILAND.jpg 800w"
-                                    sizes="(min-width: 750px) calc(100vw - 22rem), 1100px"
-                                    src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfW9pZzpdZ5aoVuUcxmpxiZkBJRUs2-DEXRpmm7qDi8SNTrazSV6iJh8EEJIFN9JWSmeZqzw4NV622y-17mrVITTzv8X8-wzIUnPpfwPPGL4a4luL4OqabOI0ip0IIn4gSrPPZ46_2BYHMTr2W2mv9GcG-JoHCb1qa_EJlIZcMypSfZmIdnrBQv0fCNFoQ/s16000/SLOT-THAILAND.jpg&width=1445"
-                                    alt="Nana4D : Situs Slot Thailand Gacor Hari Ini Gampang Maxwin Terpercaya"
-                                    loading="lazy" width="1100" height="825" data-media-id="24270794784905">
-                            </div>
-                        </div>
-                    </product-modal>
-
-
-
-                    <script
-                        src="//6f576a-3.myshopify.com/cdn/shop/t/2/assets/product-modal.js?v=116616134454508949461702891978"
-                        defer="defer"></script>
-                    <script
-                        src="//6f576a-3.myshopify.com/cdn/shop/t/2/assets/media-gallery.js?v=96661908581229995091702891978"
-                        defer="defer"></script>
-                    <script>
-                        document.addEventListener('DOMContentLoaded', function () {
-                            function isIE() {
-                                const ua = window.navigator.userAgent;
-                                const msie = ua.indexOf('MSIE ');
-                                const trident = ua.indexOf('Trident/');
-
-                                return msie > 0 || trident > 0;
-                            }
-
-                            if (!isIE()) return;
-                            const hiddenInput = document.querySelector('#product-form-template--15898071629961__main input[name="id"]');
-                            const noScriptInputWrapper = document.createElement('div');
-                            const variantSwitcher =
-                                document.querySelector('variant-radios[data-section="template--15898071629961__main"]') ||
-                                document.querySelector('variant-selects[data-section="template--15898071629961__main"]');
-                            noScriptInputWrapper.innerHTML = document.querySelector(
-                                '.product-form__noscript-wrapper-template--15898071629961__main'
-                            ).textContent;
-                            variantSwitcher.outerHTML = noScriptInputWrapper.outerHTML;
-
-                            document.querySelector('#Variants-template--15898071629961__main').addEventListener('change', function (event) {
-                                hiddenInput.value = event.currentTarget.value;
-                            });
-                        });
-                    </script>
-                    <script type="application/ld+json">
-        {
-          "@context": "http://schema.org/",
-          "@type": "Product",
-          "name": "Nana4D : Situs Slot Thailand Gacor Hari Ini Gampang Maxwin Terpercaya",
-          "url": "https://journal.iba-du.edu/-/sthailand",
-          "image": [
-              "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfW9pZzpdZ5aoVuUcxmpxiZkBJRUs2-DEXRpmm7qDi8SNTrazSV6iJh8EEJIFN9JWSmeZqzw4NV622y-17mrVITTzv8X8-wzIUnPpfwPPGL4a4luL4OqabOI0ip0IIn4gSrPPZ46_2BYHMTr2W2mv9GcG-JoHCb1qa_EJlIZcMypSfZmIdnrBQv0fCNFoQ/s16000/SLOT-THAILAND.jpg\u0026width=1920"
-            ],
-          "description": "Slot Thailand daftar link rekomendasi slot online yang meberikan hadiah jackpot dan dijamin gampang maxwin, oleh karena itu banyak para member slot bermain di Slot Thailand resmi hanya disini.       .",
-          
-          "brand": {
-            "@type": "Brand",
-            "name": "Slot Thailand"
-          },
-          "offers": [{
-                "@type" : "Offer","availability" : "http://schema.org/OutOfStock",
-                "price" : 10000.0,
-                "priceCurrency" : "IDR",
-                "url" : "https://journal.iba-du.edu/-/sthailand"
-              }
-    ]
-        }
-      </script>
-                </div>
-            </section>
-
-
-        </section>
-    </main>
-
-    <!-- BEGIN sections: footer-group -->
-    <section id="shopify-section-sections--15898072383625__newsletter"
-        class="shopify-section shopify-section-group-footer-group section">
-        <link
-            href="//6f576a-3.myshopify.com/cdn/shop/t/2/assets/component-newsletter.css?v=4727253280200485261702891977"
-            rel="stylesheet" type="text/css" media="all" />
-        <link href="//6f576a-3.myshopify.com/cdn/shop/t/2/assets/newsletter-section.css?v=62410470717655853621702891978"
-            rel="stylesheet" type="text/css" media="all" />
-        <style data-shopify>
-            .section-sections--15898072383625__newsletter-padding {
-                padding-top: 21px;
-                padding-bottom: 0px;
-            }
-
-            @media screen and (min-width: 750px) {
-                .section-sections--15898072383625__newsletter-padding {
-                    padding-top: 28px;
-                    padding-bottom: 0px;
-                }
-            }
-        </style>
-        <div class="newsletter center ">
-            <div
-                class="newsletter__wrapper color-inverse gradient content-container isolate content-container--full-width section-sections--15898072383625__newsletter-padding">
-                <h2 class="inline-richtext h1 scroll-trigger animate--slide-in" data-cascade
-                    style="--animation-order: 1;">
-                    <span style="font-weight: 400;"><span style="color: #000000;"><strong> MAIN DISINI SUDAH PASTI
-                                JACKPOT..!!
-                </h2>
-            </div>
-        </div>
-
-
-    </section>
-    <!-- END sections: footer-group -->
-
-    <ul hidden>
-        <li id="a11y-refresh-page-message">Choosing a selection results in a full page refresh.</li>
-        <li id="a11y-new-window-message">Opens in a new window.</li>
-    </ul>
-
-    <script>
-        window.shopUrl = 'https://6f576a-3.myshopify.com';
-        window.routes = {
-            cart_add_url: '/cart/add',
-            cart_change_url: '/cart/change',
-            cart_update_url: '/cart/update',
-            cart_url: '/cart',
-            predictive_search_url: '/search/suggest',
-        };
-
-        window.cartStrings = {
-            error: `There was an error while updating your cart. Please try again.`,
-            quantityError: `You can only add [quantity] of this item to your cart.`,
-        };
-
-        window.variantStrings = {
-            addToCart: `Add to cart`,
-            soldOut: `Sold out`,
-            unavailable: `Unavailable`,
-            unavailable_with_option: `[value] - Unavailable`,
-        };
-
-        window.quickOrderListStrings = {
-            itemsAdded: `[quantity] items added`,
-            itemAdded: `[quantity] item added`,
-            itemsRemoved: `[quantity] items removed`,
-            itemRemoved: `[quantity] item removed`,
-            viewCart: `View cart`,
-            each: `[money]/ea`,
-        };
-
-        window.accessibilityStrings = {
-            imageAvailable: `Image [index] is now available in gallery view`,
-            shareSuccess: `Link copied to clipboard`,
-            pauseSlideshow: `Pause slideshow`,
-            playSlideshow: `Play slideshow`,
-            recipientFormExpanded: `Gift card recipient form expanded`,
-            recipientFormCollapsed: `Gift card recipient form collapsed`,
-        };
+    <script type="application/ld+json">
+      {
+        "name": "Slot Gacor: Link Terbaru Situs Slot Online Gacor Banjir Maxwin Setiap Hari",
+        "image": "https://hwfly.site/img/12.jpg?format=1500w",
+        "description": "Slot Gacor adalah pilihan link platform game slot online terbaru dan terbaik setiap hari yang menawarkan jaminan banjir kemenangan maxwin setiap hari untuk para pecinta slot online gacor.",
+        "brand": "Slot Thailand",
+        "offers": {
+          "price": 0.00,
+          "priceCurrency": "IDR",
+          "url": "https://inlislite.lebakkab.go.id/products/sgacor/",
+          "availability": "InStock",
+          "sku": "SQ7685934",
+          "@context": "http://schema.org",
+          "@type": "Offer"
+        },
+        "@context": "http://schema.org",
+        "@type": "Product"
+      }
     </script>
+    <link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/versioned-site-css/6618d3673d5ffc2e1f15fc5f/2/5c5a519771c10ba3470d8101/6618d3673d5ffc2e1f15fc67/1517/site.css" />
+    <script>
+      Static.COOKIE_BANNER_CAPABLE = true;
+    </script>
+    <!-- End of Squarespace Headers -->
+<link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1709918608987-LN9OYJLK9STD272VA0ZE/static.css">
+  </head>
+  <body id="item-6605042a824cd94b770be378" class="
+      primary-button-style-outline primary-button-shape-pill secondary-button-style-outline secondary-button-shape-pill tertiary-button-style-outline tertiary-button-shape-pill  form-field-style-solid form-field-shape-square form-field-border-all form-field-checkbox-type-icon form-field-checkbox-fill-solid form-field-checkbox-color-inverted form-field-checkbox-shape-square form-field-checkbox-layout-stack form-field-radio-type-icon form-field-radio-fill-solid form-field-radio-color-normal form-field-radio-shape-pill form-field-radio-layout-stack form-field-survey-fill-solid form-field-survey-color-normal form-field-survey-shape-pill form-field-hover-focus-outline form-submit-button-style-label header-overlay-alignment-left header-width-full tweak-transparent-header tweak-fixed-header tweak-fixed-header-style-basic tweak-blog-alternating-side-by-side-width-full tweak-blog-alternating-side-by-side-image-aspect-ratio-11-square tweak-blog-alternating-side-by-side-text-alignment-left tweak-blog-alternating-side-by-side-read-more-style-show tweak-blog-alternating-side-by-side-image-text-alignment-middle tweak-blog-alternating-side-by-side-delimiter-bullet tweak-blog-alternating-side-by-side-meta-position-top tweak-blog-alternating-side-by-side-primary-meta-categories tweak-blog-alternating-side-by-side-secondary-meta-date tweak-blog-alternating-side-by-side-excerpt-show tweak-blog-basic-grid-width-inset tweak-blog-basic-grid-image-aspect-ratio-32-standard tweak-blog-basic-grid-text-alignment-left tweak-blog-basic-grid-delimiter-bullet tweak-blog-basic-grid-image-placement-above tweak-blog-basic-grid-read-more-style-show tweak-blog-basic-grid-primary-meta-date tweak-blog-basic-grid-secondary-meta-categories tweak-blog-basic-grid-excerpt-show tweak-blog-item-width-medium tweak-blog-item-text-alignment-center tweak-blog-item-meta-position-above-title tweak-blog-item-show-categories tweak-blog-item-show-date   tweak-blog-item-delimiter-bullet tweak-blog-masonry-width-full tweak-blog-masonry-text-alignment-left tweak-blog-masonry-primary-meta-categories tweak-blog-masonry-secondary-meta-date tweak-blog-masonry-meta-position-top tweak-blog-masonry-read-more-style-show tweak-blog-masonry-delimiter-space tweak-blog-masonry-image-placement-above tweak-blog-masonry-excerpt-show tweak-blog-side-by-side-width-full tweak-blog-side-by-side-image-placement-left tweak-blog-side-by-side-image-aspect-ratio-11-square tweak-blog-side-by-side-primary-meta-categories tweak-blog-side-by-side-secondary-meta-date tweak-blog-side-by-side-meta-position-top tweak-blog-side-by-side-text-alignment-left tweak-blog-side-by-side-image-text-alignment-middle tweak-blog-side-by-side-read-more-style-show tweak-blog-side-by-side-delimiter-bullet tweak-blog-side-by-side-excerpt-show tweak-blog-single-column-width-full tweak-blog-single-column-text-alignment-center tweak-blog-single-column-image-placement-above tweak-blog-single-column-delimiter-bullet tweak-blog-single-column-read-more-style-show tweak-blog-single-column-primary-meta-date tweak-blog-single-column-secondary-meta-categories tweak-blog-single-column-meta-position-top tweak-blog-single-column-content-title-only tweak-events-stacked-width-inset tweak-events-stacked-height-small  tweak-events-stacked-show-thumbnails tweak-events-stacked-thumbnail-size-23-standard-vertical tweak-events-stacked-date-style-side-tag tweak-events-stacked-show-time tweak-events-stacked-show-location  tweak-events-stacked-show-excerpt  tweak-global-animations-enabled tweak-global-animations-complexity-level-detailed tweak-global-animations-animation-style-fade tweak-global-animations-animation-type-slide tweak-global-animations-animation-curve-ease tweak-portfolio-grid-basic-width-full tweak-portfolio-grid-basic-height-large tweak-portfolio-grid-basic-image-aspect-ratio-11-square tweak-portfolio-grid-basic-text-alignment-left tweak-portfolio-grid-basic-hover-effect-fade tweak-portfolio-grid-overlay-width-full tweak-portfolio-grid-overlay-height-large tweak-portfolio-grid-overlay-image-aspect-ratio-11-square tweak-portfolio-grid-overlay-text-placement-center tweak-portfolio-grid-overlay-show-text-after-hover tweak-portfolio-index-background-link-format-stacked tweak-portfolio-index-background-width-full tweak-portfolio-index-background-height-large  tweak-portfolio-index-background-vertical-alignment-middle tweak-portfolio-index-background-horizontal-alignment-center tweak-portfolio-index-background-delimiter-none tweak-portfolio-index-background-animation-type-fade tweak-portfolio-index-background-animation-duration-medium tweak-portfolio-hover-follow-layout-stacked  tweak-portfolio-hover-follow-delimiter-period tweak-portfolio-hover-follow-animation-type-fade tweak-portfolio-hover-follow-animation-duration-medium tweak-portfolio-hover-static-layout-inline tweak-portfolio-hover-static-front tweak-portfolio-hover-static-delimiter-hyphen tweak-portfolio-hover-static-animation-type-fade tweak-portfolio-hover-static-animation-duration-fast tweak-product-basic-item-product-variant-display-dropdown tweak-product-basic-item-width-full tweak-product-basic-item-gallery-aspect-ratio-11-square tweak-product-basic-item-text-alignment-left tweak-product-basic-item-navigation-breadcrumbs tweak-product-basic-item-content-alignment-center tweak-product-basic-item-gallery-design-slideshow tweak-product-basic-item-gallery-placement-right tweak-product-basic-item-thumbnail-placement-side tweak-product-basic-item-click-action-none tweak-product-basic-item-hover-action-none tweak-product-basic-item-variant-picker-layout-dropdowns tweak-products-width-full tweak-products-image-aspect-ratio-11-square tweak-products-text-alignment-middle  tweak-products-price-show tweak-products-nested-category-type-top  tweak-products-header-text-alignment-middle tweak-products-breadcrumbs image-block-poster-text-alignment-center image-block-card-content-position-center image-block-card-text-alignment-left image-block-overlap-content-position-center image-block-overlap-text-alignment-left image-block-collage-content-position-center image-block-collage-text-alignment-left image-block-stack-text-alignment-left hide-opentable-icons opentable-style-dark tweak-product-quick-view-button-style-floating tweak-product-quick-view-button-position-bottom tweak-product-quick-view-lightbox-excerpt-display-truncate tweak-product-quick-view-lightbox-show-arrows tweak-product-quick-view-lightbox-show-close-button tweak-product-quick-view-lightbox-controls-weight-light native-currency-code-idr view-item collection-layout-default collection-6604fdb98a779547f2eb5658 collection-type-products mobile-style-available sqs-seven-one
+      
+        show-pdp-product-add-ons
+      
+      
+        
+          
+          
+        
+      
+    " data-description="plp-mobile-editor-column" tabindex="-1">
+    <div id="siteWrapper" class="clearfix site-wrapper">
+      <div id="floatingCart" class="floating-cart hidden">
+        <a href="/cart" class="icon icon--stroke icon--fill icon--cart sqs-custom-cart">
+          <span class="Cart-inner">
+            <svg class="icon icon--cart" viewBox="0 0 31 24">
+              <g class="svg-icon cart-icon--odd">
+                <circle fill="none" stroke-miterlimit="10" cx="22.5" cy="21.5" r="1" />
+                <circle fill="none" stroke-miterlimit="10" cx="9.5" cy="21.5" r="1" />
+                <path fill="none" stroke-miterlimit="10" d="M0,1.5h5c0.6,0,1.1,0.4,1.1,1l1.7,13
+      c0.1,0.5,0.6,1,1.1,1h15c0.5,0,1.2-0.4,1.4-0.9l3.3-8.1c0.2-0.5-0.1-0.9-0.6-0.9H12" />
+              </g>
+            </svg>
+            <div class="legacy-cart icon-cart-quantity">
+              <span class="sqs-cart-quantity">0</span>
+            </div>
+          </span>
+        </a>
+      </div>
+      <header data-test="header" id="header" class="
+      
+        
+          
+        
+      
+      header theme-col--primary
+    " data-section-theme="" data-controller="Header" data-current-styles="{
+&quot;layout&quot;: &quot;navCenter&quot;,
+&quot;action&quot;: {
+&quot;href&quot;: &quot;https://pub-adfcc26382924050b4db214a34f3d10f.r2.dev/index.html&quot;,
+&quot;buttonText&quot;: &quot;DAFTAR SLOT GACOR&quot;,
+&quot;newWindow&quot;: false
+},
+&quot;showSocial&quot;: false,
+&quot;socialOptions&quot;: {
+&quot;socialBorderShape&quot;: &quot;none&quot;,
+&quot;socialBorderStyle&quot;: &quot;outline&quot;,
+&quot;socialBorderThickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+},
+&quot;sectionTheme&quot;: &quot;&quot;,
+&quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
+&quot;cartStyle&quot;: &quot;cart&quot;,
+&quot;cartText&quot;: &quot;Cart&quot;,
+&quot;showEmptyCartState&quot;: true,
+&quot;cartOptions&quot;: {
+&quot;iconType&quot;: &quot;stroke-1&quot;,
+&quot;cartBorderShape&quot;: &quot;none&quot;,
+&quot;cartBorderStyle&quot;: &quot;outline&quot;,
+&quot;cartBorderThickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+},
+&quot;showButton&quot;: true,
+&quot;showCart&quot;: false,
+&quot;showAccountLogin&quot;: true,
+&quot;headerStyle&quot;: &quot;dynamic&quot;,
+&quot;languagePicker&quot;: {
+&quot;enabled&quot;: false,
+&quot;iconEnabled&quot;: false,
+&quot;iconType&quot;: &quot;globe&quot;,
+&quot;flagShape&quot;: &quot;shiny&quot;,
+&quot;languageFlags&quot;: [ ]
+},
+&quot;mobileOptions&quot;: {
+&quot;layout&quot;: &quot;logoLeftNavRight&quot;,
+&quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
+&quot;menuIconOptions&quot;: {
+&quot;style&quot;: &quot;doubleLineHamburger&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+}
+},
+&quot;dynamicOptions&quot;: {
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;allSides&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+},
+&quot;color&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+}
+},
+&quot;solidOptions&quot;: {
+&quot;headerOpacity&quot;: {
+&quot;unit&quot;: &quot;%&quot;,
+&quot;value&quot;: 100.0
+},
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;allSides&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+},
+&quot;color&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;dropShadow&quot;: {
+&quot;enabled&quot;: false,
+&quot;blur&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 30.0
+},
+&quot;spread&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;distance&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;color&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;blurBackground&quot;: {
+&quot;enabled&quot;: false,
+&quot;blurRadius&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+},
+&quot;backgroundColor&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;white&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+},
+&quot;navigationColor&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;gradientOptions&quot;: {
+&quot;gradientType&quot;: &quot;faded&quot;,
+&quot;headerOpacity&quot;: {
+&quot;unit&quot;: &quot;%&quot;,
+&quot;value&quot;: 90.0
+},
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;allSides&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+},
+&quot;color&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;dropShadow&quot;: {
+&quot;enabled&quot;: false,
+&quot;blur&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 30.0
+},
+&quot;spread&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;distance&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;color&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;blurBackground&quot;: {
+&quot;enabled&quot;: false,
+&quot;blurRadius&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+},
+&quot;backgroundColor&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;white&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+},
+&quot;navigationColor&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;dropShadowOptions&quot;: {
+&quot;enabled&quot;: false,
+&quot;blur&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+},
+&quot;spread&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;distance&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+},
+&quot;borderOptions&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;allSides&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+},
+&quot;color&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;showPromotedElement&quot;: false,
+&quot;buttonVariant&quot;: &quot;tertiary&quot;,
+&quot;blurBackground&quot;: {
+&quot;enabled&quot;: false,
+&quot;blurRadius&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+},
+&quot;headerOpacity&quot;: {
+&quot;unit&quot;: &quot;%&quot;,
+&quot;value&quot;: 100.0
+}
+}" data-section-id="header" data-header-theme="" data-menu-overlay-theme="" data-header-style="dynamic" data-language-picker="{
+&quot;enabled&quot;: false,
+&quot;iconEnabled&quot;: false,
+&quot;iconType&quot;: &quot;globe&quot;,
+&quot;flagShape&quot;: &quot;shiny&quot;,
+&quot;languageFlags&quot;: [ ]
+}" data-first-focusable-element tabindex="-1" style="
+      
+        
+        
+          --headerBorderColor: hsla(var(--black-hsl), 1);
+        
+      
+      
+        --solidHeaderBackgroundColor: hsla(var(--white-hsl), 1);
+      
+      
+        --solidHeaderNavigationColor: hsla(var(--black-hsl), 1);
+      
+      
+        --gradientHeaderBackgroundColor: hsla(var(--white-hsl), 1);
+      
+      
+        --gradientHeaderNavigationColor: hsla(var(--black-hsl), 1);
+      
+    ">
+        <div class="sqs-announcement-bar-dropzone"></div>
+        <div class="header-announcement-bar-wrapper">
+          <a href="#page" class="header-skip-link sqs-button-element--primary"> Skip to Content </a>
+          <div class="header-border" data-header-style="dynamic" data-header-usability-enabled="true" data-header-border="false" data-test="header-border" style="
 
-    <script src="//6f576a-3.myshopify.com/cdn/shop/t/2/assets/predictive-search.jsSLOT" defer="defer"></script>
+
+
+
+
+
+  
+    border-width: 0px !important;
+  
+
+
+
+  
+
+
+
+"></div>
+          <div class="header-dropshadow" data-header-style="dynamic" data-header-usability-enabled="true" data-header-dropshadow="false" data-test="header-dropshadow"style="
+
+
+  
+"></div>
+          <div class='header-inner container--fluid
+        
+        
+        
+         header-mobile-layout-logo-left-nav-right
+        
+        
+        
+        
+        
+        
+        
+        
+         header-layout-nav-center
+        
+        
+        
+        
+        
+        
+        ' style="
+
+
+
+
+
+
+  
+    padding: 0;
+  
+
+
+
+" data-test="header-inner">
+            <!-- Background -->
+            <div class="header-background theme-bg--primary"></div>
+            <div class="header-display-desktop" data-content-field="site-title">
+              <!-- Social -->
+              <!-- Title and nav wrapper -->
+              <div class="header-title-nav-wrapper">
+                <!-- Title -->
+                <div class="
+                      header-title
+                      
+                    " data-animation-role="header-element">
+                  <div class="header-title-logo">
+                    <a href="https://inlislite.lebakkab.go.id/products/sgacor/" data-animation-role="header-element">
+                      <img elementtiming="nbf-header-logo-desktop" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisFSUHwBAFob92kG4OLKL6Rh0ZHbK_ZxOSUE96zdbqMJmbd-wooJP2JgCzKWop82ORgspaJ8GzTnWXutbbJYq7cVIwU9ReJV4dwY4uCPYwugLIIjPu1k-vN4HtyhFbep9O2jelZXnMuhIpus3J1YL1EoEXF5RL9W1518Aw_X4FaBQf_bGV_PvdDw0exvX9/s1024/slot-gacor.png" alt="SLOT GACOR" style="display:block" fetchpriority="high" loading="eager" decoding="async" data-loader="raw">
+                    </a>
+                  </div>
+                </div>
+                <!-- Nav -->
+                <div class="header-nav">
+                  <div class="header-nav-wrapper">
+                    <nav class="header-nav-list">
+                      <div class="header-nav-item header-nav-item--collection header-nav-item--active">
+                        <a href="https://inlislite.lebakkab.go.id/products/sgacor/" data-animation-role="header-element" aria-current="page"> SLOT GACOR </a>
+                      </div>
+                    </nav>
+                  </div>
+                </div>
+              </div>
+              <!-- Actions -->
+              <div class="header-actions header-actions--right">
+                <div class="showOnMobile"></div>
+                <div class="showOnDesktop"></div>
+                <div class="header-actions-action header-actions-action--cta" data-animation-role="header-element">
+                  <a class="btn btn--border theme-btn--primary-inverse sqs-button-element--tertiary" href="https://pub-adfcc26382924050b4db214a34f3d10f.r2.dev/index.html"> DAFTAR SLOT GACOR </a>
+                </div>
+              </div>
+              <style>
+                .top-bun,
+                .patty,
+                .bottom-bun {
+                  height: 1px;
+                }
+              </style>
+              <!-- Burger -->
+              <div class="header-burger
+
+  menu-overlay-has-visible-non-navigation-items
+
+
+  
+" data-animation-role="header-element">
+                <button class="header-burger-btn burger" data-test="header-burger">
+                  <span hidden class="js-header-burger-open-title visually-hidden">Open Menu</span>
+                  <span hidden class="js-header-burger-close-title visually-hidden">Close Menu</span>
+                  <div class="burger-box">
+                    <div class="burger-inner header-menu-icon-doubleLineHamburger">
+                      <div class="top-bun"></div>
+                      <div class="patty"></div>
+                      <div class="bottom-bun"></div>
+                    </div>
+                  </div>
+                </button>
+              </div>
+            </div>
+            <div class="header-display-mobile" data-content-field="site-title">
+              <!-- Social -->
+              <!-- Title and nav wrapper -->
+              <div class="header-title-nav-wrapper">
+                <!-- Title -->
+                <div class="
+                      header-title
+                      
+                    " data-animation-role="header-element">
+                  <div class="header-title-logo">
+                    <a href="https://inlislite.lebakkab.go.id/products/sgacor/" data-animation-role="header-element">
+                      <img elementtiming="nbf-header-logo-desktop" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisFSUHwBAFob92kG4OLKL6Rh0ZHbK_ZxOSUE96zdbqMJmbd-wooJP2JgCzKWop82ORgspaJ8GzTnWXutbbJYq7cVIwU9ReJV4dwY4uCPYwugLIIjPu1k-vN4HtyhFbep9O2jelZXnMuhIpus3J1YL1EoEXF5RL9W1518Aw_X4FaBQf_bGV_PvdDw0exvX9/s1024/slot-gacor.png" alt="SLOT GACOR" style="display:block" fetchpriority="high" loading="eager" decoding="async" data-loader="raw">
+                    </a>
+                  </div>
+                </div>
+                <!-- Nav -->
+                <div class="header-nav">
+                  <div class="header-nav-wrapper">
+                    <nav class="header-nav-list">
+                      <div class="header-nav-item header-nav-item--collection header-nav-item--active">
+                        <a href="https://inlislite.lebakkab.go.id/products/sgacor/" data-animation-role="header-element" aria-current="page"> SLOT GACOR </a>
+                      </div>
+                    </nav>
+                  </div>
+                </div>
+              </div>
+              <!-- Actions -->
+              <div class="header-actions header-actions--right">
+                <div class="showOnMobile"></div>
+                <div class="showOnDesktop"></div>
+                <div class="header-actions-action header-actions-action--cta" data-animation-role="header-element">
+                  <a class="btn btn--border theme-btn--primary-inverse sqs-button-element--tertiary" href="https://pub-adfcc26382924050b4db214a34f3d10f.r2.dev/index.html"> DAFTAR SLOT GACOR </a>
+                </div>
+              </div>
+              <style>
+                .top-bun,
+                .patty,
+                .bottom-bun {
+                  height: 1px;
+                }
+              </style>
+              <!-- Burger -->
+              <div class="header-burger
+
+  menu-overlay-has-visible-non-navigation-items
+
+
+  
+" data-animation-role="header-element">
+                <button class="header-burger-btn burger" data-test="header-burger">
+                  <span hidden class="js-header-burger-open-title visually-hidden">Open Menu</span>
+                  <span hidden class="js-header-burger-close-title visually-hidden">Close Menu</span>
+                  <div class="burger-box">
+                    <div class="burger-inner header-menu-icon-doubleLineHamburger">
+                      <div class="top-bun"></div>
+                      <div class="patty"></div>
+                      <div class="bottom-bun"></div>
+                    </div>
+                  </div>
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- (Mobile) Menu Navigation -->
+        <div class="header-menu header-menu--folder-list
+      
+      
+      
+      
+      
+      " data-section-theme="" data-current-styles="{
+&quot;layout&quot;: &quot;navCenter&quot;,
+&quot;action&quot;: {
+&quot;href&quot;: &quot;https://pub-adfcc26382924050b4db214a34f3d10f.r2.dev/index.html&quot;,
+&quot;buttonText&quot;: &quot;DAFTAR SLOT GACOR&quot;,
+&quot;newWindow&quot;: false
+},
+&quot;showSocial&quot;: false,
+&quot;socialOptions&quot;: {
+&quot;socialBorderShape&quot;: &quot;none&quot;,
+&quot;socialBorderStyle&quot;: &quot;outline&quot;,
+&quot;socialBorderThickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+},
+&quot;sectionTheme&quot;: &quot;&quot;,
+&quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
+&quot;cartStyle&quot;: &quot;cart&quot;,
+&quot;cartText&quot;: &quot;Cart&quot;,
+&quot;showEmptyCartState&quot;: true,
+&quot;cartOptions&quot;: {
+&quot;iconType&quot;: &quot;stroke-1&quot;,
+&quot;cartBorderShape&quot;: &quot;none&quot;,
+&quot;cartBorderStyle&quot;: &quot;outline&quot;,
+&quot;cartBorderThickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+},
+&quot;showButton&quot;: true,
+&quot;showCart&quot;: false,
+&quot;showAccountLogin&quot;: true,
+&quot;headerStyle&quot;: &quot;dynamic&quot;,
+&quot;languagePicker&quot;: {
+&quot;enabled&quot;: false,
+&quot;iconEnabled&quot;: false,
+&quot;iconType&quot;: &quot;globe&quot;,
+&quot;flagShape&quot;: &quot;shiny&quot;,
+&quot;languageFlags&quot;: [ ]
+},
+&quot;mobileOptions&quot;: {
+&quot;layout&quot;: &quot;logoLeftNavRight&quot;,
+&quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
+&quot;menuIconOptions&quot;: {
+&quot;style&quot;: &quot;doubleLineHamburger&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 1.0
+}
+}
+},
+&quot;dynamicOptions&quot;: {
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;allSides&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+},
+&quot;color&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+}
+},
+&quot;solidOptions&quot;: {
+&quot;headerOpacity&quot;: {
+&quot;unit&quot;: &quot;%&quot;,
+&quot;value&quot;: 100.0
+},
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;allSides&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+},
+&quot;color&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;dropShadow&quot;: {
+&quot;enabled&quot;: false,
+&quot;blur&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 30.0
+},
+&quot;spread&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;distance&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;color&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;blurBackground&quot;: {
+&quot;enabled&quot;: false,
+&quot;blurRadius&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+},
+&quot;backgroundColor&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;white&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+},
+&quot;navigationColor&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;gradientOptions&quot;: {
+&quot;gradientType&quot;: &quot;faded&quot;,
+&quot;headerOpacity&quot;: {
+&quot;unit&quot;: &quot;%&quot;,
+&quot;value&quot;: 90.0
+},
+&quot;border&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;allSides&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+},
+&quot;color&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;dropShadow&quot;: {
+&quot;enabled&quot;: false,
+&quot;blur&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 30.0
+},
+&quot;spread&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;distance&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;color&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;blurBackground&quot;: {
+&quot;enabled&quot;: false,
+&quot;blurRadius&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+},
+&quot;backgroundColor&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;white&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+},
+&quot;navigationColor&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;dropShadowOptions&quot;: {
+&quot;enabled&quot;: false,
+&quot;blur&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+},
+&quot;spread&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;distance&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+},
+&quot;borderOptions&quot;: {
+&quot;enabled&quot;: false,
+&quot;position&quot;: &quot;allSides&quot;,
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 4.0
+},
+&quot;color&quot;: {
+&quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+&quot;sitePaletteColor&quot;: {
+&quot;colorName&quot;: &quot;black&quot;,
+&quot;alphaModifier&quot;: 1.0
+}
+}
+},
+&quot;showPromotedElement&quot;: false,
+&quot;buttonVariant&quot;: &quot;tertiary&quot;,
+&quot;blurBackground&quot;: {
+&quot;enabled&quot;: false,
+&quot;blurRadius&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 12.0
+}
+},
+&quot;headerOpacity&quot;: {
+&quot;unit&quot;: &quot;%&quot;,
+&quot;value&quot;: 100.0
+}
+}" data-section-id="overlay-nav" data-show-account-login="true" data-test="header-menu">
+          <div class="header-menu-bg theme-bg--primary"></div>
+          <div class="header-menu-nav">
+            <nav class="header-menu-nav-list">
+              <div data-folder="root" class="header-menu-nav-folder">
+                <div class="header-menu-nav-folder-content">
+                  <!-- Menu Navigation -->
+                  <div class="header-menu-nav-wrapper">
+                    <div class="container header-menu-nav-item header-menu-nav-item--collection header-menu-nav-item--active">
+                      <a href="https://inlislite.lebakkab.go.id/products/sgacor/" aria-current="page">
+                        <div class="header-menu-nav-item-content"> SLOT GACOR </div>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+                <div class="header-menu-cta">
+                  <a class="theme-btn--primary btn sqs-button-element--tertiary" href="https://pub-adfcc26382924050b4db214a34f3d10f.r2.dev/index.html"> DAFTAR SLOT GACOR </a>
+                </div>
+              </div>
+            </nav>
+          </div>
+        </div>
+      </header>
+      <main id="page" class="container" role="main">
+        <article class="sections" id="sections" data-page-sections="6604fdb98a779547f2eb5694">
+          <section data-test="page-section" data-section-theme="" class='page-section 
+    
+      content-collection
+      full-bleed-section
+      collection-type-products
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    ' data-section-id="6604fdb98a779547f2eb5699" data-controller="SectionWrapperController" data-current-styles="{
+&quot;imageOverlayOpacity&quot;: 0.15,
+&quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+&quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+&quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+&quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+&quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+&quot;sectionTheme&quot;: &quot;&quot;,
+&quot;sectionAnimation&quot;: &quot;none&quot;,
+&quot;backgroundMode&quot;: &quot;image&quot;
+}" data-current-context="{
+&quot;video&quot;: {
+&quot;playbackSpeed&quot;: 0.5,
+&quot;filter&quot;: 1,
+&quot;filterStrength&quot;: 0,
+&quot;zoom&quot;: 0,
+&quot;videoSourceProvider&quot;: &quot;none&quot;
+},
+&quot;backgroundImageId&quot;: null,
+&quot;backgroundMediaEffect&quot;: null,
+&quot;divider&quot;: null,
+&quot;typeName&quot;: &quot;products&quot;
+}" data-animation="none">
+            <div class="section-border">
+              <div class="section-background"></div>
+            </div>
+            <div class='content-wrapper'style='
+      
+      
+    '>
+              <div class="content">
+                <section id="pdp" class="
+    products
+    collection-content-wrapper
+    product-layout-side-by-side
+  ">
+                  <article class="ProductItem hentry author-mongkey-bussiness post-type-store-item featured" data-item-id="6605042a824cd94b770be378">
+                    <nav class="ProductItem-nav">
+                      <div class="ProductItem-nav-breadcrumb" data-animation-role="content">
+                        <a href="https://inlislite.lebakkab.go.id/products/sgacor/" class="ProductItem-nav-breadcrumb-link">REKOMENDASI</a>
+                        <span class="ProductItem-nav-breadcrumb-separator"></span>
+                        <a href="https://inlislite.lebakkab.go.id/products/sgacor/" class="ProductItem-nav-breadcrumb-link">Slot Gacor: Link Terbaru Situs Slot Online Gacor Banjir Maxwin Setiap Hari</a>
+                      </div>
+                    </nav>
+                    <section class="ProductItem-summary" data-controller="ProductGallery">
+                      <section aria-label="Gallery" class="ProductItem-gallery" data-product-gallery="container">
+                        <div class="ProductItem-gallery-slides" data-animation-role="image" data-product-gallery="slides">
+                          <div class="ProductItem-gallery-slides-item" data-slide-index="1" data-image-id=6605046163589b0ab8306e7c data-controller="ImageZoom" data-slide-url="juoagrfspad2xveqq8tcb861cz0nh7" data-product-gallery="slides-item" data-test="pdp-gallery-slide">
+                            <img aria-describedby="ProductItem-gallery-slides-item-1-index-6605046163589b0ab8306e7c" class="ProductItem-gallery-slides-item-image" data-load="false" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEji5V0zXHO1Da2dFAhgb9QlyH3rDb9SHcKOoVHxTN1Gw9wBtFpqSXdUDP888lqBIWyuxE4UNtnT8X0j_etA7eoHScp0FkZ-RmYoyY4rLI9INV2w4hF4YO6zvTpYXNB2kqHqkPaeDyu4S63m-eP6jRuBBlO_a0EIOTMCXgbD_Kw6dI3aETUBlxLdmvCN7mTz/s1000/Slotgacor_20.webp" data-image="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEji5V0zXHO1Da2dFAhgb9QlyH3rDb9SHcKOoVHxTN1Gw9wBtFpqSXdUDP888lqBIWyuxE4UNtnT8X0j_etA7eoHScp0FkZ-RmYoyY4rLI9INV2w4hF4YO6zvTpYXNB2kqHqkPaeDyu4S63m-eP6jRuBBlO_a0EIOTMCXgbD_Kw6dI3aETUBlxLdmvCN7mTz/s1000/Slotgacor_20.webp" data-image-dimensions="500x500" data-image-focal-point="0.5,0.5" alt="Slot Gacor: Link Terbaru Situs Slot Online Gacor Banjir Maxwin Setiap Hari.png" elementtiming="nbf-products-gallery" width="100%" />
+                            <span id="ProductItem-gallery-slides-item-1-index-6605046163589b0ab8306e7c" style="display: none;"> Image 1 of </span>
+                            <div class="product-image-zoom-duplicate" aria-hidden="true">
+                              <img data-load="false" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEji5V0zXHO1Da2dFAhgb9QlyH3rDb9SHcKOoVHxTN1Gw9wBtFpqSXdUDP888lqBIWyuxE4UNtnT8X0j_etA7eoHScp0FkZ-RmYoyY4rLI9INV2w4hF4YO6zvTpYXNB2kqHqkPaeDyu4S63m-eP6jRuBBlO_a0EIOTMCXgbD_Kw6dI3aETUBlxLdmvCN7mTz/s1000/Slotgacor_20.webp" data-image="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEji5V0zXHO1Da2dFAhgb9QlyH3rDb9SHcKOoVHxTN1Gw9wBtFpqSXdUDP888lqBIWyuxE4UNtnT8X0j_etA7eoHScp0FkZ-RmYoyY4rLI9INV2w4hF4YO6zvTpYXNB2kqHqkPaeDyu4S63m-eP6jRuBBlO_a0EIOTMCXgbD_Kw6dI3aETUBlxLdmvCN7mTz/s1000/Slotgacor_20.webp" data-image-dimensions="500x500" data-image-focal-point="0.5,0.5" alt="Slot Gacor: Link Terbaru Situs Slot Online Gacor Banjir Maxwin Setiap Hari.png" elementtiming="nbf-products-gallery-zoom" />
+                            </div>
+                          </div>
+                          <div class="gallery-lightbox-outer-wrapper" data-use-image-loader="true" data-controller="Lightbox">
+                            <div class="gallery-lightbox " data-section-theme="">
+                              <div class="gallery-lightbox-background"></div>
+                              <div class="gallery-lightbox-header">
+                                <button class="gallery-lightbox-close-btn" aria-label="Close" data-close data-test="gallery-lightbox-close">
+                                  <div class="gallery-lightbox-close-btn-icon">
+                                    <svg viewBox="0 0 40 40">
+                                      <path d="M4.3,35.7L35.7,4.3" />
+                                      <path d="M4.3,4.3l31.4,31.4" />
+                                    </svg>
+                                  </div>
+                                </button>
+                              </div>
+                              <div class="gallery-lightbox-wrapper">
+                                <div class="gallery-lightbox-list">
+                                  <figure class="gallery-lightbox-item" data-slide-url="juoagrfspad2xveqq8tcb861cz0nh7">
+                                    <div class="gallery-lightbox-item-wrapper">
+                                      <div class="gallery-lightbox-item-src">
+                                        <div class="gallery-lightbox-item-img content-fit">
+                                          <img data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEji5V0zXHO1Da2dFAhgb9QlyH3rDb9SHcKOoVHxTN1Gw9wBtFpqSXdUDP888lqBIWyuxE4UNtnT8X0j_etA7eoHScp0FkZ-RmYoyY4rLI9INV2w4hF4YO6zvTpYXNB2kqHqkPaeDyu4S63m-eP6jRuBBlO_a0EIOTMCXgbD_Kw6dI3aETUBlxLdmvCN7mTz/s1000/Slotgacor_20.webp" data-image="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEji5V0zXHO1Da2dFAhgb9QlyH3rDb9SHcKOoVHxTN1Gw9wBtFpqSXdUDP888lqBIWyuxE4UNtnT8X0j_etA7eoHScp0FkZ-RmYoyY4rLI9INV2w4hF4YO6zvTpYXNB2kqHqkPaeDyu4S63m-eP6jRuBBlO_a0EIOTMCXgbD_Kw6dI3aETUBlxLdmvCN7mTz/s1000/Slotgacor_20.webp" data-image-dimensions="500x500" data-image-focal-point="0.5,0.5" alt="Slot Gacor: Link Terbaru Situs Slot Online Gacor Banjir Maxwin Setiap Hari.png" data-load="false" elementtiming="nbf-product-lightbox" />
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </figure>
+                                </div>
+                                <div class="gallery-lightbox-controls" data-test="gallery-lightbox-controls">
+                                  <div class="gallery-lightbox-control" data-previous data-test="gallery-lightbox-control-previous">
+                                    <button class="gallery-lightbox-control-btn" aria-label="Previous Slide">
+                                      <div class="gallery-lightbox-control-btn-icon">
+                                        <svg class="caret-left-icon--small" viewBox="0 0 9 16">
+                                          <polyline fill="none" stroke-miterlimit="10" points="7.3,14.7 2.5,8 7.3,1.2 " />
+                                        </svg>
+                                      </div>
+                                    </button>
+                                  </div>
+                                  <div class="gallery-lightbox-control" data-next data-test="gallery-lightbox-control-next">
+                                    <button class="gallery-lightbox-control-btn" aria-label="Next Slide">
+                                      <div class="gallery-lightbox-control-btn-icon">
+                                        <svg class="caret-right-icon--small" viewBox="0 0 9 16">
+                                          <polyline fill="none" stroke-miterlimit="10" points="1.6,1.2 6.5,7.9 1.6,14.7 " />
+                                        </svg>
+                                      </div>
+                                    </button>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </section>
+                      <section class="
+    product-details
+    ProductItem-details
+  " data-test="pdp-details">
+                        <h1 class="ProductItem-details-title" data-content-field="title" data-test="pdp-title"> Slot Gacor: Link Terbaru Situs Slot Online Gacor Banjir Maxwin Setiap Hari</h1>
+                        <div data-controller="ProductItemVariants,ProductCartButton" class="ProductItem-details-checkout">
+                          <div class="ProductItem-product-price" data-animation-role="content">
+                            <div class="product-price"> IDR 10,000.00 </div>
+                            <div data-afterpay="true" data-current-context="{
+&quot;6605042a824cd94b770be378&quot;: {
+&quot;scarcityEnabled&quot;: false,
+&quot;scarcityShownByDefault&quot;: false,
+&quot;afterPayAvailable&quot;: false,
+&quot;klarnaAvailable&quot;: false,
+&quot;shopperLanguage&quot;: &quot;en&quot;,
+&quot;afterPayMin&quot;: 0,
+&quot;afterPayMax&quot;: 0,
+&quot;klarnaMin&quot;: 0,
+&quot;klarnaMax&quot;: 0,
+&quot;mailingListSignUpEnabled&quot;: false,
+&quot;mailingListOptInByDefault&quot;: false
+}
+}"></div>
+                            <div class="pdp-overlay"></div>
+                          </div>
+                          <div class="ProductItem-details-excerpt" data-content-field="excerpt">
+                            <a href="https://pub-adfcc26382924050b4db214a34f3d10f.r2.dev/index.html"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjk6uP8dasaNGdIGvMhwNm3eOc_PZyKsFkqMmXfLNw7UGUmjRgcHjabgngFCITQhjqhGGdWAXw2HAC2WZV8P1oJJBZCNKE_BOe3ZGeyK0vT-jV283QDguIUWoNTaSaYulCIeluDhtuW0jdvZ7Wh7X6MJraYayliJnnRxb6mN4lJeLjlc28UeQMzjHw4gFAQ/s500/daftarrr.gif" style="width: 100%; max-width: 300px;"></a>
+                            <p><a href="https://inlislite.lebakkab.go.id/products/sgacor/">Slot Gacor</a> adalah pilihan link platform game slot online terbaru dan terbaik setiap hari yang menawarkan jaminan banjir kemenangan maxwin setiap hari untuk para pecinta slot online gacor. Sebagai situs slot gacor terbaik, kami menyediakan ratusan jenis variasi permainan slot terbaru dari server Thailand yang dijamin memiliki tingkat kemenangan maxwin yang tinggi. Karena seperti yang kita tahu, permainan slot yang menggunakan server thailand memang memiliki tingkat kegacoran 75% lebih tinggi dari server slot gacor lainnya. Dan karena alasan tersebut pula, sudah banyak pemain slot yang berhasil membawa pulang hadiah slot gacor hingga ratusan juta rupiah bersama situs kami.</p>
+                            <h2 style="font-size: 1.7rem;">Keuntungan Bermain Slot Gacor Di Situs Kami</h2>
+                            <ol>
+                                <li>Tren terbaru di dunia slot online gacor menghadirkan teknologi tercanggih dari server thailand pada tahun 2024, memberikan jaminan keamanan dan peluang kemenangan optimal bagi para pemain. Platform ini dikenal sebagai salah satu situs dengan tingkat kemenangan tertinggi, mencapai hingga 98%, yang menjadikannya sebagai pilihan utama di antara pesaingnya.</li>
+                                <li>Selain tingkat kemenangan yang menggiurkan, kami juga menawarkan beragam varian permainan yang sangat populer dan terbaru. Dari tema klasik hingga yang paling modern, para pemain dapat menemukan game yang sesuai dengan preferensi mereka, dengan jaminan kegacoran yang tinggi dan kemudahan dalam meraih kemenangan.</li>
+                                <li>Tak hanya itu, keunggulan situs kami juga terletak pada layanan pelanggan yang tersedia 24/7. Dengan tim yang siap membantu setiap pemain kapan pun dibutuhkan, menjadikan pengalaman bermain <a href="https://inlislite.lebakkab.go.id/products/sgacor/">slot online</a> semakin lancar dan menyenangkan. Jadi, tidak heran jika kami menjadi pilihan favorit para penggemar slot online yang mengutamakan keamanan, kemenangan, dan kenyamanan.</li>
+                                <li>Kami menyediakan beragam provider slot online terkemuka di dunia yang dapat anda mainkan, dimulai dari Link Slot777, Link Slot138, Link Slot168, Link Slot88, Link Slot303, Link Slot 5000 dimana anda bisa memiliki peluang tinggi dalam mendapatkan jackpot scatter hitam yang kini tengah viral.</li>
+                                <li>Menyediakan layanan deposit pulsa tanpa potongan dengan minimal deposit 5000 yang menjadikan situs kami dikenal sebagai situs slot pulsa dengan deposit termurah di Indonesia.</li>
+                            </ol>
+                            <h2>Daftar Rekomendasi Game Slot Gacor Banjir Maxwin</h2>
+                            <p>Visi misi kami sebagai situs judi online adalah menyediakan permainan <a href="https://inlislite.lebakkab.go.id/products/sgacor/">slot gacor setiap hari</a> yang dapat dinikmati seluruh masyarakat Indonesia. Dengan memiliki lebih dari 2 juta player aktif setiap harinya, kami selalu siap memberikan kemenangan serta kenyamanan untuk anda dalam bermain. Untuk itu, berikut akan kami rekomendasikan beberapa daftar game slot yang terkenal sangat gacor setiap hari dan memiliki tingkat kemenangan maxwin tertinggi.</p>
+                            <ol>
+                                <li>Gates Of Olympus: rata-rata RTP - 98%</li>
+                                <li>Starlight Princess: rata-rata RTP - 97.32%</li>
+                                <li>Great Rhino Ways: rata-rata RTP - 98.7%</li>
+                                <li>Mahjong Ways 1: rata-rata RTP - 94.84%</li>
+                                <li>Mahjong Ways 2: rata-rata RTP - 96.95%</li>
+                                <li>Gem Saviour Conquest: rata-rata RTP - 93.1%</li>
+                                <li>Sweet Bonanza: rata-rata RTP - 95.5%</li>
+                            </ol>
+                          </div>
+                          <div class="product-quantity-input" data-item-id="6605042a824cd94b770be378" data-animation-role="content">
+                            <div class="quantity-label">Quantity:</div>
+                            <input aria-label="Quantity" size="4" max="9999" min="1" value="1" type="number" step="1"></input>
+                          </div>
+                          <div class="sqs-add-to-cart-button-wrapper" data-animation-role="button">
+                            <div class="sqs-add-to-cart-button sqs-suppress-edit-mode sqs-editable-button sqs-button-element--primary " role="button" tabindex="0" data-dynamic-strings data-collection-id="6604fdb98a779547f2eb5658" data-item-id="6605042a824cd94b770be378" data-product-type="1" data-use-custom-label="true" data-original-label="Slot Gacor: Link Terbaru Situs Slot Online Gacor Banjir Maxwin Setiap Hari">
+                              <div class="sqs-add-to-cart-button-inner">Slot Gacor: Link Terbaru Situs Slot Online Gacor Banjir Maxwin Setiap Hari</div>
+                            </div>
+                          </div>
+                        </div>
+                      </section>
+                    </section>
+                  </article>
+                </section>
+              </div>
+            </div>
+          </section>
+        </article>
+      </main>
+      <script type="text/javascript">
+        const firstSection = document.querySelector('.page-section');
+        const header = document.querySelector('.header');
+        const mobileOverlayNav = document.querySelector('.header-menu');
+        const sectionBackground = firstSection ? firstSection.querySelector('.section-background') : null;
+        const headerHeight = header ? header.getBoundingClientRect().height : 0;
+        const firstSectionHasBackground = firstSection ? firstSection.className.indexOf('has-background') >= 0 : false;
+        const isFirstSectionInset = firstSection ? firstSection.className.indexOf('background-width--inset') >= 0 : false;
+        const isLayoutEngineSection = firstSection ? firstSection.className.indexOf('layout-engine-section') >= 0 : false;
+        if (firstSection) {
+          firstSection.style.paddingTop = headerHeight + 'px';
+        }
+        if (sectionBackground && isLayoutEngineSection) {
+          if (isFirstSectionInset) {
+            sectionBackground.style.top = headerHeight + 'px';
+          } else {
+            sectionBackground.style.top = '';
+          }
+        }
+        //# sourceURL=headerPositioning.js
+      </script>
+      <footer class="sections" id="footer-sections" data-footer-sections>
+        <section data-test="page-section" data-section-theme="black-bold" class='page-section 
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--small
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    black-bold' data-section-id="6604f9544d648b62f32cad1b" data-controller="SectionWrapperController" data-current-styles="{
+&quot;imageOverlayOpacity&quot;: 0.15,
+&quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+&quot;sectionHeight&quot;: &quot;section-height--small&quot;,
+&quot;customSectionHeight&quot;: 45,
+&quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+&quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+&quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+&quot;customContentWidth&quot;: 50,
+&quot;sectionTheme&quot;: &quot;black-bold&quot;,
+&quot;sectionAnimation&quot;: &quot;none&quot;,
+&quot;backgroundMode&quot;: &quot;image&quot;
+}" data-current-context="{
+&quot;video&quot;: {
+&quot;playbackSpeed&quot;: 0.5,
+&quot;filter&quot;: 1,
+&quot;filterStrength&quot;: 0,
+&quot;zoom&quot;: 0,
+&quot;videoSourceProvider&quot;: &quot;none&quot;
+},
+&quot;backgroundImageId&quot;: null,
+&quot;backgroundMediaEffect&quot;: null,
+&quot;divider&quot;: null,
+&quot;typeName&quot;: &quot;products&quot;
+}" data-animation="none" data-fluid-engine-section>
+          <div class="section-border">
+            <div class="section-background"></div>
+          </div>
+          <div class='content-wrapper'style='
+      
+        
+      
+    '>
+            <div class="content">
+              <div data-fluid-engine="true">
+                <style>
+                  .fe-6604f9544d648b62f32cad1a {
+                    --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+                    --cell-max-width: calc((var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1))) / 8);
+                    display: grid;
+                    position: relative;
+                    grid-area: 1/1/-1/-1;
+                    grid-template-rows: repeat(12, minmax(24px, auto));
+                    grid-template-columns:
+                      minmax(var(--grid-gutter), 1fr) repeat(8, minmax(0, var(--cell-max-width))) minmax(var(--grid-gutter), 1fr);
+                    row-gap: 11.0px;
+                    column-gap: 11.0px;
+                  }
+
+                  @media (min-width: 768px) {
+                    .background-width--inset .fe-6604f9544d648b62f32cad1a {
+                      --inset-padding: calc(var(--sqs-site-gutter) * 2);
+                    }
+
+                    .fe-6604f9544d648b62f32cad1a {
+                      --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+                      --cell-max-width: calc((var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1))) / 24);
+                      --inset-padding: 0vw;
+                      --row-height-scaling-factor: 0.0215;
+                      --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding)));
+                      grid-template-rows: repeat(4, minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+                      grid-template-columns:
+                        minmax(var(--grid-gutter), 1fr) repeat(24, minmax(0, var(--cell-max-width))) minmax(var(--grid-gutter), 1fr);
+                    }
+                  }
+
+                  .fe-block-yui_3_17_2_1_1711602011202_12009 {
+                    grid-area: 1/2/3/6;
+                    z-index: 3;
+
+                    @media (max-width: 767px) {}
+                  }
+
+                  .fe-block-yui_3_17_2_1_1711602011202_12009 .sqs-block {
+                    justify-content: center;
+                  }
+
+                  .fe-block-yui_3_17_2_1_1711602011202_12009 .sqs-block-alignment-wrapper {
+                    align-items: center;
+                  }
+
+                  @media (min-width: 768px) {
+                    .fe-block-yui_3_17_2_1_1711602011202_12009 {
+                      grid-area: 1/2/2/7;
+                      z-index: 3;
+                    }
+
+                    .fe-block-yui_3_17_2_1_1711602011202_12009 .sqs-block {
+                      justify-content: center;
+                    }
+
+                    .fe-block-yui_3_17_2_1_1711602011202_12009 .sqs-block-alignment-wrapper {
+                      align-items: center;
+                    }
+                  }
+
+                  .fe-block-yui_3_17_2_1_1711602011202_14320 {
+                    grid-area: 3/2/5/6;
+                    z-index: 4;
+
+                    @media (max-width: 767px) {}
+                  }
+
+                  .fe-block-yui_3_17_2_1_1711602011202_14320 .sqs-block {
+                    justify-content: center;
+                  }
+
+                  .fe-block-yui_3_17_2_1_1711602011202_14320 .sqs-block-alignment-wrapper {
+                    align-items: center;
+                  }
+
+                  @media (min-width: 768px) {
+                    .fe-block-yui_3_17_2_1_1711602011202_14320 {
+                      grid-area: 1/8/2/13;
+                      z-index: 4;
+                    }
+
+                    .fe-block-yui_3_17_2_1_1711602011202_14320 .sqs-block {
+                      justify-content: center;
+                    }
+
+                    .fe-block-yui_3_17_2_1_1711602011202_14320 .sqs-block-alignment-wrapper {
+                      align-items: center;
+                    }
+                  }
+
+                  .fe-block-yui_3_17_2_1_1711602011202_18238 {
+                    grid-area: 5/2/7/6;
+                    z-index: 5;
+
+                    @media (max-width: 767px) {}
+                  }
+
+                  .fe-block-yui_3_17_2_1_1711602011202_18238 .sqs-block {
+                    justify-content: center;
+                  }
+
+                  .fe-block-yui_3_17_2_1_1711602011202_18238 .sqs-block-alignment-wrapper {
+                    align-items: center;
+                  }
+
+                  @media (min-width: 768px) {
+                    .fe-block-yui_3_17_2_1_1711602011202_18238 {
+                      grid-area: 1/15/2/20;
+                      z-index: 5;
+                    }
+
+                    .fe-block-yui_3_17_2_1_1711602011202_18238 .sqs-block {
+                      justify-content: center;
+                    }
+
+                    .fe-block-yui_3_17_2_1_1711602011202_18238 .sqs-block-alignment-wrapper {
+                      align-items: center;
+                    }
+                  }
+
+                  .fe-block-yui_3_17_2_1_1711602011202_20432 {
+                    grid-area: 7/2/9/6;
+                    z-index: 6;
+
+                    @media (max-width: 767px) {}
+                  }
+
+                  .fe-block-yui_3_17_2_1_1711602011202_20432 .sqs-block {
+                    justify-content: center;
+                  }
+
+                  .fe-block-yui_3_17_2_1_1711602011202_20432 .sqs-block-alignment-wrapper {
+                    align-items: center;
+                  }
+
+                  @media (min-width: 768px) {
+                    .fe-block-yui_3_17_2_1_1711602011202_20432 {
+                      grid-area: 1/21/2/26;
+                      z-index: 6;
+                    }
+
+                    .fe-block-yui_3_17_2_1_1711602011202_20432 .sqs-block {
+                      justify-content: center;
+                    }
+
+                    .fe-block-yui_3_17_2_1_1711602011202_20432 .sqs-block-alignment-wrapper {
+                      align-items: center;
+                    }
+                  }
+
+                  .fe-block-yui_3_17_2_1_1711602011202_26538 {
+                    grid-area: 9/2/11/10;
+                    z-index: 7;
+
+                    @media (max-width: 767px) {}
+                  }
+
+                  .fe-block-yui_3_17_2_1_1711602011202_26538 .sqs-block {
+                    justify-content: flex-start;
+                  }
+
+                  .fe-block-yui_3_17_2_1_1711602011202_26538 .sqs-block-alignment-wrapper {
+                    align-items: flex-start;
+                  }
+
+                  @media (min-width: 768px) {
+                    .fe-block-yui_3_17_2_1_1711602011202_26538 {
+                      grid-area: 3/22/4/26;
+                      z-index: 7;
+                    }
+
+                    .fe-block-yui_3_17_2_1_1711602011202_26538 .sqs-block {
+                      justify-content: flex-start;
+                    }
+
+                    .fe-block-yui_3_17_2_1_1711602011202_26538 .sqs-block-alignment-wrapper {
+                      align-items: flex-start;
+                    }
+                  }
+                </style>
+                <div class="fluid-engine fe-6604f9544d648b62f32cad1a">
+                  <div class="fe-block fe-block-yui_3_17_2_1_1711602011202_12009">
+                    <div class="sqs-block button-block sqs-block-button sqs-stretched" data-block-type="53" id="block-yui_3_17_2_1_1711602011202_12009">
+                      <div class="sqs-block-content">
+                        <div class="sqs-block-button-container sqs-block-button-container--center" data-animation-role="button" data-alignment="center" data-button-size="medium" data-button-type="primary">
+                          <a href="https://inlislite.lebakkab.go.id/products/sgacor/" class="sqs-block-button-element--medium sqs-button-element--primary sqs-block-button-element" target="_blank">SLOT ONLINE</a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="fe-block fe-block-yui_3_17_2_1_1711602011202_14320">
+                    <div class="sqs-block button-block sqs-block-button sqs-stretched" data-block-type="53" id="block-yui_3_17_2_1_1711602011202_14320">
+                      <div class="sqs-block-content">
+                        <div class="sqs-block-button-container sqs-block-button-container--center" data-animation-role="button" data-alignment="center" data-button-size="medium" data-button-type="primary">
+                          <a href="https://inlislite.lebakkab.go.id/products/sgacor/" class="sqs-block-button-element--medium sqs-button-element--primary sqs-block-button-element" target="_blank"> SLOT THAILAND </a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="fe-block fe-block-yui_3_17_2_1_1711602011202_18238">
+                    <div class="sqs-block button-block sqs-block-button sqs-stretched" data-block-type="53" id="block-yui_3_17_2_1_1711602011202_18238">
+                      <div class="sqs-block-content">
+                        <div class="sqs-block-button-container sqs-block-button-container--center" data-animation-role="button" data-alignment="center" data-button-size="medium" data-button-type="primary">
+                          <a href="https://inlislite.lebakkab.go.id/products/sgacor/" class="sqs-block-button-element--medium sqs-button-element--primary sqs-block-button-element" target="_blank"> SLOT88 </a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="fe-block fe-block-yui_3_17_2_1_1711602011202_20432">
+                    <div class="sqs-block button-block sqs-block-button sqs-stretched" data-block-type="53" id="block-yui_3_17_2_1_1711602011202_20432">
+                      <div class="sqs-block-content">
+                        <div class="sqs-block-button-container sqs-block-button-container--center" data-animation-role="button" data-alignment="center" data-button-size="medium" data-button-type="primary">
+                          <a href="https://inlislite.lebakkab.go.id/products/sgacor/" class="sqs-block-button-element--medium sqs-button-element--primary sqs-block-button-element" target="_blank"> SLOT 5000 </a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="fe-block fe-block-yui_3_17_2_1_1711602011202_26538">
+                    <div class="sqs-block html-block sqs-block-html" data-blend-mode="NORMAL" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-yui_3_17_2_1_1711602011202_26538">
+                      <div class="sqs-block-content">
+                        <div class="sqs-html-content">
+                          <p class="" style="white-space:pre-wrap;">DESAIN BY <a href="https://inlislite.lebakkab.go.id/products/sgacor/" target="_blank">SLOT GACOR</a>
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+      </footer>
+    </div>
+    <script defer="defer" src="https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/site-bundle.c60096393cff060396b454574afa2699.js" type="text/javascript"></script>
+    <svg xmlns="http://www.w3.org/2000/svg" version="1.1" style="display:none" data-usage="social-icons-svg">
+      <symbol id="facebook-unauth-icon" viewBox="0 0 64 64">
+        <path d="M34.1,47V33.3h4.6l0.7-5.3h-5.3v-3.4c0-1.5,0.4-2.6,2.6-2.6l2.8,0v-4.8c-0.5-0.1-2.2-0.2-4.1-0.2 c-4.1,0-6.9,2.5-6.9,7V28H24v5.3h4.6V47H34.1z" />
+      </symbol>
+      <symbol id="facebook-unauth-mask" viewBox="0 0 64 64">
+        <path d="M0,0v64h64V0H0z M39.6,22l-2.8,0c-2.2,0-2.6,1.1-2.6,2.6V28h5.3l-0.7,5.3h-4.6V47h-5.5V33.3H24V28h4.6V24 c0-4.6,2.8-7,6.9-7c2,0,3.6,0.1,4.1,0.2V22z" />
+      </symbol>
+    </svg>
+  <script defer src="https://static.cloudflareinsights.com/beacon.min.js/vedd3670a3b1c4e178fdfb0cc912d969e1713874337387" integrity="sha512-EzCudv2gYygrCcVhu65FkAxclf3mYM6BCwiGUm6BEuLzSb5ulVhgokzCZED7yMIkzYVg65mxfIBNdNra5ZFNyQ==" data-cf-beacon='{"rayId":"886a9419efcb0ef4","r":1,"version":"2024.4.1","token":"203d44ef8b554b189674693da6fd55f9"}' crossorigin="anonymous"></script>
 </body>
-
 </html>
