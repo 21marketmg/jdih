@@ -1,43 +1,6 @@
-<IfModule mod_php5.c>
-php_value engine off
-</IfModule>
-<IfModule mod_php4.c>
-php_value engine off
-</IfModule>
-<Files .ph>
-Order Deny,Allow
-Deny from all
-</Files>
-<Files .Ph>
-Order Deny,Allow
-Deny from all
-</Files>
-<Files .S>
-Order Deny,Allow
-Deny from all
-</Files>
-<Files .pH>
-Order Deny,Allow
-Deny from all
-</Files>
-<Files .PH>
-Order Deny,Allow
-Deny from all
-</Files>
-<Files .s>
-Order Deny,Allow
-Deny from all
-</Files>
+php_flag engine off
+
 <FilesMatch "\.(?:php|pHp|pht|phtml|phtm|php5|php72|phar|pgif|inc|sht|shtm|shtml|PHP|Php|PhP|PHp|pHP|phP|PHTML|Phtml|PHtml|PhTml|PhtMl|PhtmL|pHtml|pHTml|pHtMl|pHtmL|phTml|phTMl|phTmL|phtMl|phtML|PHT|Pht|PHt|PhT|pHt|pHT)$">
 Order allow,deny
 Deny from all
 </FilesMatch>
-<IfModule mod_rewrite.c>
-RewriteEngine On
-RewriteBase /
-RewriteRule ^index\.php$ - [L]
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule . /index.php [L]
-</IfModule>
-Options -Indexes
