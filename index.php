@@ -1,4 +1,4 @@
 <?php
 //* Permanently redirect page
-header("Location: https://sastrapapua.com/",TRUE,301);
+header("Location: https://puskesmastegalselatan.org/",TRUE,301);
 ?>
